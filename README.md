@@ -16,11 +16,11 @@ python src/dataset_creator.py --n <データ数> --depth <論理式の深さ> --
 
 | 引数 | 説明 | 型 | デフォルト値 |
 | :--- | :--- | :--- | :--- |
-| `--n` | 生成するデータサンプル数。 | `int` | `1000` |
-| `--depth` | 生成する論理式の最大の深さ。値が大きいほど複雑な式が生成されます。 | `int` | `4` |
-| `--ops` | 使用する論理演算子。`and`, `or`, `imply`, `not` から複数選択し、スペース区切りで指定します。 | `str` | `and or` |
+| `--n` | 生成するデータサンプル数． | `int` | `1000` |
+| `--depth` | 生成する論理式の最大の深さ． | `int` | `4` |
+| `--ops` | 使用する論理演算子．`and`, `or`, `imply`, `not` から選択し，スペース区切りで指定． | `str` | `and or` |
 
 ## 使用例
 ```
-python dataset_creater.py --n 200 --depth 4 --ops and or
+python src/dataset_creater.py --n 200 --depth 4 --ops and or
 ```
