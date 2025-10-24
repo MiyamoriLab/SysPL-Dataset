@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "J is False, n is True, ¬ ((¬ (¬ (¬ (J))) ∧ ¬ (¬ (¬ (n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is True, l is True, ¬ ((¬ (¬ ((E ∧ l))) ∧ (((l ∧ l) ∧ (E ∧ l)) ∧ ¬ (¬ (E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, m is False, ¬ (¬ (¬ ((¬ (m) ∧ (M ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, ¬ (¬ (¬ (¬ (¬ (Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is False, J is False, (((¬ ((y ∧ J)) ∧ ((y ∧ y) ∧ ¬ (J))) ∧ ¬ (((y ∧ J) ∧ ¬ (y)))) ∧ ¬ (¬ (¬ (¬ (J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, r is False, ((¬ ((¬ (d) ∧ ¬ (r))) ∧ ¬ ((¬ (r) ∧ ¬ (d)))) ∧ (¬ (¬ ((r ∧ r))) ∧ ¬ (((d ∧ r) ∧ ¬ (r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, i is False, ¬ (¬ (¬ (((i ∧ w) ∧ ¬ (w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is True, ¬ (¬ (¬ (¬ (¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, N is False, (¬ (¬ (¬ (¬ (D)))) ∧ ((¬ ((N ∧ D)) ∧ (¬ (D) ∧ (N ∧ N))) ∧ ¬ (¬ ((N ∧ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is False, m is False, (¬ ((((z ∧ m) ∧ (m ∧ z)) ∧ ¬ ((m ∧ z)))) ∧ ¬ (¬ ((¬ (z) ∧ ¬ (z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is False, r is False, (¬ (((¬ (X) ∧ ¬ (r)) ∧ ¬ ((r ∧ X)))) ∧ ((((X ∧ r) ∧ ¬ (r)) ∧ ¬ (¬ (r))) ∧ (¬ (¬ (r)) ∧ ((X ∧ X) ∧ ¬ (X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "u is False, t is True, (¬ (¬ (¬ (¬ (t)))) ∧ ¬ (¬ (((u ∧ t) ∧ ¬ (t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, C is False, ¬ (¬ (((¬ (X) ∧ (C ∧ X)) ∧ ¬ (¬ (C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is False, u is False, ¬ ((¬ ((¬ (B) ∧ (u ∧ B))) ∧ ¬ ((¬ (B) ∧ ¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, a is True, ¬ (¬ (((¬ (I) ∧ (a ∧ I)) ∧ ((I ∧ I) ∧ (I ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is False, i is True, ((¬ ((¬ (i) ∧ ¬ (T))) ∧ (¬ ((i ∧ i)) ∧ (¬ (i) ∧ (T ∧ T)))) ∧ ¬ (¬ ((¬ (i) ∧ (T ∧ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "S is False, u is False, ¬ (¬ (¬ ((¬ (u) ∧ ¬ (S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is True, ¬ (¬ (¬ (¬ (¬ (t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is True, E is False, (¬ ((¬ (¬ (E)) ∧ ¬ ((U ∧ U)))) ∧ (¬ ((¬ (E) ∧ ¬ (E))) ∧ ¬ (¬ ((U ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is False, L is True, ¬ ((¬ (¬ (¬ (L))) ∧ (¬ (¬ (l)) ∧ ¬ ((l ∧ L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, B is False, ¬ ((¬ (¬ (¬ (B))) ∧ (¬ (¬ (j)) ∧ ((j ∧ B) ∧ ¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is False, n is True, ¬ (((¬ ((n ∧ d)) ∧ ((d ∧ d) ∧ ¬ (d))) ∧ ((¬ (d) ∧ (d ∧ n)) ∧ ¬ ((n ∧ d)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, J is False, ¬ (¬ ((¬ ((J ∧ Z)) ∧ (¬ (Z) ∧ (Z ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, t is False, ((¬ (¬ (¬ (e))) ∧ ¬ (¬ (¬ (t)))) ∧ ¬ (¬ (¬ ((t ∧ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, s is True, (¬ ((((s ∧ O) ∧ (s ∧ s)) ∧ (¬ (O) ∧ (s ∧ s)))) ∧ ((¬ ((O ∧ s)) ∧ ¬ ((O ∧ s))) ∧ ¬ (¬ (¬ (s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, f is False, (¬ (¬ (¬ (¬ (f)))) ∧ ¬ ((¬ ((Z ∧ Z)) ∧ ¬ (¬ (f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, q is True, (¬ ((¬ (¬ (q)) ∧ ¬ (¬ (M)))) ∧ ((¬ ((q ∧ q)) ∧ ¬ (¬ (q))) ∧ ¬ (¬ ((q ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is False, E is False, ¬ (((¬ ((E ∧ T)) ∧ (¬ (T) ∧ ¬ (E))) ∧ (¬ ((E ∧ E)) ∧ ¬ (¬ (T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, A is False, ¬ (¬ ((¬ ((A ∧ x)) ∧ (¬ (x) ∧ (A ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is True, S is False, (¬ (¬ (¬ ((s ∧ S)))) ∧ (((¬ (s) ∧ (S ∧ s)) ∧ ¬ ((s ∧ S))) ∧ ¬ (¬ ((S ∧ S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, E is False, ¬ (((¬ (¬ (E)) ∧ ¬ (¬ (L))) ∧ ¬ (¬ (¬ (L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, n is True, ¬ (¬ (¬ ((¬ (n) ∧ ¬ (Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is False, G is False, ¬ (((¬ (¬ (G)) ∧ ¬ (¬ (B))) ∧ ((¬ (B) ∧ ¬ (G)) ∧ (¬ (G) ∧ (G ∧ B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, G is False, (((¬ ((o ∧ G)) ∧ (¬ (G) ∧ ¬ (o))) ∧ (((o ∧ o) ∧ (G ∧ o)) ∧ ¬ ((o ∧ o)))) ∧ ¬ (¬ (¬ ((G ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, b is True, (¬ ((¬ (¬ (e)) ∧ ((b ∧ e) ∧ (e ∧ e)))) ∧ ¬ (¬ ((¬ (b) ∧ ¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is False, V is False, (¬ ((((K ∧ V) ∧ ¬ (K)) ∧ ¬ (¬ (K)))) ∧ ¬ (¬ (¬ (¬ (V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, m is True, ¬ ((¬ (¬ (¬ (f))) ∧ ¬ (¬ ((m ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, I is True, (((¬ (¬ (I)) ∧ (¬ (F) ∧ ¬ (I))) ∧ ((¬ (I) ∧ (F ∧ I)) ∧ ((I ∧ F) ∧ ¬ (F)))) ∧ ((¬ (¬ (F)) ∧ ¬ (¬ (I))) ∧ (((F ∧ F) ∧ ¬ (I)) ∧ (¬ (F) ∧ (F ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, m is True, (¬ (((¬ (m) ∧ ¬ (q)) ∧ ¬ (¬ (m)))) ∧ ¬ ((((m ∧ q) ∧ ¬ (q)) ∧ ¬ ((q ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, N is False, ¬ (¬ ((¬ (¬ (k)) ∧ (¬ (N) ∧ (N ∧ k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is False, b is True, (¬ ((¬ ((b ∧ d)) ∧ ¬ (¬ (d)))) ∧ ((¬ (¬ (d)) ∧ ¬ ((d ∧ b))) ∧ ¬ (¬ (¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is True, t is True, ((¬ ((¬ (t) ∧ ¬ (G))) ∧ (((t ∧ G) ∧ (G ∧ G)) ∧ (¬ (G) ∧ ¬ (t)))) ∧ ¬ (¬ (¬ (¬ (t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is False, T is True, ((((¬ (T) ∧ (k ∧ k)) ∧ ¬ ((T ∧ k))) ∧ ¬ (((T ∧ T) ∧ ¬ (k)))) ∧ (¬ ((¬ (T) ∧ (T ∧ k))) ∧ ¬ (¬ (¬ (T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, P is True, ¬ (¬ ((((X ∧ P) ∧ ¬ (P)) ∧ ¬ ((X ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is False, I is False, (¬ (¬ ((¬ (Y) ∧ ¬ (I)))) ∧ ¬ (¬ ((¬ (Y) ∧ (Y ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is True, d is False, ¬ (¬ ((¬ ((d ∧ P)) ∧ ((d ∧ P) ∧ (d ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is True, O is False, (¬ (¬ (¬ ((U ∧ O)))) ∧ ¬ ((¬ (¬ (U)) ∧ (¬ (O) ∧ ¬ (O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is False, l is False, ((¬ (¬ ((e ∧ l))) ∧ (¬ (¬ (e)) ∧ (¬ (e) ∧ (l ∧ l)))) ∧ ¬ ((((l ∧ e) ∧ (e ∧ e)) ∧ ¬ ((l ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, r is True, ¬ (((¬ ((r ∧ O)) ∧ ((O ∧ O) ∧ ¬ (O))) ∧ (¬ ((r ∧ r)) ∧ (¬ (O) ∧ (O ∧ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Y is False, a is True, ¬ ((¬ (¬ ((Y ∧ a))) ∧ ¬ (((Y ∧ Y) ∧ ¬ (a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is True, Y is True, ¬ (¬ ((¬ (¬ (F)) ∧ ¬ (¬ (Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, E is False, ¬ (¬ (¬ ((¬ (T) ∧ (E ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, D is False, (¬ (((¬ (D) ∧ ¬ (k)) ∧ (¬ (k) ∧ ¬ (D)))) ∧ (¬ ((¬ (k) ∧ ¬ (D))) ∧ ¬ (¬ (¬ (D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "g is False, v is True, ¬ ((¬ ((¬ (v) ∧ ¬ (g))) ∧ ¬ (((v ∧ v) ∧ (g ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is False, r is False, ¬ ((((¬ (E) ∧ (r ∧ E)) ∧ ((r ∧ r) ∧ ¬ (E))) ∧ ((¬ (E) ∧ (E ∧ r)) ∧ ((r ∧ E) ∧ (r ∧ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, j is False, (¬ (¬ (¬ (¬ (x)))) ∧ ¬ (¬ (¬ (¬ (j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, d is True, ((¬ ((¬ (v) ∧ ¬ (d))) ∧ (((v ∧ d) ∧ ¬ (v)) ∧ ¬ ((v ∧ v)))) ∧ (¬ (¬ (¬ (v))) ∧ ¬ (¬ ((v ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, Y is True, ((¬ (¬ ((v ∧ Y))) ∧ ¬ (((v ∧ v) ∧ (v ∧ Y)))) ∧ ¬ ((¬ ((Y ∧ Y)) ∧ ¬ (¬ (Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is False, A is True, (¬ ((((A ∧ i) ∧ ¬ (i)) ∧ ¬ ((i ∧ A)))) ∧ ¬ (¬ ((¬ (A) ∧ (A ∧ A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, y is True, ¬ (¬ ((¬ (¬ (M)) ∧ (¬ (y) ∧ (M ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, g is False, ((¬ ((¬ (g) ∧ ¬ (q))) ∧ ¬ (((q ∧ g) ∧ (g ∧ q)))) ∧ (((¬ (q) ∧ ¬ (q)) ∧ (¬ (g) ∧ (g ∧ q))) ∧ ¬ (¬ (¬ (g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, g is True, (¬ ((((o ∧ g) ∧ (o ∧ g)) ∧ (¬ (o) ∧ ¬ (g)))) ∧ ¬ ((¬ ((o ∧ o)) ∧ ¬ ((o ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, E is False, ¬ (¬ (((¬ (y) ∧ (E ∧ y)) ∧ ¬ (¬ (E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is True, I is True, ¬ (¬ (¬ (((I ∧ T) ∧ ¬ (I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, Z is True, (¬ ((¬ (¬ (Z)) ∧ (¬ (n) ∧ (n ∧ n)))) ∧ (((¬ (Z) ∧ (Z ∧ n)) ∧ (¬ (Z) ∧ (Z ∧ Z))) ∧ ((¬ (Z) ∧ ¬ (n)) ∧ ¬ ((Z ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "j is False, C is False, ¬ (¬ ((((j ∧ C) ∧ (j ∧ j)) ∧ ((j ∧ C) ∧ ¬ (C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, B is True, (((¬ ((B ∧ H)) ∧ ((H ∧ B) ∧ ¬ (B))) ∧ ¬ ((¬ (H) ∧ (H ∧ H)))) ∧ ¬ (¬ (¬ (¬ (H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is True, t is True, (¬ ((¬ ((t ∧ W)) ∧ ((W ∧ W) ∧ ¬ (t)))) ∧ (¬ (¬ ((t ∧ t))) ∧ ¬ (((t ∧ t) ∧ (W ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, C is True, (¬ (¬ (((k ∧ C) ∧ (k ∧ C)))) ∧ ((((C ∧ C) ∧ (C ∧ k)) ∧ ((C ∧ C) ∧ ¬ (C))) ∧ ¬ (¬ ((k ∧ C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "p is False, B is False, (¬ (¬ ((¬ (B) ∧ (p ∧ B)))) ∧ ((¬ (¬ (B)) ∧ ((p ∧ p) ∧ (p ∧ p))) ∧ (((p ∧ p) ∧ (B ∧ B)) ∧ ¬ ((B ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, G is False, ¬ (((((q ∧ G) ∧ ¬ (G)) ∧ ¬ ((G ∧ G))) ∧ (((G ∧ G) ∧ (G ∧ q)) ∧ ((q ∧ G) ∧ (q ∧ q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, L is True, (((((L ∧ B) ∧ (L ∧ L)) ∧ ¬ (¬ (L))) ∧ ¬ (¬ (¬ (L)))) ∧ ((¬ ((B ∧ B)) ∧ ¬ ((B ∧ B))) ∧ ¬ (((B ∧ L) ∧ (B ∧ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "p is False, M is False, ¬ ((¬ (¬ (¬ (p))) ∧ ¬ ((¬ (M) ∧ ¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, E is False, (((((E ∧ n) ∧ (E ∧ n)) ∧ ((n ∧ n) ∧ ¬ (E))) ∧ (¬ ((n ∧ E)) ∧ (¬ (n) ∧ (n ∧ n)))) ∧ ¬ (¬ (¬ (¬ (E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is False, n is True, ¬ (¬ ((¬ ((n ∧ E)) ∧ ¬ ((E ∧ n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is False, G is False, ¬ ((¬ (¬ (¬ (G))) ∧ ¬ (((y ∧ G) ∧ ¬ (G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, J is True, ¬ (((¬ ((D ∧ J)) ∧ ¬ (¬ (J))) ∧ (¬ (¬ (J)) ∧ ((J ∧ D) ∧ (D ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, J is False, (¬ (¬ (((h ∧ J) ∧ ¬ (h)))) ∧ ¬ (((¬ (h) ∧ (h ∧ J)) ∧ ((J ∧ J) ∧ ¬ (h)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, j is True, (¬ (¬ ((¬ (j) ∧ (R ∧ j)))) ∧ (¬ (¬ (¬ (R))) ∧ (¬ ((R ∧ R)) ∧ (¬ (j) ∧ (R ∧ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, u is True, ((¬ (¬ ((u ∧ H))) ∧ ¬ ((¬ (H) ∧ ¬ (H)))) ∧ ¬ (¬ ((¬ (u) ∧ (H ∧ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, r is False, ¬ ((¬ (((M ∧ r) ∧ ¬ (M))) ∧ ¬ (((M ∧ M) ∧ ¬ (M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is False, a is False, (((((a ∧ Y) ∧ ¬ (Y)) ∧ (¬ (Y) ∧ (Y ∧ Y))) ∧ (¬ (¬ (a)) ∧ (¬ (Y) ∧ ¬ (Y)))) ∧ ((¬ ((a ∧ a)) ∧ ¬ ((a ∧ a))) ∧ ¬ (¬ (¬ (Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, V is False, ¬ (((¬ (¬ (V)) ∧ (¬ (O) ∧ (V ∧ O))) ∧ ¬ (((O ∧ O) ∧ ¬ (O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, v is True, ¬ ((¬ ((¬ (Z) ∧ (v ∧ v))) ∧ ¬ ((¬ (v) ∧ (Z ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is False, P is True, ¬ (¬ (¬ ((¬ (Y) ∧ (P ∧ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "s is True, ¬ (¬ (¬ (¬ (¬ (s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is False, p is True, ¬ (((¬ (¬ (p)) ∧ (¬ (s) ∧ (s ∧ p))) ∧ ¬ ((¬ (s) ∧ (s ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "L is False, r is True, ¬ (¬ (¬ (¬ ((r ∧ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, s is True, ¬ (((¬ ((s ∧ v)) ∧ ¬ (¬ (v))) ∧ (((v ∧ s) ∧ ¬ (v)) ∧ ((v ∧ s) ∧ (v ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "O is False, K is True, (((¬ ((O ∧ K)) ∧ ¬ ((K ∧ K))) ∧ ¬ (¬ ((O ∧ K)))) ∧ (¬ ((¬ (O) ∧ (K ∧ K))) ∧ ((¬ (K) ∧ ¬ (K)) ∧ ¬ ((O ∧ K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, u is False, ¬ ((¬ (¬ (¬ (u))) ∧ (¬ (¬ (f)) ∧ ¬ (¬ (f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, m is False, ¬ ((¬ ((¬ (m) ∧ ¬ (i))) ∧ ¬ ((¬ (i) ∧ (m ∧ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, Q is False, ¬ (¬ ((¬ ((E ∧ Q)) ∧ ¬ ((E ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, a is False, (((¬ (¬ (a)) ∧ ¬ (¬ (y))) ∧ (¬ (¬ (a)) ∧ (¬ (y) ∧ ¬ (y)))) ∧ (((¬ (y) ∧ ¬ (a)) ∧ ¬ ((y ∧ y))) ∧ ¬ (((y ∧ y) ∧ (a ∧ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, V is True, ¬ (¬ ((¬ (¬ (V)) ∧ (¬ (M) ∧ ¬ (M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, P is False, ¬ (¬ (¬ (¬ ((P ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, q is True, ¬ (¬ ((¬ ((q ∧ F)) ∧ (¬ (q) ∧ ¬ (q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, m is False, ((¬ (¬ ((m ∧ F))) ∧ (¬ (¬ (F)) ∧ ((F ∧ m) ∧ (m ∧ m)))) ∧ ¬ (¬ (¬ (¬ (m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, O is True, ¬ (¬ (¬ (¬ ((O ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, V is False, ¬ (((¬ ((V ∧ e)) ∧ ¬ ((V ∧ V))) ∧ (¬ ((V ∧ V)) ∧ (¬ (V) ∧ ¬ (V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, ¬ (¬ (¬ (¬ (¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is False, C is True, ¬ (¬ (¬ (¬ ((C ∧ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, G is True, ((((¬ (F) ∧ (G ∧ G)) ∧ ¬ (¬ (F))) ∧ ¬ (¬ (¬ (F)))) ∧ ¬ (((¬ (G) ∧ ¬ (F)) ∧ (¬ (F) ∧ ¬ (F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, Q is True, (¬ ((¬ (¬ (Q)) ∧ ¬ (¬ (E)))) ∧ ¬ (¬ (((E ∧ Q) ∧ (E ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, ¬ (¬ (¬ (¬ (¬ (D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, n is True, ((¬ (¬ (¬ (n))) ∧ (¬ (¬ (v)) ∧ ¬ ((n ∧ n)))) ∧ ¬ (((¬ (n) ∧ ¬ (v)) ∧ ¬ ((n ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, u is True, (((((u ∧ D) ∧ (D ∧ u)) ∧ ((u ∧ D) ∧ (D ∧ D))) ∧ ¬ ((¬ (D) ∧ (D ∧ u)))) ∧ ((¬ ((D ∧ u)) ∧ ¬ (¬ (u))) ∧ ¬ (¬ (¬ (D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, y is False, (¬ (¬ (((y ∧ O) ∧ ¬ (y)))) ∧ (¬ ((¬ (O) ∧ ¬ (O))) ∧ ((¬ (y) ∧ ¬ (O)) ∧ ¬ (¬ (y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, q is True, ¬ (¬ (¬ (((m ∧ q) ∧ ¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, w is True, (((¬ (¬ (v)) ∧ ¬ (¬ (w))) ∧ ¬ (¬ ((v ∧ w)))) ∧ (¬ (((v ∧ w) ∧ ¬ (w))) ∧ ¬ (((v ∧ w) ∧ ¬ (v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, W is True, ¬ ((¬ ((¬ (v) ∧ (W ∧ v))) ∧ ¬ (¬ ((W ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, H is True, (¬ ((((M ∧ H) ∧ (H ∧ H)) ∧ ¬ ((M ∧ H)))) ∧ ¬ (¬ (¬ (¬ (H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, s is True, ¬ (¬ ((¬ ((s ∧ v)) ∧ ¬ ((v ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "u is False, d is False, ¬ (¬ ((((u ∧ d) ∧ ¬ (d)) ∧ ((d ∧ d) ∧ (d ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, q is True, ((¬ (¬ (¬ (q))) ∧ ¬ (¬ (¬ (f)))) ∧ ((((f ∧ q) ∧ (f ∧ q)) ∧ ((f ∧ q) ∧ ¬ (q))) ∧ ¬ (¬ ((f ∧ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, O is False, (¬ (¬ (¬ (¬ (O)))) ∧ ¬ (¬ (((F ∧ O) ∧ (F ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, g is False, (¬ (¬ ((¬ (g) ∧ (b ∧ b)))) ∧ (((¬ (b) ∧ ¬ (b)) ∧ (¬ (g) ∧ ¬ (b))) ∧ (¬ ((b ∧ b)) ∧ ((b ∧ b) ∧ (b ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, A is False, ¬ (¬ (¬ (((v ∧ A) ∧ (A ∧ A)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, M is True, (¬ (¬ (((M ∧ k) ∧ ¬ (M)))) ∧ ¬ (¬ (¬ (¬ (k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is True, n is True, (¬ (¬ (((a ∧ n) ∧ ¬ (a)))) ∧ ¬ (¬ (((n ∧ n) ∧ (n ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is False, Q is True, (¬ (¬ (((Q ∧ B) ∧ (B ∧ Q)))) ∧ ((¬ (¬ (Q)) ∧ (¬ (Q) ∧ (Q ∧ B))) ∧ (((B ∧ Q) ∧ ¬ (B)) ∧ ((B ∧ B) ∧ (B ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "x is False, E is False, ¬ ((¬ (((E ∧ x) ∧ ¬ (E))) ∧ (¬ ((x ∧ E)) ∧ ¬ ((x ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "j is False, W is True, ((¬ (¬ (¬ (j))) ∧ (((W ∧ W) ∧ (j ∧ j)) ∧ ¬ (¬ (j)))) ∧ ((¬ (¬ (W)) ∧ ¬ ((W ∧ W))) ∧ ¬ ((¬ (W) ∧ ¬ (W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "x is False, i is True, ((¬ (((x ∧ i) ∧ (x ∧ x))) ∧ (¬ ((x ∧ i)) ∧ ¬ (¬ (i)))) ∧ (¬ ((¬ (x) ∧ ¬ (x))) ∧ ¬ ((¬ (i) ∧ ¬ (i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, e is False, ¬ (¬ (((¬ (e) ∧ ¬ (M)) ∧ ((M ∧ e) ∧ ¬ (e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, S is False, ¬ (¬ (¬ ((¬ (S) ∧ ¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, M is True, ¬ (¬ (¬ ((¬ (H) ∧ ¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, y is True, ((¬ (((o ∧ y) ∧ ¬ (y))) ∧ (¬ (¬ (o)) ∧ (¬ (o) ∧ ¬ (y)))) ∧ ¬ ((¬ ((y ∧ y)) ∧ ((y ∧ y) ∧ (o ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, n is True, ((¬ (((n ∧ R) ∧ (R ∧ R))) ∧ ¬ (¬ (¬ (n)))) ∧ (¬ ((¬ (n) ∧ ¬ (n))) ∧ ¬ (((n ∧ R) ∧ (R ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, t is True, ((((¬ (Z) ∧ (t ∧ Z)) ∧ (¬ (Z) ∧ (Z ∧ Z))) ∧ (¬ (¬ (Z)) ∧ (¬ (t) ∧ (Z ∧ t)))) ∧ (¬ ((¬ (t) ∧ (Z ∧ Z))) ∧ (¬ ((t ∧ Z)) ∧ (¬ (t) ∧ ¬ (t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, z is False, (¬ (¬ (((y ∧ z) ∧ ¬ (y)))) ∧ ¬ ((¬ (¬ (y)) ∧ (¬ (y) ∧ ¬ (z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, T is True, ¬ (¬ (¬ (((f ∧ T) ∧ ¬ (T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, z is False, (¬ (¬ ((¬ (z) ∧ (x ∧ x)))) ∧ ¬ (¬ (¬ (¬ (x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, I is False, ¬ (((¬ (¬ (D)) ∧ ((I ∧ D) ∧ ¬ (D))) ∧ ¬ (¬ (¬ (D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Y is True, I is True, ¬ (¬ (¬ ((¬ (Y) ∧ (I ∧ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, o is False, ((¬ (((q ∧ o) ∧ ¬ (o))) ∧ ¬ (((o ∧ q) ∧ ¬ (o)))) ∧ ¬ ((¬ ((o ∧ q)) ∧ ¬ ((q ∧ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, h is False, ¬ (((((l ∧ h) ∧ ¬ (h)) ∧ (¬ (h) ∧ ¬ (h))) ∧ ¬ (¬ ((l ∧ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, T is True, ¬ (¬ (¬ ((¬ (T) ∧ ¬ (R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is True, o is True, ¬ ((¬ (¬ ((X ∧ o))) ∧ (((o ∧ o) ∧ ¬ (X)) ∧ (¬ (o) ∧ ¬ (o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Y is True, e is False, ¬ ((¬ ((¬ (e) ∧ ¬ (Y))) ∧ (¬ (¬ (Y)) ∧ ((e ∧ Y) ∧ (Y ∧ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, f is False, ¬ ((¬ (¬ ((f ∧ o))) ∧ (¬ ((f ∧ o)) ∧ ¬ ((f ∧ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is True, B is False, ¬ ((¬ (¬ (¬ (B))) ∧ (¬ (¬ (X)) ∧ ¬ (¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, l is False, (¬ ((¬ ((T ∧ l)) ∧ ((T ∧ l) ∧ ¬ (T)))) ∧ (¬ (((l ∧ T) ∧ (T ∧ l))) ∧ ¬ (¬ (¬ (T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, W is False, ¬ ((¬ ((¬ (P) ∧ ¬ (W))) ∧ ((¬ (P) ∧ (W ∧ P)) ∧ ((P ∧ W) ∧ (W ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, I is False, ¬ (¬ (((¬ (H) ∧ (I ∧ I)) ∧ (¬ (H) ∧ ¬ (I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is False, c is False, ((¬ (¬ ((c ∧ K))) ∧ (¬ (¬ (K)) ∧ ¬ ((c ∧ c)))) ∧ ((¬ ((c ∧ K)) ∧ ((K ∧ K) ∧ ¬ (c))) ∧ ¬ (((K ∧ c) ∧ (c ∧ c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, t is True, (¬ (¬ (¬ (¬ (t)))) ∧ ¬ (¬ (¬ ((Z ∧ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, Y is False, (((¬ (¬ (k)) ∧ ¬ ((Y ∧ Y))) ∧ ¬ (¬ (¬ (k)))) ∧ ¬ (((¬ (k) ∧ (Y ∧ k)) ∧ (¬ (k) ∧ ¬ (Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is True, b is True, ¬ (¬ ((((b ∧ O) ∧ ¬ (b)) ∧ ¬ (¬ (O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, M is True, (¬ ((((U ∧ M) ∧ (M ∧ M)) ∧ ¬ (¬ (U)))) ∧ ¬ ((¬ ((U ∧ U)) ∧ ¬ ((U ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, d is True, (¬ (¬ (¬ (¬ (o)))) ∧ (¬ (¬ ((d ∧ d))) ∧ ((¬ (d) ∧ (o ∧ d)) ∧ ¬ (¬ (d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, H is True, (¬ (¬ ((¬ (H) ∧ ¬ (v)))) ∧ ¬ (¬ (¬ ((v ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, j is False, (¬ ((¬ (¬ (j)) ∧ ((m ∧ j) ∧ ¬ (m)))) ∧ ((¬ ((m ∧ j)) ∧ ((j ∧ j) ∧ (j ∧ m))) ∧ ¬ ((¬ (m) ∧ (j ∧ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, O is False, ¬ ((((¬ (E) ∧ (O ∧ O)) ∧ (¬ (E) ∧ ¬ (E))) ∧ (((O ∧ E) ∧ ¬ (E)) ∧ ¬ ((E ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, u is False, ¬ ((((¬ (u) ∧ ¬ (R)) ∧ (¬ (R) ∧ ¬ (R))) ∧ ¬ (((u ∧ R) ∧ ¬ (R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, i is True, ¬ (((¬ ((P ∧ i)) ∧ ((i ∧ i) ∧ (i ∧ i))) ∧ ((¬ (P) ∧ (i ∧ P)) ∧ ¬ ((i ∧ i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is True, O is False, ((¬ (¬ ((M ∧ O))) ∧ ¬ (¬ ((O ∧ O)))) ∧ ¬ ((((M ∧ O) ∧ ¬ (O)) ∧ (¬ (O) ∧ ¬ (O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, a is False, ((((¬ (a) ∧ (X ∧ a)) ∧ ¬ ((a ∧ a))) ∧ (¬ ((X ∧ a)) ∧ ¬ ((X ∧ a)))) ∧ ((¬ ((X ∧ X)) ∧ ((X ∧ X) ∧ ¬ (X))) ∧ (((a ∧ a) ∧ ¬ (X)) ∧ ¬ ((X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "S is False, b is True, ((¬ (¬ ((b ∧ S))) ∧ ¬ (((b ∧ S) ∧ (S ∧ S)))) ∧ ¬ (¬ ((¬ (b) ∧ (b ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is True, l is False, ¬ (((¬ ((Y ∧ l)) ∧ (¬ (Y) ∧ (l ∧ l))) ∧ ¬ (¬ ((Y ∧ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, S is True, (¬ (¬ ((¬ (S) ∧ ¬ (c)))) ∧ ¬ (¬ (¬ (¬ (S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is True, I is True, ((¬ (¬ ((I ∧ o))) ∧ (((o ∧ o) ∧ (o ∧ I)) ∧ ¬ (¬ (I)))) ∧ ((¬ ((o ∧ I)) ∧ ¬ ((I ∧ o))) ∧ (¬ (¬ (o)) ∧ ¬ ((I ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is True, y is False, ((¬ (¬ ((o ∧ y))) ∧ ¬ (¬ (¬ (o)))) ∧ (((¬ (o) ∧ (y ∧ o)) ∧ ¬ ((y ∧ o))) ∧ ¬ ((¬ (o) ∧ ¬ (y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, i is True, ¬ (¬ (¬ (¬ ((N ∧ i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "C is True, g is True, (¬ (¬ (((g ∧ C) ∧ (g ∧ C)))) ∧ ¬ ((¬ (¬ (C)) ∧ ¬ ((g ∧ C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Y is True, u is False, (((¬ (¬ (u)) ∧ ((Y ∧ Y) ∧ ¬ (Y))) ∧ (¬ ((u ∧ Y)) ∧ ¬ ((u ∧ u)))) ∧ (((¬ (u) ∧ ¬ (u)) ∧ ((Y ∧ Y) ∧ (Y ∧ Y))) ∧ ((¬ (Y) ∧ ¬ (Y)) ∧ ¬ (¬ (Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, P is True, (¬ (¬ (¬ (¬ (P)))) ∧ (¬ (¬ (¬ (f))) ∧ (¬ ((P ∧ P)) ∧ ¬ ((f ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is True, b is True, ¬ ((¬ (((O ∧ b) ∧ ¬ (O))) ∧ ¬ (((b ∧ O) ∧ ¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is True, M is False, ¬ (¬ ((((T ∧ M) ∧ ¬ (T)) ∧ (¬ (M) ∧ ¬ (T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, s is True, ¬ (((¬ (¬ (s)) ∧ (¬ (U) ∧ (U ∧ s))) ∧ (¬ (¬ (s)) ∧ (¬ (U) ∧ (U ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is True, z is True, (¬ (¬ (¬ (¬ (y)))) ∧ ¬ (((¬ (z) ∧ (y ∧ z)) ∧ ((y ∧ z) ∧ (z ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, o is True, ((¬ (((v ∧ o) ∧ (v ∧ v))) ∧ (((o ∧ v) ∧ ¬ (o)) ∧ ((o ∧ v) ∧ (v ∧ o)))) ∧ ((¬ ((o ∧ v)) ∧ ¬ (¬ (v))) ∧ (¬ (¬ (v)) ∧ ¬ ((v ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is True, G is False, (¬ ((¬ (¬ (G)) ∧ ¬ (¬ (s)))) ∧ (¬ (((s ∧ G) ∧ ¬ (s))) ∧ (((G ∧ G) ∧ ¬ (s)) ∧ (¬ (s) ∧ (G ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, w is False, ¬ (¬ (¬ (¬ ((w ∧ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, J is False, ((¬ ((¬ (i) ∧ ¬ (J))) ∧ (¬ (¬ (J)) ∧ ¬ (¬ (i)))) ∧ ¬ (((¬ (J) ∧ (J ∧ J)) ∧ ¬ (¬ (i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, c is True, ¬ (¬ (¬ (((c ∧ y) ∧ ¬ (c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, K is False, ((((¬ (e) ∧ ¬ (K)) ∧ (¬ (K) ∧ (K ∧ K))) ∧ ¬ (¬ (¬ (e)))) ∧ ¬ ((((e ∧ e) ∧ (K ∧ K)) ∧ (¬ (e) ∧ ¬ (e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, d is False, (¬ ((((M ∧ d) ∧ (d ∧ M)) ∧ ¬ ((d ∧ M)))) ∧ (¬ ((¬ (d) ∧ (M ∧ d))) ∧ ¬ (((M ∧ d) ∧ ¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, a is False, (((¬ (¬ (a)) ∧ (¬ (U) ∧ (U ∧ a))) ∧ ¬ (((U ∧ U) ∧ (U ∧ a)))) ∧ (((¬ (U) ∧ ¬ (a)) ∧ (¬ (a) ∧ ¬ (a))) ∧ ¬ (¬ ((U ∧ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, b is True, ¬ (¬ ((¬ (¬ (P)) ∧ ((b ∧ P) ∧ ¬ (P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, Q is False, ¬ ((¬ (¬ (¬ (n))) ∧ ¬ (((Q ∧ n) ∧ (Q ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "J is False, S is True, ¬ ((¬ (¬ ((S ∧ J))) ∧ ¬ ((¬ (J) ∧ (J ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, O is False, ¬ (((¬ ((R ∧ O)) ∧ (¬ (R) ∧ ¬ (O))) ∧ (¬ (¬ (O)) ∧ ¬ ((R ∧ O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, x is True, (((¬ ((x ∧ q)) ∧ ¬ (¬ (q))) ∧ ¬ ((¬ (x) ∧ ¬ (q)))) ∧ ((((x ∧ x) ∧ ¬ (q)) ∧ ¬ (¬ (q))) ∧ ¬ (¬ ((q ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, i is False, ¬ (((¬ ((H ∧ i)) ∧ (¬ (H) ∧ (H ∧ i))) ∧ ¬ (¬ ((H ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, z is False, ¬ (¬ (((¬ (g) ∧ (z ∧ g)) ∧ ((g ∧ z) ∧ (z ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, e is False, ¬ (((((L ∧ e) ∧ (L ∧ e)) ∧ ¬ ((L ∧ e))) ∧ (((e ∧ e) ∧ (e ∧ L)) ∧ ¬ (¬ (L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, Q is True, ¬ (((¬ (¬ (Q)) ∧ ¬ ((N ∧ N))) ∧ (¬ (¬ (N)) ∧ ¬ (¬ (Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, y is True, (¬ ((¬ (¬ (h)) ∧ ¬ ((y ∧ h)))) ∧ ¬ (¬ (¬ (¬ (y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "L is False, n is True, (((¬ (¬ (n)) ∧ (¬ (L) ∧ (L ∧ n))) ∧ ((¬ (L) ∧ ¬ (L)) ∧ ((L ∧ L) ∧ ¬ (L)))) ∧ (¬ (¬ (¬ (n))) ∧ ¬ (¬ (¬ (n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is True, t is True, (¬ ((((t ∧ n) ∧ ¬ (n)) ∧ ¬ (¬ (t)))) ∧ (¬ (¬ ((n ∧ t))) ∧ ¬ (((t ∧ n) ∧ (t ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, Z is False, ¬ (¬ (¬ (¬ ((H ∧ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, h is False, ¬ ((¬ (((X ∧ h) ∧ (h ∧ X))) ∧ ¬ ((¬ (X) ∧ ¬ (X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, m is False, ¬ (¬ ((¬ (¬ (U)) ∧ (¬ (m) ∧ ¬ (U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is False, t is False, (¬ (¬ ((¬ (t) ∧ (Y ∧ t)))) ∧ ¬ (¬ (¬ ((t ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "x is True, W is False, ¬ (¬ (¬ ((¬ (x) ∧ ¬ (W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, d is True, ¬ (((((n ∧ d) ∧ ¬ (n)) ∧ ((d ∧ d) ∧ (n ∧ d))) ∧ ¬ (((d ∧ d) ∧ ¬ (d)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, J is False, ((((¬ (J) ∧ ¬ (F)) ∧ (¬ (F) ∧ ¬ (J))) ∧ (((J ∧ F) ∧ (J ∧ J)) ∧ ¬ (¬ (F)))) ∧ ¬ (¬ ((¬ (J) ∧ (J ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is True, K is True, (¬ (¬ ((¬ (K) ∧ ¬ (Y)))) ∧ ¬ (¬ (¬ ((Y ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is True, ¬ (¬ (¬ (¬ (¬ (U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, s is True, ¬ (¬ (¬ (((s ∧ X) ∧ ¬ (s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, ¬ (¬ (¬ (¬ (¬ (I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, T is False, ((¬ (((H ∧ T) ∧ ¬ (H))) ∧ ¬ (((T ∧ T) ∧ ¬ (T)))) ∧ ((¬ (¬ (T)) ∧ ¬ (¬ (T))) ∧ ¬ (((T ∧ H) ∧ (T ∧ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is False, q is True, ¬ (((¬ ((q ∧ z)) ∧ ¬ ((z ∧ q))) ∧ ¬ (¬ ((z ∧ q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, g is False, ((¬ (¬ (¬ (g))) ∧ (((R ∧ g) ∧ ¬ (R)) ∧ ¬ ((g ∧ g)))) ∧ ((¬ (¬ (g)) ∧ (¬ (g) ∧ ¬ (R))) ∧ ¬ (¬ (¬ (g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is False, y is True, ¬ (¬ ((¬ ((K ∧ y)) ∧ ¬ (¬ (K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, l is False, ¬ ((((¬ (l) ∧ ¬ (e)) ∧ ¬ ((l ∧ l))) ∧ ¬ (¬ (¬ (e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, y is False, ¬ (¬ (((¬ (l) ∧ ¬ (y)) ∧ (¬ (y) ∧ (l ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, g is False, (¬ ((¬ (¬ (n)) ∧ ((g ∧ g) ∧ ¬ (n)))) ∧ ¬ (¬ ((¬ (g) ∧ ¬ (n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is False, t is False, (¬ (¬ (¬ ((t ∧ x)))) ∧ ((((x ∧ x) ∧ ¬ (x)) ∧ (¬ (t) ∧ ¬ (t))) ∧ ((¬ (t) ∧ ¬ (x)) ∧ ¬ ((x ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is True, Q is True, ¬ ((¬ ((¬ (T) ∧ ¬ (Q))) ∧ ¬ (¬ ((Q ∧ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, y is False, ((¬ ((¬ (y) ∧ (F ∧ F))) ∧ (¬ ((y ∧ F)) ∧ ((F ∧ F) ∧ (y ∧ y)))) ∧ ¬ (¬ (¬ ((y ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, j is True, ¬ ((((¬ (j) ∧ (L ∧ j)) ∧ ((j ∧ j) ∧ (L ∧ L))) ∧ (((L ∧ j) ∧ (j ∧ L)) ∧ ((j ∧ L) ∧ ¬ (j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is True, Y is True, (¬ (¬ (¬ (¬ (Y)))) ∧ ¬ (¬ (((M ∧ Y) ∧ (Y ∧ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, u is False, ((¬ ((¬ (R) ∧ ¬ (u))) ∧ (¬ ((R ∧ R)) ∧ ((R ∧ R) ∧ ¬ (R)))) ∧ ¬ (¬ ((¬ (u) ∧ ¬ (u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "V is True, m is False, ¬ (¬ (¬ ((¬ (V) ∧ ¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, z is True, (¬ (¬ (¬ (¬ (z)))) ∧ ¬ (¬ ((¬ (Z) ∧ (z ∧ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Q is True, z is False, ¬ (¬ ((((Q ∧ z) ∧ (Q ∧ Q)) ∧ ¬ ((Q ∧ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, z is False, ¬ (¬ (¬ ((¬ (z) ∧ ¬ (l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, P is False, ((((¬ (P) ∧ (k ∧ P)) ∧ ¬ ((P ∧ P))) ∧ (¬ (¬ (P)) ∧ (¬ (k) ∧ ¬ (P)))) ∧ (¬ (¬ (¬ (P))) ∧ (((P ∧ P) ∧ ¬ (P)) ∧ (¬ (P) ∧ (k ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, o is True, ¬ ((¬ (¬ ((v ∧ o))) ∧ ¬ ((¬ (o) ∧ (v ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, O is True, ¬ (((((O ∧ I) ∧ ¬ (I)) ∧ (¬ (O) ∧ (I ∧ O))) ∧ (¬ (¬ (O)) ∧ ¬ (¬ (I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is False, t is False, (((((T ∧ t) ∧ ¬ (t)) ∧ ¬ ((T ∧ T))) ∧ ¬ (((T ∧ T) ∧ ¬ (t)))) ∧ (¬ (((T ∧ T) ∧ ¬ (t))) ∧ ¬ ((¬ (t) ∧ (t ∧ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, t is True, ¬ ((¬ (¬ (¬ (t))) ∧ (((F ∧ F) ∧ ¬ (F)) ∧ (¬ (t) ∧ (F ∧ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is True, C is False, ((((¬ (C) ∧ ¬ (J)) ∧ ¬ ((J ∧ J))) ∧ (((J ∧ C) ∧ ¬ (C)) ∧ ¬ ((J ∧ C)))) ∧ (¬ (((C ∧ C) ∧ (C ∧ J))) ∧ ¬ (((J ∧ J) ∧ ¬ (J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, M is False, ((¬ (((M ∧ E) ∧ (M ∧ E))) ∧ ((¬ (E) ∧ ¬ (M)) ∧ ¬ ((E ∧ M)))) ∧ ¬ ((¬ ((M ∧ E)) ∧ ¬ (¬ (M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, M is False, (¬ (¬ (¬ ((o ∧ M)))) ∧ ((¬ (¬ (M)) ∧ ¬ (¬ (M))) ∧ ¬ (¬ (¬ (M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, f is False, ((¬ (¬ ((f ∧ R))) ∧ (¬ (¬ (f)) ∧ ¬ ((f ∧ f)))) ∧ ¬ (¬ (¬ (¬ (f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is True, S is True, (((((S ∧ n) ∧ ¬ (S)) ∧ ((S ∧ S) ∧ ¬ (n))) ∧ (¬ (¬ (S)) ∧ (¬ (S) ∧ (n ∧ S)))) ∧ ¬ (((¬ (n) ∧ ¬ (S)) ∧ ¬ ((S ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is False, z is True, ¬ (((¬ (¬ (z)) ∧ ((Y ∧ Y) ∧ (z ∧ Y))) ∧ (¬ ((Y ∧ Y)) ∧ ((z ∧ z) ∧ (Y ∧ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, O is False, (((¬ ((h ∧ O)) ∧ ¬ ((h ∧ h))) ∧ (((h ∧ O) ∧ ¬ (h)) ∧ ¬ (¬ (h)))) ∧ ¬ ((¬ (¬ (h)) ∧ ¬ ((O ∧ O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, j is True, (¬ ((¬ ((H ∧ j)) ∧ ¬ ((j ∧ H)))) ∧ ¬ (¬ (¬ ((j ∧ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, B is True, (¬ (¬ (¬ ((B ∧ q)))) ∧ (¬ ((¬ (q) ∧ ¬ (q))) ∧ ¬ (((q ∧ q) ∧ (B ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, B is True, (¬ (¬ ((¬ (B) ∧ ¬ (F)))) ∧ ¬ (¬ (¬ (¬ (F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, h is True, ((¬ (((h ∧ k) ∧ (h ∧ k))) ∧ (((h ∧ k) ∧ (h ∧ h)) ∧ ((k ∧ h) ∧ (h ∧ h)))) ∧ ((((k ∧ h) ∧ (h ∧ k)) ∧ ¬ (¬ (k))) ∧ ((¬ (h) ∧ ¬ (h)) ∧ ¬ (¬ (k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, G is False, (¬ (¬ (¬ ((G ∧ c)))) ∧ ¬ (((¬ (G) ∧ ¬ (c)) ∧ ¬ (¬ (c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, D is False, ¬ ((¬ (¬ (¬ (H))) ∧ ¬ (¬ ((D ∧ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, d is False, ((¬ (((i ∧ d) ∧ ¬ (i))) ∧ ¬ (¬ (¬ (i)))) ∧ ¬ ((¬ (¬ (d)) ∧ ¬ (¬ (d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, K is False, ((¬ (((K ∧ w) ∧ ¬ (w))) ∧ (¬ (¬ (K)) ∧ (¬ (K) ∧ (w ∧ w)))) ∧ ¬ (¬ (¬ ((w ∧ w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, b is False, (¬ (((¬ (F) ∧ ¬ (b)) ∧ ¬ (¬ (b)))) ∧ ¬ (¬ (¬ (¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, D is True, (((¬ (¬ (D)) ∧ (¬ (e) ∧ (D ∧ D))) ∧ ¬ ((¬ (D) ∧ ¬ (D)))) ∧ (¬ (¬ (¬ (D))) ∧ ¬ (((e ∧ e) ∧ ¬ (e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, S is False, (((¬ (¬ (l)) ∧ ¬ ((S ∧ l))) ∧ (((l ∧ l) ∧ (l ∧ S)) ∧ ((S ∧ S) ∧ (S ∧ S)))) ∧ (¬ ((¬ (l) ∧ ¬ (S))) ∧ (¬ (¬ (l)) ∧ ¬ ((l ∧ S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, C is True, ¬ (¬ (¬ (((H ∧ C) ∧ ¬ (C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is False, W is False, ((((¬ (i) ∧ ¬ (W)) ∧ (¬ (W) ∧ (W ∧ W))) ∧ ¬ (¬ (¬ (W)))) ∧ ((((i ∧ i) ∧ (i ∧ W)) ∧ ((i ∧ i) ∧ ¬ (W))) ∧ (((i ∧ W) ∧ (W ∧ W)) ∧ ¬ (¬ (i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, S is True, ((¬ ((¬ (S) ∧ (n ∧ n))) ∧ ¬ (((S ∧ S) ∧ (S ∧ n)))) ∧ ¬ (((¬ (S) ∧ ¬ (n)) ∧ ¬ ((n ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, n is True, ((¬ ((¬ (n) ∧ (T ∧ n))) ∧ ¬ (¬ ((n ∧ n)))) ∧ ¬ (¬ (((T ∧ n) ∧ ¬ (n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "p is False, x is True, ¬ (¬ (¬ ((¬ (p) ∧ (x ∧ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, g is True, ¬ (¬ ((¬ ((t ∧ g)) ∧ ¬ ((g ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "V is False, ¬ (¬ (¬ (¬ (¬ (V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, h is True, ((((¬ (p) ∧ ¬ (h)) ∧ ¬ ((h ∧ h))) ∧ ((¬ (p) ∧ (p ∧ p)) ∧ (¬ (h) ∧ ¬ (p)))) ∧ ¬ (¬ (((p ∧ h) ∧ ¬ (h)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is False, ¬ (¬ (¬ (¬ (¬ (r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, a is False, (¬ (((¬ (e) ∧ ¬ (a)) ∧ ¬ ((e ∧ e)))) ∧ ((¬ ((e ∧ e)) ∧ ¬ (¬ (e))) ∧ ((¬ (e) ∧ ¬ (e)) ∧ (¬ (a) ∧ (e ∧ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, s is True, (¬ ((¬ ((o ∧ s)) ∧ ¬ (¬ (s)))) ∧ ¬ (¬ (((o ∧ o) ∧ ¬ (o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, A is False, (¬ (¬ ((¬ (A) ∧ (v ∧ v)))) ∧ (((¬ (A) ∧ ¬ (A)) ∧ (¬ (v) ∧ ¬ (A))) ∧ ((¬ (v) ∧ (v ∧ v)) ∧ ¬ ((v ∧ A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, c is True, (¬ (¬ (¬ (¬ (l)))) ∧ (¬ ((¬ (c) ∧ (c ∧ c))) ∧ ((¬ (l) ∧ (c ∧ l)) ∧ ¬ ((l ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is False, J is False, ((¬ (¬ (¬ (N))) ∧ ((¬ (J) ∧ ¬ (J)) ∧ (¬ (J) ∧ (N ∧ J)))) ∧ ((¬ ((J ∧ N)) ∧ ¬ (¬ (N))) ∧ (¬ ((N ∧ N)) ∧ ¬ ((J ∧ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, B is False, (((((B ∧ U) ∧ ¬ (U)) ∧ ¬ ((U ∧ U))) ∧ ¬ ((¬ (B) ∧ (U ∧ U)))) ∧ ((¬ ((B ∧ U)) ∧ ¬ ((B ∧ B))) ∧ ¬ (¬ ((U ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, P is True, ¬ ((((¬ (P) ∧ (X ∧ P)) ∧ ¬ (¬ (P))) ∧ (¬ ((X ∧ X)) ∧ ((P ∧ P) ∧ ¬ (X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "m is True, C is True, ¬ (¬ ((((C ∧ m) ∧ ¬ (C)) ∧ ¬ (¬ (m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, a is False, ((¬ (¬ ((D ∧ a))) ∧ (¬ ((D ∧ D)) ∧ (¬ (a) ∧ ¬ (a)))) ∧ ¬ ((¬ (¬ (a)) ∧ ¬ (¬ (a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, u is False, ((((¬ (u) ∧ (n ∧ u)) ∧ ¬ ((n ∧ n))) ∧ ¬ (¬ (¬ (u)))) ∧ ¬ ((((n ∧ n) ∧ (n ∧ n)) ∧ ¬ (¬ (u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, L is True, ¬ (¬ ((¬ (¬ (l)) ∧ ¬ ((L ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, B is False, ¬ (¬ ((((B ∧ U) ∧ ¬ (B)) ∧ (¬ (U) ∧ (U ∧ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is False, V is False, ¬ ((((¬ (V) ∧ ¬ (y)) ∧ ¬ ((y ∧ y))) ∧ ¬ ((¬ (y) ∧ ¬ (V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is False, o is True, ¬ (((¬ (¬ (o)) ∧ ((e ∧ e) ∧ ¬ (e))) ∧ ¬ ((¬ (e) ∧ ¬ (e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is False, r is False, (¬ (((¬ (i) ∧ ¬ (r)) ∧ ¬ ((i ∧ i)))) ∧ (¬ (¬ (¬ (r))) ∧ (¬ (¬ (i)) ∧ ((r ∧ i) ∧ ¬ (r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "g is False, q is True, ¬ (((¬ (¬ (g)) ∧ (¬ (q) ∧ (g ∧ q))) ∧ ¬ ((¬ (g) ∧ (g ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "O is False, c is True, ¬ ((((¬ (c) ∧ (O ∧ c)) ∧ ¬ ((O ∧ O))) ∧ (¬ (¬ (c)) ∧ ¬ ((O ∧ O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is True, S is True, ¬ ((¬ (((S ∧ M) ∧ (S ∧ S))) ∧ (¬ (¬ (S)) ∧ ¬ (¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, Q is True, ¬ ((¬ ((¬ (I) ∧ (Q ∧ Q))) ∧ ¬ (¬ (¬ (I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is False, Q is False, ¬ (¬ (¬ (((Q ∧ J) ∧ (Q ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, q is False, (((¬ ((v ∧ q)) ∧ (¬ (v) ∧ ¬ (v))) ∧ (((v ∧ q) ∧ (v ∧ v)) ∧ ¬ (¬ (q)))) ∧ (¬ (¬ ((q ∧ q))) ∧ ((¬ (v) ∧ (q ∧ v)) ∧ ((q ∧ v) ∧ ¬ (v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "p is False, q is True, (((((q ∧ p) ∧ (q ∧ p)) ∧ ((q ∧ q) ∧ (p ∧ p))) ∧ (((p ∧ q) ∧ ¬ (p)) ∧ ¬ (¬ (q)))) ∧ ¬ (((¬ (q) ∧ ¬ (q)) ∧ (¬ (p) ∧ (q ∧ p)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, j is True, ¬ ((¬ (((j ∧ F) ∧ ¬ (F))) ∧ ((¬ (F) ∧ ¬ (j)) ∧ (¬ (F) ∧ ¬ (j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is True, L is True, ¬ (¬ (¬ (¬ ((L ∧ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is False, G is True, ((¬ ((¬ (G) ∧ ¬ (X))) ∧ ¬ (¬ ((X ∧ X)))) ∧ (¬ (((G ∧ G) ∧ ¬ (G))) ∧ ¬ (((X ∧ G) ∧ (X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "J is True, r is False, ((((¬ (r) ∧ ¬ (J)) ∧ ¬ ((r ∧ r))) ∧ ¬ (((J ∧ r) ∧ ¬ (J)))) ∧ ¬ (¬ (¬ ((r ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is False, W is False, (¬ (¬ ((¬ (W) ∧ (m ∧ W)))) ∧ ¬ (¬ ((¬ (W) ∧ (m ∧ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is True, w is False, ((¬ (((P ∧ w) ∧ ¬ (P))) ∧ ¬ (¬ (¬ (w)))) ∧ ((¬ (¬ (P)) ∧ (¬ (P) ∧ ¬ (P))) ∧ ¬ (¬ (¬ (w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is True, v is True, ¬ ((¬ (((v ∧ T) ∧ (T ∧ v))) ∧ ¬ (¬ (¬ (T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, P is True, ¬ (¬ (((¬ (l) ∧ ¬ (P)) ∧ ¬ ((l ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, K is True, (¬ ((¬ ((v ∧ K)) ∧ ((v ∧ K) ∧ (K ∧ K)))) ∧ (¬ (¬ (¬ (K))) ∧ ((¬ (v) ∧ ¬ (v)) ∧ ¬ (¬ (v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, Q is True, ¬ ((¬ (¬ (¬ (H))) ∧ ¬ (¬ (¬ (Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Q is True, j is False, (¬ ((¬ (¬ (j)) ∧ ¬ (¬ (Q)))) ∧ ¬ (¬ (¬ ((Q ∧ j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, F is False, (¬ (¬ ((¬ (k) ∧ ¬ (F)))) ∧ (¬ (((k ∧ F) ∧ ¬ (F))) ∧ ¬ (¬ ((F ∧ k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, Y is False, ((¬ ((¬ (X) ∧ ¬ (Y))) ∧ (¬ ((Y ∧ Y)) ∧ ((Y ∧ Y) ∧ (Y ∧ X)))) ∧ ¬ (¬ (((Y ∧ X) ∧ (X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, h is True, ¬ ((¬ ((¬ (N) ∧ (h ∧ N))) ∧ (¬ (¬ (N)) ∧ (¬ (h) ∧ ¬ (N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is False, f is False, (((¬ ((f ∧ e)) ∧ (¬ (f) ∧ (f ∧ f))) ∧ ¬ (¬ ((e ∧ f)))) ∧ ¬ (((¬ (e) ∧ (f ∧ e)) ∧ ¬ (¬ (f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, m is False, (((((t ∧ m) ∧ ¬ (m)) ∧ ((m ∧ t) ∧ ¬ (t))) ∧ ¬ ((¬ (m) ∧ (m ∧ t)))) ∧ (¬ ((¬ (m) ∧ ¬ (m))) ∧ ¬ ((¬ (m) ∧ ¬ (t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, y is True, (¬ (¬ (¬ (¬ (d)))) ∧ ¬ ((¬ (¬ (y)) ∧ ((d ∧ y) ∧ (d ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, B is True, ((((¬ (B) ∧ ¬ (l)) ∧ ((l ∧ B) ∧ ¬ (B))) ∧ ¬ (((l ∧ l) ∧ ¬ (l)))) ∧ ¬ ((¬ (¬ (B)) ∧ ¬ ((B ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is False, K is True, (¬ (¬ ((¬ (e) ∧ ¬ (K)))) ∧ ¬ ((((K ∧ e) ∧ ¬ (e)) ∧ (¬ (K) ∧ (K ∧ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, v is True, ¬ ((¬ ((¬ (w) ∧ ¬ (v))) ∧ ¬ (¬ (¬ (v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, g is True, (¬ ((¬ ((t ∧ g)) ∧ ((g ∧ g) ∧ (g ∧ t)))) ∧ ¬ ((¬ ((t ∧ t)) ∧ ((g ∧ t) ∧ ¬ (t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is False, E is False, ((¬ (¬ (¬ (x))) ∧ ¬ ((¬ (E) ∧ ¬ (x)))) ∧ ((¬ ((E ∧ x)) ∧ ¬ ((E ∧ E))) ∧ ¬ (¬ ((E ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, Q is True, ¬ (((¬ (¬ (Q)) ∧ ((b ∧ Q) ∧ ¬ (b))) ∧ ¬ (((Q ∧ b) ∧ ¬ (Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, q is True, (¬ (¬ (¬ (¬ (Z)))) ∧ ¬ (¬ ((¬ (q) ∧ (q ∧ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, A is False, ¬ (¬ ((¬ ((A ∧ m)) ∧ (¬ (m) ∧ ¬ (m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, m is False, (((¬ ((h ∧ m)) ∧ (¬ (m) ∧ (m ∧ h))) ∧ ((¬ (h) ∧ ¬ (h)) ∧ ¬ ((m ∧ h)))) ∧ ¬ (¬ (((m ∧ h) ∧ (h ∧ h)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, G is False, (¬ (¬ (¬ (¬ (G)))) ∧ (¬ (¬ (¬ (k))) ∧ ((¬ (G) ∧ (G ∧ k)) ∧ ¬ ((G ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, f is True, (¬ ((¬ (¬ (w)) ∧ ((f ∧ f) ∧ ¬ (f)))) ∧ (¬ (((w ∧ w) ∧ ¬ (f))) ∧ ¬ (((w ∧ f) ∧ ¬ (f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, p is True, ¬ ((¬ (¬ (¬ (e))) ∧ ¬ (¬ (¬ (p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "W is True, j is True, ((¬ (((W ∧ j) ∧ ¬ (W))) ∧ (((j ∧ j) ∧ ¬ (W)) ∧ ¬ ((j ∧ j)))) ∧ ¬ (¬ (¬ (¬ (j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, s is False, ¬ ((((¬ (s) ∧ (N ∧ N)) ∧ ¬ ((s ∧ N))) ∧ ¬ (((s ∧ s) ∧ (s ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, B is True, ¬ (¬ ((¬ (¬ (B)) ∧ (¬ (Z) ∧ (B ∧ B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, w is False, (¬ (¬ ((¬ (w) ∧ ¬ (B)))) ∧ ((¬ ((w ∧ B)) ∧ ¬ ((B ∧ B))) ∧ ¬ ((¬ (B) ∧ ¬ (w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, c is True, (¬ ((¬ (¬ (D)) ∧ (¬ (c) ∧ (D ∧ c)))) ∧ (¬ (¬ ((D ∧ D))) ∧ ¬ (((D ∧ D) ∧ (D ∧ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, p is True, ¬ (¬ ((((p ∧ X) ∧ ¬ (X)) ∧ ((p ∧ p) ∧ (X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, e is False, (¬ ((((e ∧ X) ∧ (X ∧ X)) ∧ ((X ∧ X) ∧ (e ∧ X)))) ∧ ¬ (¬ (¬ ((e ∧ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is True, A is False, ((¬ (((E ∧ A) ∧ ¬ (A))) ∧ ¬ (¬ (¬ (A)))) ∧ (¬ (¬ ((E ∧ A))) ∧ (¬ ((E ∧ A)) ∧ (¬ (E) ∧ ¬ (A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is True, j is True, ¬ (¬ (((¬ (b) ∧ (j ∧ j)) ∧ (¬ (b) ∧ ¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, n is True, ¬ ((¬ (¬ (¬ (n))) ∧ (¬ (¬ (D)) ∧ (¬ (D) ∧ ¬ (D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, m is False, ((¬ (¬ ((H ∧ m))) ∧ (¬ (¬ (H)) ∧ ¬ (¬ (m)))) ∧ ((¬ (¬ (m)) ∧ (¬ (H) ∧ ¬ (H))) ∧ ¬ ((¬ (m) ∧ ¬ (H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, a is True, ((¬ (¬ (¬ (Z))) ∧ ¬ (((a ∧ Z) ∧ (Z ∧ a)))) ∧ ¬ ((((a ∧ a) ∧ ¬ (a)) ∧ ((a ∧ Z) ∧ ¬ (Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, Q is True, ¬ (¬ (¬ (¬ ((Q ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, T is False, (((((L ∧ T) ∧ (L ∧ L)) ∧ ((L ∧ T) ∧ ¬ (T))) ∧ ¬ (¬ ((T ∧ L)))) ∧ ((¬ (¬ (T)) ∧ ¬ (¬ (T))) ∧ ¬ (¬ ((T ∧ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, A is True, ¬ ((¬ ((¬ (A) ∧ (y ∧ y))) ∧ ¬ (¬ (¬ (y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, z is False, ¬ ((¬ (((T ∧ z) ∧ ¬ (z))) ∧ (((T ∧ T) ∧ ¬ (z)) ∧ ¬ ((T ∧ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is True, a is False, ¬ (((¬ ((a ∧ X)) ∧ ¬ (¬ (a))) ∧ ¬ (((a ∧ a) ∧ (a ∧ a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "s is True, Z is False, ¬ ((¬ (¬ (¬ (s))) ∧ ¬ (¬ (¬ (Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "s is True, t is True, ¬ (((¬ (¬ (s)) ∧ (¬ (t) ∧ ¬ (s))) ∧ (((t ∧ t) ∧ ¬ (s)) ∧ (¬ (t) ∧ (t ∧ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is True, S is False, ¬ (¬ (¬ (((w ∧ S) ∧ (S ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is True, W is False, ((¬ (((W ∧ M) ∧ (W ∧ M))) ∧ ((¬ (M) ∧ (M ∧ M)) ∧ ¬ (¬ (M)))) ∧ ¬ (¬ (¬ (¬ (W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, j is True, ¬ (¬ (¬ (¬ ((P ∧ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, s is False, ¬ (¬ ((((s ∧ O) ∧ ¬ (s)) ∧ (¬ (s) ∧ (s ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, ¬ (¬ (¬ (¬ (¬ (b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is False, w is False, ¬ ((¬ (¬ ((w ∧ y))) ∧ ¬ ((¬ (w) ∧ ¬ (w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, C is False, (¬ (¬ (((C ∧ T) ∧ ¬ (C)))) ∧ ¬ ((((C ∧ C) ∧ (T ∧ T)) ∧ ((C ∧ T) ∧ (C ∧ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "J is True, V is False, ¬ (¬ (¬ (((J ∧ V) ∧ (J ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is False, W is False, (¬ (((¬ (V) ∧ ¬ (W)) ∧ ¬ (¬ (V)))) ∧ ((¬ (¬ (W)) ∧ ¬ (¬ (V))) ∧ ¬ (¬ (¬ (W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is False, c is True, ¬ ((¬ (¬ ((B ∧ c))) ∧ ¬ (¬ (¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is False, W is False, ((¬ ((¬ (e) ∧ ¬ (W))) ∧ (¬ (¬ (e)) ∧ (¬ (W) ∧ ¬ (W)))) ∧ ((¬ ((e ∧ W)) ∧ ¬ (¬ (W))) ∧ ¬ (¬ ((W ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, x is False, (¬ (((¬ (M) ∧ ¬ (x)) ∧ (¬ (x) ∧ ¬ (x)))) ∧ ((¬ ((x ∧ M)) ∧ ¬ (¬ (x))) ∧ (((x ∧ M) ∧ (x ∧ x)) ∧ (¬ (M) ∧ ¬ (M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "g is False, v is True, ((¬ ((¬ (v) ∧ ¬ (g))) ∧ (¬ ((v ∧ g)) ∧ ¬ ((v ∧ g)))) ∧ ((¬ ((g ∧ v)) ∧ (¬ (g) ∧ (g ∧ g))) ∧ ¬ ((¬ (g) ∧ ¬ (v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is False, I is False, ((¬ ((¬ (M) ∧ ¬ (I))) ∧ (¬ ((I ∧ I)) ∧ ¬ ((I ∧ M)))) ∧ ¬ ((¬ ((M ∧ M)) ∧ ((I ∧ I) ∧ (I ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, E is False, ¬ (¬ ((¬ (¬ (M)) ∧ (¬ (E) ∧ (E ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is True, t is True, ¬ (((¬ ((B ∧ t)) ∧ ((t ∧ B) ∧ ¬ (B))) ∧ ¬ (((B ∧ B) ∧ ¬ (t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, ¬ (¬ (¬ (¬ (¬ (p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is False, w is False, (((¬ (¬ (y)) ∧ (¬ (w) ∧ ¬ (w))) ∧ (¬ ((w ∧ w)) ∧ ¬ (¬ (w)))) ∧ ((¬ (¬ (y)) ∧ ¬ ((y ∧ w))) ∧ (((w ∧ w) ∧ ¬ (w)) ∧ (¬ (y) ∧ ¬ (y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, c is True, (¬ (¬ ((¬ (X) ∧ (c ∧ c)))) ∧ ¬ (¬ (((c ∧ X) ∧ ¬ (X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is True, x is False, ¬ ((¬ (((v ∧ x) ∧ ¬ (x))) ∧ ¬ (¬ ((x ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is False, B is False, ¬ ((¬ ((¬ (B) ∧ ¬ (T))) ∧ ¬ (¬ (¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, R is False, ¬ (¬ (¬ (¬ ((R ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is False, p is True, ¬ ((((¬ (K) ∧ (p ∧ K)) ∧ ((K ∧ p) ∧ (p ∧ K))) ∧ ¬ (¬ (¬ (K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is False, A is True, (((¬ ((D ∧ A)) ∧ ¬ ((A ∧ A))) ∧ ¬ (((D ∧ A) ∧ (D ∧ D)))) ∧ ¬ ((¬ (¬ (A)) ∧ ¬ ((D ∧ A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, N is True, ((¬ (¬ ((U ∧ N))) ∧ (((N ∧ N) ∧ (N ∧ N)) ∧ ((N ∧ U) ∧ ¬ (U)))) ∧ (¬ ((¬ (N) ∧ (N ∧ N))) ∧ (¬ (¬ (N)) ∧ ((U ∧ U) ∧ (N ∧ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is False, C is False, (¬ (¬ (¬ (¬ (C)))) ∧ ((((m ∧ m) ∧ ¬ (C)) ∧ ¬ (¬ (m))) ∧ ¬ (¬ ((m ∧ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, x is True, (¬ ((((b ∧ x) ∧ ¬ (b)) ∧ ((x ∧ b) ∧ ¬ (x)))) ∧ ¬ ((¬ ((x ∧ b)) ∧ ((x ∧ b) ∧ ¬ (b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is False, i is True, ((¬ (¬ (¬ (U))) ∧ (¬ ((i ∧ U)) ∧ ¬ (¬ (U)))) ∧ (¬ (¬ (¬ (i))) ∧ ((¬ (U) ∧ (U ∧ U)) ∧ (¬ (i) ∧ (i ∧ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, V is True, (¬ (¬ (¬ (¬ (V)))) ∧ (¬ (¬ ((o ∧ V))) ∧ ¬ (((V ∧ V) ∧ (V ∧ V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, W is False, ¬ (((¬ ((W ∧ H)) ∧ ¬ ((W ∧ H))) ∧ ¬ (((W ∧ W) ∧ (W ∧ H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, e is True, (¬ (¬ (¬ ((f ∧ e)))) ∧ ((¬ (¬ (f)) ∧ (¬ (e) ∧ (f ∧ f))) ∧ ¬ (¬ (¬ (e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "y is True, s is True, ¬ (¬ (¬ (((y ∧ s) ∧ ¬ (y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is True, c is False, (¬ (¬ (¬ (¬ (w)))) ∧ (¬ (¬ (¬ (c))) ∧ (¬ (¬ (c)) ∧ ((w ∧ w) ∧ ¬ (c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, D is False, ¬ ((((¬ (D) ∧ ¬ (H)) ∧ ¬ (¬ (H))) ∧ ¬ ((¬ (D) ∧ ¬ (H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is True, c is True, ((¬ (¬ (¬ (c))) ∧ (((q ∧ c) ∧ (q ∧ c)) ∧ (¬ (q) ∧ (q ∧ c)))) ∧ ¬ (¬ (((q ∧ c) ∧ (q ∧ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Q is True, G is False, ¬ ((¬ (¬ ((G ∧ Q))) ∧ (¬ ((G ∧ Q)) ∧ ((G ∧ G) ∧ ¬ (Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, e is False, ¬ (¬ ((¬ (¬ (d)) ∧ ((e ∧ e) ∧ ¬ (e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, x is True, ((((¬ (n) ∧ (x ∧ x)) ∧ (¬ (n) ∧ ¬ (n))) ∧ ¬ (((x ∧ x) ∧ (n ∧ x)))) ∧ (¬ (((x ∧ x) ∧ ¬ (n))) ∧ (((n ∧ x) ∧ (x ∧ n)) ∧ ((x ∧ x) ∧ (x ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, x is False, (¬ (¬ (((d ∧ x) ∧ ¬ (x)))) ∧ ¬ (((¬ (d) ∧ (x ∧ d)) ∧ ((x ∧ x) ∧ (x ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, c is True, (((¬ ((c ∧ H)) ∧ ¬ ((H ∧ c))) ∧ (((H ∧ H) ∧ ¬ (H)) ∧ (¬ (H) ∧ ¬ (H)))) ∧ ¬ (¬ ((¬ (H) ∧ (H ∧ H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, z is True, ¬ ((¬ ((¬ (H) ∧ (z ∧ H))) ∧ ((¬ (z) ∧ (H ∧ z)) ∧ ¬ ((z ∧ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is True, G is True, (¬ (¬ (¬ ((G ∧ b)))) ∧ ¬ ((((G ∧ G) ∧ (G ∧ G)) ∧ ¬ (¬ (b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is True, l is False, ¬ (((¬ ((T ∧ l)) ∧ ¬ (¬ (T))) ∧ ((¬ (l) ∧ (T ∧ l)) ∧ ¬ (¬ (l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Q is True, ¬ (¬ (¬ (¬ (¬ (Q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, c is True, ¬ (((((c ∧ h) ∧ ¬ (c)) ∧ ¬ ((h ∧ c))) ∧ ¬ (¬ ((c ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, h is True, (¬ (¬ (((R ∧ h) ∧ (R ∧ h)))) ∧ (¬ ((¬ (h) ∧ (h ∧ h))) ∧ (¬ (¬ (h)) ∧ ¬ ((R ∧ R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, f is False, (¬ ((¬ ((R ∧ f)) ∧ ¬ (¬ (R)))) ∧ ¬ ((¬ ((R ∧ f)) ∧ ¬ ((f ∧ R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, C is False, ¬ ((¬ (¬ (¬ (C))) ∧ ((¬ (h) ∧ (h ∧ C)) ∧ ((h ∧ h) ∧ ¬ (C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, L is True, (¬ (((¬ (L) ∧ (f ∧ f)) ∧ ¬ (¬ (f)))) ∧ ¬ ((¬ ((L ∧ L)) ∧ ((L ∧ f) ∧ ¬ (L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, W is False, (¬ ((¬ (¬ (W)) ∧ (¬ (l) ∧ (W ∧ l)))) ∧ ¬ (¬ (((l ∧ W) ∧ (W ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "V is True, W is False, (¬ (((¬ (W) ∧ ¬ (V)) ∧ (¬ (V) ∧ (W ∧ V)))) ∧ ¬ (¬ (((W ∧ V) ∧ (V ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is False, u is True, ((¬ ((¬ (u) ∧ ¬ (r))) ∧ ¬ (¬ (¬ (u)))) ∧ ((((u ∧ u) ∧ (u ∧ r)) ∧ ((r ∧ u) ∧ (u ∧ u))) ∧ ¬ (((r ∧ r) ∧ (u ∧ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, v is True, (¬ (¬ ((¬ (v) ∧ (R ∧ R)))) ∧ ¬ ((¬ (¬ (R)) ∧ ¬ (¬ (v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is False, I is True, ¬ ((¬ (((I ∧ s) ∧ (I ∧ I))) ∧ ¬ (¬ ((I ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is False, B is True, (¬ ((¬ ((B ∧ b)) ∧ ¬ ((b ∧ B)))) ∧ ¬ (((¬ (B) ∧ (B ∧ b)) ∧ ¬ ((b ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, w is False, ¬ (¬ (¬ ((¬ (w) ∧ ¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, I is False, (¬ (¬ (((I ∧ p) ∧ ¬ (I)))) ∧ ¬ (¬ (¬ (¬ (I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is False, c is True, (¬ (¬ ((¬ (c) ∧ ¬ (K)))) ∧ (((¬ (K) ∧ (c ∧ c)) ∧ ¬ (¬ (c))) ∧ ¬ (¬ ((K ∧ c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, A is True, ¬ (((¬ (¬ (A)) ∧ (¬ (F) ∧ ¬ (F))) ∧ ¬ (¬ ((F ∧ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, U is False, ¬ (¬ (¬ (¬ ((k ∧ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, q is True, ¬ (¬ (¬ (¬ ((i ∧ q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, Y is True, (¬ (¬ (((x ∧ Y) ∧ (x ∧ x)))) ∧ ((¬ ((x ∧ Y)) ∧ ((Y ∧ Y) ∧ (x ∧ Y))) ∧ ¬ (¬ (¬ (Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, R is False, ((¬ (¬ (¬ (n))) ∧ (¬ ((R ∧ R)) ∧ (¬ (R) ∧ (n ∧ n)))) ∧ (¬ (¬ (¬ (R))) ∧ ((¬ (n) ∧ (n ∧ n)) ∧ (¬ (R) ∧ ¬ (n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is True, r is False, ¬ (¬ (¬ (((r ∧ Y) ∧ (r ∧ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, m is True, ¬ ((((¬ (m) ∧ ¬ (k)) ∧ ((k ∧ k) ∧ (m ∧ k))) ∧ (((m ∧ k) ∧ ¬ (k)) ∧ (¬ (m) ∧ ¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "r is True, m is False, ¬ (((¬ ((r ∧ m)) ∧ ((r ∧ m) ∧ (m ∧ r))) ∧ ((¬ (m) ∧ (r ∧ m)) ∧ ¬ (¬ (m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, s is False, ¬ (((((s ∧ p) ∧ (p ∧ s)) ∧ ¬ ((p ∧ s))) ∧ ¬ (((p ∧ p) ∧ ¬ (s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, K is False, ¬ (((((K ∧ k) ∧ ¬ (k)) ∧ ¬ (¬ (k))) ∧ (¬ (¬ (K)) ∧ ¬ (¬ (K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, t is False, ¬ (((¬ (¬ (t)) ∧ ¬ ((k ∧ k))) ∧ (¬ (¬ (k)) ∧ (¬ (k) ∧ (t ∧ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, a is True, ¬ ((¬ (¬ ((a ∧ l))) ∧ (((l ∧ l) ∧ (l ∧ a)) ∧ ¬ (¬ (l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, y is False, ¬ (¬ ((¬ ((j ∧ y)) ∧ (¬ (j) ∧ ¬ (j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is True, j is True, ¬ ((¬ (((j ∧ w) ∧ (w ∧ w))) ∧ (¬ (¬ (w)) ∧ ¬ ((w ∧ w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, G is True, ¬ (((¬ (¬ (j)) ∧ (¬ (G) ∧ ¬ (G))) ∧ ¬ (¬ (¬ (G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, A is False, ¬ ((¬ (((A ∧ H) ∧ (H ∧ H))) ∧ (((H ∧ H) ∧ (A ∧ A)) ∧ ((H ∧ H) ∧ (A ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, j is False, ¬ (¬ ((¬ (¬ (d)) ∧ (¬ (j) ∧ ¬ (j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "s is True, j is True, ¬ (((¬ ((s ∧ j)) ∧ ¬ ((j ∧ s))) ∧ (¬ ((j ∧ s)) ∧ ((s ∧ s) ∧ ¬ (j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, c is False, ¬ ((((¬ (c) ∧ ¬ (N)) ∧ ((N ∧ c) ∧ ¬ (c))) ∧ ¬ (¬ (¬ (c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, s is False, ¬ (((((s ∧ n) ∧ ¬ (s)) ∧ ¬ (¬ (n))) ∧ ¬ ((¬ (s) ∧ (n ∧ n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, E is True, ¬ ((((¬ (E) ∧ ¬ (f)) ∧ ((E ∧ f) ∧ (f ∧ f))) ∧ ¬ ((¬ (E) ∧ ¬ (f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is True, Y is True, ¬ (¬ (¬ (((Y ∧ P) ∧ ¬ (Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, f is False, ¬ (¬ ((¬ ((f ∧ k)) ∧ (¬ (f) ∧ ¬ (f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "S is False, a is True, ¬ (((¬ (¬ (a)) ∧ (¬ (S) ∧ (a ∧ S))) ∧ ¬ (((a ∧ S) ∧ (a ∧ a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, J is False, ¬ ((¬ (¬ (¬ (Z))) ∧ (¬ (¬ (J)) ∧ (¬ (Z) ∧ (Z ∧ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, s is False, ¬ (¬ (¬ (((s ∧ H) ∧ ¬ (s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is False, q is True, ¬ ((¬ ((¬ (x) ∧ (q ∧ q))) ∧ ¬ (¬ ((q ∧ q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is False, ¬ (¬ (¬ (¬ (¬ (E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is True, S is True, ¬ (((¬ ((b ∧ S)) ∧ ¬ (¬ (b))) ∧ (¬ (¬ (b)) ∧ ((S ∧ b) ∧ ¬ (b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, Z is True, ¬ (¬ ((¬ ((Z ∧ H)) ∧ ¬ (¬ (Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, A is True, ¬ (((¬ ((B ∧ A)) ∧ ¬ (¬ (B))) ∧ (¬ ((A ∧ B)) ∧ (¬ (A) ∧ (A ∧ B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, s is False, ¬ ((¬ (¬ ((s ∧ P))) ∧ ¬ (¬ ((P ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, O is True, ¬ ((¬ (((g ∧ O) ∧ (g ∧ g))) ∧ ¬ (¬ ((O ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, U is True, ¬ ((¬ (¬ ((U ∧ T))) ∧ (((U ∧ T) ∧ ¬ (U)) ∧ (¬ (T) ∧ (T ∧ U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is False, u is True, ¬ (((((D ∧ u) ∧ (D ∧ D)) ∧ (¬ (D) ∧ ¬ (u))) ∧ (¬ ((D ∧ D)) ∧ ¬ (¬ (D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, b is True, ¬ ((¬ (¬ (¬ (b))) ∧ ((¬ (q) ∧ ¬ (q)) ∧ ((q ∧ q) ∧ ¬ (q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, h is False, ¬ ((¬ (¬ ((h ∧ H))) ∧ ¬ ((¬ (h) ∧ (H ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, E is False, ¬ (((¬ (¬ (E)) ∧ (¬ (Z) ∧ (E ∧ Z))) ∧ (¬ (¬ (Z)) ∧ ¬ (¬ (E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is False, C is True, (((¬ ((x ∧ C)) ∧ ¬ (¬ (C))) ∧ (¬ ((C ∧ x)) ∧ (¬ (x) ∧ ¬ (x)))) ∧ ¬ (¬ (¬ ((C ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, A is True, (¬ ((((A ∧ o) ∧ (o ∧ A)) ∧ ¬ ((A ∧ o)))) ∧ ¬ ((¬ ((o ∧ o)) ∧ ¬ ((o ∧ A)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, Z is False, (¬ ((((q ∧ Z) ∧ ¬ (Z)) ∧ ¬ ((Z ∧ Z)))) ∧ ¬ ((((q ∧ q) ∧ ¬ (q)) ∧ ¬ (¬ (q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, a is True, ¬ (((¬ ((n ∧ a)) ∧ ¬ ((n ∧ n))) ∧ (¬ (¬ (a)) ∧ ¬ (¬ (n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is False, t is True, ¬ ((¬ (((t ∧ X) ∧ ¬ (t))) ∧ (((X ∧ X) ∧ ¬ (X)) ∧ ¬ (¬ (X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, K is True, (¬ ((((i ∧ K) ∧ ¬ (K)) ∧ ¬ ((K ∧ K)))) ∧ (¬ ((¬ (K) ∧ ¬ (i))) ∧ (((K ∧ i) ∧ (K ∧ i)) ∧ ¬ (¬ (i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, x is False, ¬ ((¬ (¬ (¬ (R))) ∧ (¬ (¬ (x)) ∧ ¬ ((x ∧ R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is False, z is False, ¬ (((¬ (¬ (z)) ∧ (¬ (K) ∧ (z ∧ K))) ∧ ¬ ((¬ (z) ∧ ¬ (K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, W is False, ¬ ((¬ ((¬ (W) ∧ ¬ (j))) ∧ ¬ (((W ∧ W) ∧ ¬ (W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, J is False, ¬ ((¬ (¬ (¬ (J))) ∧ ¬ (¬ ((q ∧ q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, c is False, ¬ (((¬ ((p ∧ c)) ∧ ¬ (¬ (p))) ∧ ¬ (¬ ((c ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is False, C is False, ¬ ((¬ (((f ∧ C) ∧ ¬ (C))) ∧ (((f ∧ f) ∧ (f ∧ C)) ∧ ((C ∧ C) ∧ ¬ (f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, z is False, ¬ (¬ (¬ (((h ∧ z) ∧ (h ∧ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, y is True, ¬ (((¬ (¬ (R)) ∧ (¬ (y) ∧ ¬ (y))) ∧ ¬ (¬ (¬ (R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, R is False, ((¬ (((R ∧ g) ∧ (R ∧ g))) ∧ ¬ (¬ (¬ (g)))) ∧ (¬ (((R ∧ R) ∧ ¬ (g))) ∧ ¬ ((¬ (g) ∧ (g ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, b is True, ¬ ((¬ (¬ ((b ∧ Z))) ∧ (((b ∧ Z) ∧ ¬ (Z)) ∧ ((b ∧ Z) ∧ ¬ (Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is False, g is True, ¬ (((¬ (¬ (z)) ∧ ¬ (¬ (g))) ∧ ((¬ (z) ∧ (g ∧ z)) ∧ ¬ (¬ (z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, m is True, ¬ ((¬ (¬ (¬ (k))) ∧ ¬ (¬ ((m ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is True, I is True, ¬ (¬ (¬ (¬ ((F ∧ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, c is False, ¬ ((¬ (¬ ((T ∧ c))) ∧ (¬ (¬ (T)) ∧ ((T ∧ T) ∧ (c ∧ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, V is False, (¬ (((¬ (N) ∧ (V ∧ N)) ∧ (¬ (N) ∧ (N ∧ V)))) ∧ ¬ (((¬ (N) ∧ ¬ (V)) ∧ (¬ (N) ∧ ¬ (N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, Z is True, (¬ ((¬ ((f ∧ Z)) ∧ ((Z ∧ f) ∧ ¬ (Z)))) ∧ (¬ (((Z ∧ f) ∧ ¬ (f))) ∧ ¬ (((Z ∧ f) ∧ ¬ (f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, O is False, ¬ (¬ (¬ (((N ∧ O) ∧ ¬ (N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is False, S is False, (¬ ((¬ (¬ (S)) ∧ (¬ (M) ∧ (S ∧ M)))) ∧ ¬ ((((M ∧ S) ∧ ¬ (M)) ∧ ¬ (¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is True, t is True, ¬ ((((¬ (V) ∧ ¬ (t)) ∧ ¬ (¬ (V))) ∧ ¬ (¬ ((V ∧ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, z is False, ¬ (¬ (¬ (((v ∧ z) ∧ ¬ (v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "s is False, G is True, ¬ ((((¬ (s) ∧ ¬ (G)) ∧ ¬ ((s ∧ s))) ∧ ¬ (¬ (¬ (G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is False, D is True, ¬ (((¬ ((U ∧ D)) ∧ ¬ (¬ (U))) ∧ ¬ (((D ∧ U) ∧ ¬ (U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, W is False, (¬ (¬ (¬ ((W ∧ i)))) ∧ ¬ ((¬ (¬ (W)) ∧ (¬ (W) ∧ (W ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is False, ¬ (¬ (¬ (¬ (¬ (B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, a is False, ¬ ((¬ (¬ ((a ∧ v))) ∧ (¬ ((v ∧ a)) ∧ (¬ (v) ∧ ¬ (a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, i is True, ¬ (((¬ ((i ∧ x)) ∧ (¬ (x) ∧ ¬ (x))) ∧ ¬ ((¬ (x) ∧ (i ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, s is False, ¬ (((((s ∧ D) ∧ ¬ (s)) ∧ ¬ ((s ∧ s))) ∧ (¬ (¬ (s)) ∧ ¬ ((D ∧ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, u is False, (¬ ((((U ∧ u) ∧ ¬ (U)) ∧ ((U ∧ u) ∧ ¬ (u)))) ∧ ¬ ((((U ∧ u) ∧ ¬ (U)) ∧ ¬ (¬ (U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, s is True, ¬ (¬ (¬ (((s ∧ o) ∧ ¬ (o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is False, B is True, ¬ (¬ (¬ ((¬ (B) ∧ ¬ (M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is True, S is True, ¬ ((((¬ (P) ∧ (S ∧ P)) ∧ ((P ∧ S) ∧ (S ∧ S))) ∧ ¬ ((¬ (P) ∧ ¬ (S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "M is False, Z is False, ¬ (¬ (¬ (((M ∧ Z) ∧ (Z ∧ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, E is False, (¬ (((¬ (o) ∧ (E ∧ o)) ∧ ¬ (¬ (o)))) ∧ ¬ ((((E ∧ E) ∧ ¬ (o)) ∧ (¬ (o) ∧ ¬ (E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, C is True, (¬ (((¬ (C) ∧ ¬ (v)) ∧ ¬ ((v ∧ C)))) ∧ (¬ ((¬ (C) ∧ (v ∧ C))) ∧ ¬ ((¬ (v) ∧ ¬ (v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "m is True, c is False, ¬ (((((m ∧ c) ∧ (c ∧ m)) ∧ ((m ∧ c) ∧ ¬ (m))) ∧ (¬ ((c ∧ m)) ∧ ((m ∧ m) ∧ ¬ (c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, x is True, (¬ ((¬ ((e ∧ x)) ∧ ¬ (¬ (e)))) ∧ ¬ (¬ (¬ (¬ (e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "W is True, G is False, ¬ (((¬ (¬ (W)) ∧ ((G ∧ W) ∧ ¬ (W))) ∧ ¬ (((G ∧ G) ∧ (W ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, V is True, ¬ ((¬ (((c ∧ V) ∧ ¬ (c))) ∧ (((c ∧ V) ∧ (c ∧ V)) ∧ ¬ ((c ∧ V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, Q is True, ¬ (¬ (¬ ((¬ (Q) ∧ ¬ (h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, W is False, (¬ (¬ (¬ (¬ (Z)))) ∧ ¬ (¬ ((¬ (W) ∧ ¬ (W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is False, L is False, ((¬ (((L ∧ X) ∧ ¬ (X))) ∧ ¬ (¬ (¬ (X)))) ∧ ¬ ((¬ (¬ (L)) ∧ ((X ∧ L) ∧ (X ∧ L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, W is False, ¬ ((¬ (¬ (¬ (W))) ∧ (¬ ((j ∧ j)) ∧ ¬ (¬ (W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, v is True, ¬ (((¬ (¬ (v)) ∧ ¬ (¬ (p))) ∧ (((v ∧ p) ∧ (v ∧ p)) ∧ ¬ ((p ∧ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is True, P is True, ¬ (((((P ∧ y) ∧ ¬ (P)) ∧ (¬ (P) ∧ (y ∧ P))) ∧ ¬ (¬ (¬ (P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is True, z is False, ¬ (((((z ∧ J) ∧ (J ∧ J)) ∧ ¬ ((z ∧ J))) ∧ ((¬ (z) ∧ ¬ (J)) ∧ ¬ (¬ (z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, h is False, ((¬ ((¬ (h) ∧ ¬ (l))) ∧ ((¬ (h) ∧ ¬ (h)) ∧ ¬ ((h ∧ h)))) ∧ ¬ ((((h ∧ h) ∧ ¬ (l)) ∧ ¬ (¬ (l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is True, w is False, ¬ ((¬ ((¬ (w) ∧ (y ∧ y))) ∧ ¬ (¬ ((w ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, S is False, ¬ ((((¬ (S) ∧ (l ∧ S)) ∧ ¬ ((l ∧ l))) ∧ (¬ ((S ∧ S)) ∧ (¬ (S) ∧ ¬ (l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, c is True, ¬ ((¬ (¬ ((c ∧ D))) ∧ (¬ ((D ∧ D)) ∧ ¬ ((c ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is False, c is False, ¬ (¬ (¬ ((¬ (c) ∧ (b ∧ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, O is False, ¬ ((((¬ (F) ∧ ¬ (O)) ∧ ¬ (¬ (O))) ∧ ¬ (¬ (¬ (O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is True, x is True, ¬ ((¬ (¬ (¬ (E))) ∧ (¬ ((x ∧ x)) ∧ ¬ ((x ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is True, y is True, ¬ (¬ ((((y ∧ T) ∧ (T ∧ y)) ∧ ¬ (¬ (y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is True, F is False, ¬ (¬ (¬ (((w ∧ F) ∧ ¬ (w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, B is False, (¬ (¬ (¬ ((B ∧ q)))) ∧ ¬ ((¬ (¬ (q)) ∧ ((B ∧ B) ∧ ¬ (q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "S is False, y is False, ¬ ((((¬ (y) ∧ (S ∧ y)) ∧ ¬ ((S ∧ S))) ∧ (((y ∧ y) ∧ ¬ (y)) ∧ ¬ ((y ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "L is True, u is True, ¬ (((((u ∧ L) ∧ ¬ (L)) ∧ ¬ ((u ∧ L))) ∧ ¬ (¬ (¬ (L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is False, g is True, ¬ (((((g ∧ i) ∧ (g ∧ g)) ∧ ((i ∧ i) ∧ (i ∧ g))) ∧ ¬ (¬ (¬ (g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, U is True, ¬ ((¬ (¬ (¬ (U))) ∧ (((R ∧ U) ∧ ¬ (R)) ∧ ¬ (¬ (U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is False, Y is True, ¬ ((¬ (((U ∧ Y) ∧ (Y ∧ Y))) ∧ (¬ (¬ (U)) ∧ ¬ (¬ (U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "S is False, B is True, (¬ ((¬ (¬ (B)) ∧ ¬ (¬ (S)))) ∧ ¬ (¬ (¬ ((B ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, o is True, ¬ ((¬ (¬ ((H ∧ o))) ∧ ¬ (((H ∧ o) ∧ ¬ (H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, M is True, ¬ ((((¬ (M) ∧ ¬ (g)) ∧ (¬ (g) ∧ (g ∧ M))) ∧ ¬ (¬ (¬ (g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is True, V is True, ¬ (((¬ ((V ∧ a)) ∧ ¬ (¬ (V))) ∧ ¬ ((¬ (V) ∧ ¬ (a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is False, b is True, ¬ (((((b ∧ X) ∧ (X ∧ X)) ∧ (¬ (X) ∧ ¬ (b))) ∧ ¬ (((X ∧ b) ∧ ¬ (X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, n is True, ¬ ((¬ (¬ ((n ∧ l))) ∧ ¬ (((l ∧ l) ∧ (n ∧ l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is False, a is False, ¬ (¬ (¬ ((¬ (g) ∧ (a ∧ a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, W is True, ¬ ((¬ (¬ ((D ∧ W))) ∧ (((W ∧ D) ∧ ¬ (D)) ∧ (¬ (W) ∧ ¬ (D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is True, y is False, (¬ ((¬ (¬ (y)) ∧ ¬ ((x ∧ y)))) ∧ ¬ (¬ (¬ (¬ (x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "m is True, C is False, ¬ (((¬ (¬ (C)) ∧ ¬ ((m ∧ m))) ∧ (¬ (¬ (m)) ∧ ((m ∧ m) ∧ (m ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, R is False, (¬ ((¬ ((H ∧ R)) ∧ (¬ (R) ∧ (R ∧ R)))) ∧ ¬ ((¬ ((R ∧ R)) ∧ ((R ∧ H) ∧ ¬ (R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, p is True, ¬ ((¬ (¬ ((v ∧ p))) ∧ ¬ (¬ (¬ (p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Y is True, t is False, ¬ ((¬ (¬ (¬ (t))) ∧ (((Y ∧ t) ∧ (t ∧ t)) ∧ ¬ (¬ (t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, r is True, ¬ ((¬ (((r ∧ o) ∧ ¬ (r))) ∧ ¬ (¬ ((o ∧ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, y is False, (¬ (((¬ (y) ∧ (f ∧ y)) ∧ ¬ (¬ (y)))) ∧ ¬ (¬ (¬ ((y ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is False, G is True, ¬ ((((¬ (G) ∧ ¬ (A)) ∧ ¬ (¬ (G))) ∧ (¬ (¬ (G)) ∧ ¬ (¬ (A)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, m is False, ¬ ((¬ (¬ ((m ∧ k))) ∧ (¬ (¬ (m)) ∧ ((k ∧ m) ∧ (k ∧ m)))))",
+        "cls": "1"
+    }
+]

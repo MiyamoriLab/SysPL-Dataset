@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "i is False, a is True, (((((i ∧ a) ∧ (a ∧ a)) ∨ ((a ∧ i) ∨ (i ∧ i))) ∧ (((i ∨ i) ∧ (a ∧ i)) ∧ ((i ∨ i) ∧ (a ∧ i)))) ∧ ((((a ∧ i) ∨ (a ∨ a)) ∨ ((a ∧ i) ∧ (a ∧ i))) ∨ (((i ∧ i) ∧ (a ∧ a)) ∨ ((a ∧ i) ∧ (i ∧ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, e is False, (((((e ∧ z) ∨ (e ∨ z)) ∨ ((z ∨ z) ∧ (e ∨ e))) ∧ (((z ∧ z) ∨ (e ∧ e)) ∨ ((e ∨ e) ∨ (e ∧ z)))) ∧ ((((e ∨ e) ∧ (z ∧ e)) ∨ ((z ∨ e) ∧ (z ∨ e))) ∧ (((z ∨ z) ∧ (z ∧ e)) ∨ ((z ∧ z) ∧ (e ∨ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, T is True, (((((T ∨ t) ∧ (t ∨ T)) ∨ ((t ∨ T) ∧ (t ∧ t))) ∨ (((T ∧ t) ∨ (t ∧ t)) ∨ ((t ∧ t) ∧ (T ∧ T)))) ∨ ((((t ∨ t) ∧ (t ∧ t)) ∧ ((T ∨ t) ∧ (t ∧ t))) ∨ (((t ∧ t) ∨ (t ∧ t)) ∧ ((t ∧ t) ∧ (t ∨ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, Q is True, (((((Q ∨ q) ∧ (q ∨ Q)) ∧ ((Q ∨ q) ∧ (Q ∧ Q))) ∨ (((Q ∧ Q) ∨ (Q ∨ q)) ∧ ((q ∧ Q) ∧ (q ∧ Q)))) ∨ ((((Q ∨ q) ∨ (Q ∧ Q)) ∨ ((q ∧ Q) ∧ (Q ∨ Q))) ∧ (((q ∧ Q) ∧ (Q ∨ q)) ∨ ((Q ∨ q) ∨ (q ∧ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is True, a is False, (((((a ∨ K) ∨ (K ∨ a)) ∨ ((a ∨ K) ∨ (K ∧ K))) ∨ (((a ∨ a) ∧ (K ∧ K)) ∨ ((K ∧ K) ∨ (K ∨ a)))) ∧ ((((a ∧ a) ∨ (K ∨ K)) ∨ ((K ∧ K) ∨ (K ∧ K))) ∨ (((K ∨ K) ∨ (a ∨ a)) ∧ ((a ∧ K) ∨ (a ∨ K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, G is True, (((((P ∨ G) ∧ (G ∨ G)) ∨ ((G ∧ G) ∨ (P ∨ G))) ∧ (((G ∧ P) ∧ (P ∧ P)) ∨ ((G ∨ G) ∧ (P ∧ P)))) ∨ ((((G ∨ P) ∧ (P ∨ P)) ∨ ((G ∨ P) ∨ (P ∨ G))) ∧ (((P ∧ P) ∨ (G ∨ G)) ∧ ((P ∨ P) ∧ (P ∨ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, z is False, (((((f ∧ z) ∧ (f ∨ f)) ∨ ((f ∧ f) ∨ (z ∧ f))) ∨ (((z ∨ z) ∧ (z ∨ z)) ∨ ((f ∧ f) ∧ (z ∨ z)))) ∧ ((((f ∨ f) ∨ (f ∧ f)) ∧ ((z ∧ f) ∨ (z ∨ f))) ∧ (((f ∨ z) ∨ (z ∧ z)) ∨ ((f ∨ f) ∧ (f ∨ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, k is True, (((((k ∧ t) ∧ (t ∧ k)) ∨ ((k ∨ t) ∧ (k ∧ k))) ∧ (((t ∧ k) ∨ (k ∧ k)) ∧ ((k ∨ k) ∧ (t ∨ t)))) ∧ ((((k ∧ t) ∧ (t ∧ t)) ∧ ((t ∧ t) ∧ (t ∨ k))) ∨ (((t ∧ k) ∧ (k ∨ k)) ∧ ((k ∨ k) ∧ (t ∨ k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, y is True, (((((b ∧ y) ∧ (y ∧ y)) ∨ ((b ∧ y) ∨ (y ∧ y))) ∧ (((y ∨ y) ∧ (y ∧ b)) ∨ ((b ∨ b) ∨ (b ∨ y)))) ∧ ((((b ∧ b) ∧ (y ∧ y)) ∨ ((b ∧ b) ∨ (y ∧ y))) ∧ (((y ∧ b) ∨ (y ∨ y)) ∧ ((y ∧ b) ∨ (b ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, s is True, (((((R ∧ s) ∧ (s ∨ R)) ∨ ((s ∨ R) ∧ (s ∧ s))) ∨ (((s ∨ s) ∧ (R ∧ R)) ∧ ((s ∨ R) ∧ (s ∨ R)))) ∧ ((((R ∨ R) ∨ (s ∨ s)) ∧ ((s ∧ s) ∧ (R ∨ s))) ∨ (((s ∨ s) ∧ (s ∧ R)) ∨ ((R ∨ s) ∧ (R ∨ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, b is False, (((((v ∨ b) ∧ (b ∧ b)) ∧ ((b ∨ b) ∧ (v ∨ b))) ∧ (((b ∨ v) ∨ (v ∨ v)) ∨ ((b ∨ v) ∨ (v ∨ b)))) ∨ ((((b ∧ v) ∧ (b ∧ b)) ∧ ((v ∨ v) ∨ (v ∨ b))) ∧ (((b ∨ v) ∨ (b ∧ b)) ∨ ((b ∧ b) ∧ (v ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is True, Q is False, (((((Q ∨ s) ∨ (Q ∨ Q)) ∧ ((s ∨ Q) ∧ (s ∨ Q))) ∨ (((s ∨ Q) ∧ (Q ∧ s)) ∧ ((Q ∧ s) ∨ (Q ∧ Q)))) ∧ ((((Q ∨ Q) ∧ (Q ∧ Q)) ∨ ((Q ∧ Q) ∧ (s ∧ s))) ∧ (((Q ∧ s) ∧ (Q ∧ Q)) ∨ ((s ∧ s) ∨ (s ∨ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "j is True, p is False, (((((j ∨ p) ∧ (j ∧ p)) ∧ ((j ∨ p) ∧ (p ∨ p))) ∨ (((p ∧ j) ∨ (p ∨ p)) ∧ ((p ∧ p) ∧ (j ∨ p)))) ∧ ((((p ∧ j) ∨ (p ∧ j)) ∧ ((j ∨ p) ∨ (p ∧ p))) ∧ (((p ∧ j) ∧ (j ∧ j)) ∧ ((p ∨ j) ∨ (p ∧ p)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, I is True, (((((q ∨ I) ∨ (q ∨ q)) ∨ ((q ∧ q) ∨ (I ∧ I))) ∨ (((I ∧ q) ∧ (q ∧ q)) ∧ ((I ∨ q) ∨ (I ∨ q)))) ∧ ((((I ∨ I) ∧ (q ∧ I)) ∨ ((q ∨ q) ∨ (I ∧ I))) ∧ (((q ∨ q) ∨ (q ∧ I)) ∨ ((q ∨ q) ∧ (I ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, g is True, (((((g ∨ b) ∨ (b ∨ g)) ∨ ((b ∨ b) ∨ (b ∨ b))) ∧ (((g ∨ b) ∧ (b ∧ b)) ∨ ((b ∧ b) ∨ (b ∧ g)))) ∧ ((((b ∨ g) ∧ (b ∧ b)) ∧ ((g ∨ g) ∨ (b ∧ b))) ∧ (((b ∨ b) ∨ (b ∨ b)) ∧ ((b ∧ g) ∨ (g ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, O is True, (((((R ∧ O) ∨ (O ∨ O)) ∧ ((O ∧ R) ∧ (R ∧ O))) ∨ (((O ∨ R) ∧ (O ∨ O)) ∧ ((R ∨ R) ∨ (O ∨ R)))) ∧ ((((O ∨ R) ∨ (O ∧ R)) ∧ ((R ∨ O) ∨ (O ∨ O))) ∧ (((O ∧ O) ∧ (O ∧ O)) ∨ ((R ∨ R) ∨ (R ∧ O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, p is False, (((((p ∧ N) ∨ (p ∨ p)) ∨ ((N ∨ N) ∨ (N ∧ p))) ∨ (((N ∨ p) ∨ (p ∨ N)) ∨ ((N ∨ N) ∨ (p ∧ N)))) ∨ ((((N ∨ N) ∨ (p ∨ N)) ∨ ((N ∨ p) ∧ (p ∧ p))) ∧ (((N ∨ p) ∨ (N ∧ p)) ∧ ((N ∨ N) ∧ (N ∧ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, B is False, (((((D ∧ B) ∧ (D ∧ D)) ∧ ((B ∨ B) ∧ (B ∧ D))) ∧ (((D ∨ D) ∧ (B ∨ D)) ∧ ((D ∧ D) ∧ (D ∨ B)))) ∨ ((((B ∧ D) ∨ (D ∨ B)) ∧ ((D ∨ B) ∨ (B ∧ B))) ∧ (((B ∨ D) ∧ (D ∨ D)) ∧ ((D ∨ B) ∧ (B ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, y is True, (((((y ∨ X) ∨ (y ∧ X)) ∧ ((y ∧ y) ∨ (X ∨ y))) ∨ (((y ∨ X) ∨ (y ∧ X)) ∨ ((X ∨ X) ∨ (X ∧ y)))) ∧ ((((y ∨ X) ∨ (y ∧ y)) ∧ ((y ∨ X) ∧ (y ∨ X))) ∨ (((X ∨ X) ∧ (y ∧ X)) ∨ ((X ∨ X) ∨ (y ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, u is False, (((((u ∨ i) ∨ (i ∨ i)) ∧ ((i ∨ u) ∧ (u ∨ u))) ∨ (((u ∧ i) ∧ (i ∧ i)) ∨ ((i ∨ i) ∧ (u ∨ i)))) ∧ ((((i ∨ u) ∨ (i ∧ u)) ∧ ((u ∨ i) ∨ (u ∧ u))) ∨ (((i ∧ i) ∨ (i ∧ i)) ∨ ((u ∧ u) ∧ (u ∨ u)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is True, P is False, (((((z ∧ P) ∨ (P ∨ z)) ∨ ((P ∧ z) ∧ (z ∧ z))) ∨ (((P ∧ z) ∧ (P ∨ z)) ∧ ((P ∧ P) ∨ (z ∨ P)))) ∨ ((((P ∨ P) ∨ (z ∨ P)) ∨ ((z ∨ z) ∨ (z ∧ P))) ∧ (((z ∨ P) ∨ (P ∧ z)) ∨ ((P ∧ P) ∧ (z ∧ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, f is False, (((((f ∨ H) ∨ (f ∨ f)) ∨ ((f ∨ f) ∧ (f ∨ H))) ∧ (((H ∨ H) ∧ (f ∨ H)) ∨ ((f ∧ f) ∨ (f ∨ H)))) ∧ ((((f ∨ H) ∨ (H ∧ f)) ∨ ((f ∨ f) ∧ (f ∧ H))) ∨ (((H ∨ H) ∨ (H ∨ H)) ∧ ((f ∨ f) ∧ (H ∨ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, I is True, (((((I ∨ R) ∧ (I ∨ R)) ∨ ((I ∧ R) ∨ (R ∨ I))) ∧ (((I ∧ I) ∨ (I ∨ I)) ∨ ((R ∧ R) ∧ (I ∨ R)))) ∧ ((((R ∨ I) ∨ (R ∨ I)) ∧ ((I ∨ R) ∨ (I ∨ R))) ∨ (((R ∧ R) ∨ (R ∧ I)) ∧ ((I ∨ I) ∧ (I ∨ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "C is False, L is True, (((((C ∧ L) ∨ (L ∧ L)) ∧ ((L ∧ C) ∧ (L ∨ C))) ∧ (((L ∨ C) ∨ (C ∧ C)) ∧ ((C ∧ L) ∨ (L ∨ L)))) ∨ ((((C ∧ C) ∨ (L ∧ L)) ∧ ((L ∨ L) ∧ (C ∨ C))) ∨ (((L ∧ C) ∨ (L ∧ L)) ∨ ((C ∧ C) ∨ (C ∧ C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is False, P is True, (((((D ∨ P) ∨ (D ∨ P)) ∧ ((D ∨ D) ∧ (P ∧ D))) ∧ (((D ∨ D) ∨ (P ∨ P)) ∧ ((P ∧ D) ∨ (P ∨ P)))) ∨ ((((P ∧ D) ∨ (P ∨ P)) ∨ ((D ∨ D) ∨ (D ∧ D))) ∧ (((D ∨ D) ∨ (P ∧ P)) ∨ ((D ∨ P) ∧ (P ∧ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, a is True, (((((a ∧ G) ∧ (a ∧ a)) ∧ ((G ∨ G) ∧ (G ∧ a))) ∧ (((a ∧ a) ∧ (G ∨ G)) ∧ ((G ∨ G) ∨ (a ∨ a)))) ∨ ((((G ∧ G) ∨ (a ∧ G)) ∨ ((G ∨ a) ∧ (G ∧ a))) ∧ (((G ∨ a) ∧ (G ∧ G)) ∨ ((a ∨ a) ∧ (G ∧ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, W is True, (((((W ∨ q) ∨ (W ∧ W)) ∨ ((W ∧ W) ∧ (q ∧ W))) ∨ (((W ∨ q) ∧ (W ∨ W)) ∨ ((q ∧ W) ∧ (W ∧ q)))) ∧ ((((q ∨ q) ∧ (q ∧ q)) ∨ ((W ∨ W) ∧ (W ∧ q))) ∧ (((W ∧ W) ∨ (W ∧ q)) ∧ ((W ∧ q) ∨ (q ∨ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, m is False, (((((m ∧ w) ∧ (w ∧ w)) ∧ ((m ∧ w) ∨ (m ∨ w))) ∨ (((m ∨ w) ∧ (m ∧ m)) ∧ ((w ∨ w) ∨ (w ∧ w)))) ∧ ((((w ∧ m) ∨ (w ∨ m)) ∧ ((m ∧ m) ∨ (w ∨ w))) ∨ (((m ∨ w) ∨ (m ∨ w)) ∧ ((m ∨ m) ∨ (w ∨ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, F is True, (((((h ∨ F) ∧ (h ∧ h)) ∨ ((F ∨ F) ∧ (h ∧ h))) ∨ (((h ∧ h) ∨ (F ∨ h)) ∨ ((h ∨ h) ∧ (h ∨ F)))) ∧ ((((F ∧ F) ∨ (F ∧ h)) ∨ ((F ∨ h) ∨ (F ∨ h))) ∨ (((F ∨ F) ∨ (F ∨ F)) ∨ ((h ∧ h) ∧ (F ∨ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, Z is False, (((((Z ∧ H) ∧ (Z ∧ Z)) ∨ ((Z ∧ Z) ∨ (Z ∨ H))) ∧ (((Z ∧ Z) ∨ (H ∨ H)) ∨ ((H ∨ H) ∨ (H ∧ H)))) ∧ ((((H ∧ Z) ∧ (H ∨ H)) ∧ ((Z ∨ Z) ∧ (H ∧ Z))) ∨ (((H ∨ Z) ∧ (Z ∧ H)) ∧ ((Z ∨ H) ∨ (H ∧ H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is False, T is True, (((((z ∨ T) ∧ (z ∨ z)) ∨ ((z ∨ z) ∧ (z ∨ T))) ∨ (((z ∧ z) ∨ (T ∧ z)) ∨ ((T ∧ T) ∧ (z ∧ z)))) ∧ ((((z ∨ T) ∧ (T ∨ z)) ∧ ((T ∧ z) ∧ (z ∨ T))) ∧ (((T ∨ T) ∨ (T ∨ T)) ∨ ((z ∧ z) ∧ (z ∧ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is False, g is True, (((((r ∨ g) ∨ (r ∨ g)) ∧ ((r ∨ r) ∨ (g ∨ r))) ∧ (((r ∨ g) ∨ (g ∧ r)) ∨ ((r ∧ g) ∨ (g ∨ r)))) ∨ ((((r ∨ r) ∧ (r ∧ g)) ∧ ((g ∨ g) ∨ (g ∧ r))) ∧ (((r ∨ r) ∧ (g ∧ r)) ∧ ((g ∨ r) ∧ (r ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, I is False, (((((I ∧ R) ∧ (I ∨ R)) ∨ ((I ∨ R) ∨ (I ∨ I))) ∨ (((I ∨ I) ∧ (R ∧ R)) ∨ ((R ∧ R) ∨ (I ∧ I)))) ∨ ((((I ∨ I) ∨ (I ∨ I)) ∧ ((I ∧ R) ∨ (I ∧ R))) ∧ (((R ∧ R) ∧ (I ∨ I)) ∧ ((I ∨ I) ∨ (R ∧ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is True, p is False, (((((p ∨ z) ∧ (z ∨ p)) ∨ ((z ∧ p) ∨ (p ∧ p))) ∨ (((p ∨ z) ∧ (z ∨ p)) ∧ ((z ∧ z) ∧ (p ∧ z)))) ∧ ((((z ∨ p) ∨ (z ∧ z)) ∨ ((z ∨ p) ∨ (z ∨ z))) ∨ (((z ∧ p) ∨ (z ∨ p)) ∧ ((p ∧ z) ∧ (p ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is False, p is True, (((((a ∨ p) ∨ (a ∨ p)) ∧ ((p ∨ p) ∨ (a ∨ a))) ∨ (((a ∧ p) ∨ (p ∧ a)) ∨ ((p ∧ a) ∧ (a ∧ a)))) ∨ ((((a ∧ p) ∧ (a ∨ p)) ∧ ((a ∧ p) ∨ (p ∨ a))) ∧ (((p ∨ p) ∨ (p ∨ a)) ∧ ((a ∧ a) ∨ (p ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "r is False, P is True, (((((P ∨ r) ∧ (r ∧ P)) ∧ ((r ∨ P) ∧ (P ∧ r))) ∨ (((P ∧ P) ∧ (r ∨ P)) ∨ ((r ∧ r) ∧ (P ∨ P)))) ∨ ((((P ∧ r) ∧ (r ∧ r)) ∨ ((P ∧ P) ∧ (P ∨ r))) ∨ (((r ∧ P) ∧ (r ∧ P)) ∧ ((P ∧ P) ∧ (P ∧ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, V is True, (((((V ∧ t) ∨ (t ∨ t)) ∧ ((t ∨ V) ∧ (V ∨ t))) ∧ (((V ∨ V) ∧ (t ∨ t)) ∨ ((t ∨ t) ∨ (V ∨ t)))) ∧ ((((V ∨ V) ∨ (t ∨ V)) ∧ ((t ∧ V) ∨ (t ∨ t))) ∧ (((V ∨ t) ∧ (t ∧ t)) ∨ ((t ∨ V) ∧ (t ∧ V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, S is True, (((((I ∧ S) ∨ (S ∨ I)) ∧ ((I ∨ S) ∨ (I ∧ I))) ∨ (((I ∨ I) ∧ (I ∧ S)) ∧ ((I ∧ I) ∧ (I ∧ I)))) ∨ ((((I ∧ I) ∧ (I ∨ I)) ∨ ((S ∨ S) ∨ (S ∧ S))) ∧ (((I ∨ S) ∨ (I ∧ I)) ∨ ((S ∧ S) ∧ (S ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, e is True, (((((R ∨ e) ∨ (R ∨ e)) ∧ ((R ∨ e) ∧ (e ∧ R))) ∧ (((e ∧ e) ∨ (e ∧ R)) ∧ ((R ∨ e) ∧ (R ∧ e)))) ∧ ((((e ∧ e) ∧ (e ∧ e)) ∨ ((R ∨ R) ∧ (e ∨ R))) ∨ (((R ∧ R) ∧ (e ∨ e)) ∨ ((e ∧ R) ∨ (R ∧ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, g is True, (((((P ∧ g) ∧ (g ∨ P)) ∨ ((g ∧ P) ∨ (P ∧ g))) ∨ (((g ∧ g) ∧ (g ∧ g)) ∧ ((g ∧ P) ∧ (P ∧ P)))) ∧ ((((g ∧ g) ∧ (P ∨ g)) ∨ ((P ∧ g) ∧ (P ∨ g))) ∧ (((g ∨ g) ∧ (P ∨ g)) ∧ ((P ∧ g) ∧ (P ∨ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, O is False, (((((E ∧ O) ∨ (E ∧ E)) ∨ ((O ∨ E) ∧ (O ∨ E))) ∧ (((E ∧ O) ∧ (O ∧ E)) ∨ ((O ∧ E) ∨ (O ∧ O)))) ∧ ((((O ∧ E) ∨ (O ∧ O)) ∧ ((O ∧ O) ∨ (O ∧ O))) ∧ (((E ∧ E) ∨ (O ∨ E)) ∨ ((E ∧ E) ∧ (O ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, x is True, (((((L ∧ x) ∧ (L ∧ L)) ∨ ((L ∨ x) ∧ (x ∨ L))) ∧ (((L ∨ x) ∧ (x ∨ L)) ∨ ((x ∧ x) ∨ (L ∧ L)))) ∧ ((((L ∨ x) ∨ (x ∨ x)) ∨ ((L ∧ L) ∨ (x ∧ x))) ∧ (((L ∨ L) ∨ (x ∧ L)) ∧ ((L ∨ L) ∧ (x ∨ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, M is False, (((((M ∧ f) ∨ (M ∧ f)) ∧ ((f ∧ f) ∨ (M ∧ M))) ∧ (((f ∨ f) ∧ (M ∧ f)) ∨ ((f ∨ M) ∨ (M ∨ f)))) ∧ ((((f ∨ M) ∨ (f ∨ f)) ∨ ((f ∧ M) ∧ (M ∨ M))) ∧ (((M ∨ M) ∨ (f ∧ f)) ∧ ((f ∨ M) ∧ (f ∨ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is True, M is False, (((((M ∨ G) ∧ (G ∧ M)) ∧ ((G ∨ M) ∧ (M ∨ G))) ∨ (((G ∧ M) ∨ (G ∨ M)) ∧ ((M ∨ M) ∧ (G ∨ G)))) ∧ ((((M ∧ M) ∨ (G ∧ G)) ∨ ((G ∨ M) ∨ (G ∨ G))) ∧ (((M ∨ M) ∧ (M ∨ M)) ∨ ((G ∨ G) ∨ (M ∨ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, s is True, (((((w ∧ s) ∨ (w ∧ w)) ∨ ((s ∨ w) ∧ (s ∨ s))) ∨ (((w ∨ w) ∧ (w ∨ s)) ∨ ((w ∧ w) ∧ (w ∧ s)))) ∨ ((((s ∨ w) ∨ (w ∧ s)) ∧ ((s ∧ s) ∧ (w ∧ w))) ∧ (((s ∧ s) ∨ (s ∧ s)) ∧ ((s ∧ w) ∨ (w ∧ w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, j is False, (((((j ∧ A) ∧ (A ∨ j)) ∨ ((j ∨ j) ∨ (A ∨ A))) ∧ (((A ∨ j) ∨ (A ∨ j)) ∧ ((A ∧ A) ∧ (j ∨ A)))) ∧ ((((A ∨ A) ∧ (A ∨ A)) ∧ ((A ∧ j) ∧ (j ∨ A))) ∧ (((A ∧ j) ∨ (j ∨ A)) ∨ ((A ∨ j) ∨ (A ∨ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is False, k is True, (((((k ∨ q) ∧ (k ∧ q)) ∧ ((k ∨ q) ∨ (k ∨ q))) ∨ (((k ∨ q) ∨ (q ∨ k)) ∨ ((q ∨ k) ∧ (q ∧ q)))) ∨ ((((k ∨ k) ∨ (k ∨ k)) ∨ ((k ∨ k) ∧ (k ∧ q))) ∧ (((q ∨ q) ∧ (q ∧ q)) ∨ ((q ∧ k) ∨ (q ∨ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, p is True, (((((c ∧ p) ∨ (c ∧ p)) ∧ ((c ∧ c) ∧ (p ∨ p))) ∧ (((p ∨ c) ∧ (c ∨ c)) ∧ ((c ∧ c) ∧ (p ∨ c)))) ∨ ((((p ∧ c) ∨ (c ∨ p)) ∨ ((c ∧ p) ∧ (c ∧ p))) ∧ (((p ∨ p) ∨ (c ∧ c)) ∨ ((p ∨ c) ∧ (p ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "x is False, T is True, (((((T ∨ x) ∨ (x ∨ T)) ∧ ((x ∨ T) ∧ (x ∨ x))) ∨ (((x ∨ T) ∧ (x ∨ x)) ∧ ((T ∨ T) ∧ (x ∨ T)))) ∨ ((((x ∧ T) ∨ (x ∨ T)) ∨ ((x ∨ x) ∧ (T ∧ x))) ∧ (((x ∨ x) ∧ (T ∨ x)) ∨ ((x ∨ T) ∨ (x ∧ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, I is False, (((((I ∨ N) ∧ (N ∨ N)) ∨ ((N ∨ I) ∧ (N ∨ I))) ∧ (((N ∨ I) ∨ (N ∧ I)) ∧ ((N ∨ I) ∨ (I ∨ I)))) ∨ ((((N ∧ I) ∧ (N ∨ N)) ∨ ((N ∧ N) ∧ (N ∧ N))) ∨ (((N ∨ N) ∨ (N ∧ N)) ∨ ((N ∨ N) ∨ (I ∧ N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is False, y is True, (((((w ∨ y) ∧ (w ∨ y)) ∨ ((w ∨ y) ∨ (y ∧ w))) ∨ (((w ∨ w) ∧ (y ∧ w)) ∨ ((w ∧ w) ∨ (w ∨ y)))) ∨ ((((y ∨ w) ∨ (w ∨ w)) ∧ ((y ∨ y) ∨ (w ∨ y))) ∧ (((w ∧ w) ∨ (w ∨ w)) ∧ ((y ∧ w) ∨ (y ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is True, O is False, (((((O ∨ a) ∧ (a ∧ a)) ∧ ((a ∨ O) ∨ (O ∨ O))) ∨ (((a ∨ a) ∧ (O ∨ a)) ∧ ((O ∧ a) ∧ (a ∨ O)))) ∧ ((((a ∨ O) ∧ (a ∨ a)) ∧ ((a ∨ O) ∨ (O ∨ a))) ∧ (((O ∨ O) ∧ (O ∨ a)) ∨ ((a ∨ O) ∧ (a ∧ O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is False, J is True, (((((E ∧ J) ∨ (E ∧ E)) ∨ ((E ∧ J) ∨ (E ∧ E))) ∨ (((E ∨ E) ∧ (J ∨ E)) ∧ ((J ∨ E) ∧ (E ∨ J)))) ∧ ((((J ∨ J) ∧ (J ∧ E)) ∨ ((E ∨ J) ∨ (J ∧ E))) ∨ (((J ∧ E) ∧ (J ∧ J)) ∧ ((J ∧ E) ∨ (J ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, T is False, (((((E ∨ T) ∨ (T ∧ E)) ∧ ((T ∧ E) ∧ (E ∨ T))) ∨ (((E ∨ E) ∧ (E ∧ T)) ∧ ((E ∨ E) ∨ (T ∨ T)))) ∨ ((((T ∨ E) ∨ (T ∧ T)) ∧ ((T ∨ T) ∧ (E ∨ E))) ∧ (((E ∨ E) ∧ (T ∨ E)) ∨ ((E ∧ E) ∨ (E ∧ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "V is False, s is True, (((((V ∧ s) ∨ (V ∨ V)) ∨ ((V ∨ s) ∨ (s ∨ V))) ∧ (((s ∧ s) ∨ (s ∧ V)) ∨ ((V ∧ V) ∧ (s ∧ s)))) ∧ ((((s ∨ V) ∨ (V ∨ V)) ∨ ((V ∨ s) ∧ (V ∨ V))) ∨ (((s ∨ V) ∨ (V ∨ s)) ∨ ((V ∨ s) ∨ (s ∨ V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, m is False, (((((m ∨ H) ∧ (H ∧ H)) ∨ ((H ∧ m) ∨ (m ∧ m))) ∧ (((m ∧ H) ∧ (H ∧ H)) ∨ ((H ∧ m) ∧ (H ∧ H)))) ∧ ((((H ∨ H) ∨ (H ∨ H)) ∨ ((H ∨ m) ∨ (H ∧ H))) ∧ (((m ∨ H) ∧ (m ∧ m)) ∧ ((m ∨ H) ∨ (m ∨ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, w is True, (((((F ∨ w) ∧ (w ∨ w)) ∨ ((w ∨ F) ∧ (w ∨ F))) ∨ (((F ∧ w) ∨ (w ∧ F)) ∨ ((F ∨ w) ∨ (w ∨ w)))) ∧ ((((w ∨ F) ∧ (w ∧ F)) ∨ ((F ∧ F) ∧ (F ∨ F))) ∨ (((F ∧ F) ∨ (F ∨ F)) ∨ ((F ∧ w) ∨ (w ∨ w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is True, J is False, (((((t ∧ J) ∨ (J ∧ J)) ∧ ((J ∨ J) ∨ (J ∧ t))) ∨ (((t ∨ J) ∧ (t ∨ J)) ∨ ((J ∧ t) ∨ (t ∧ J)))) ∨ ((((t ∨ t) ∨ (t ∨ J)) ∧ ((t ∨ J) ∧ (t ∨ t))) ∨ (((J ∨ J) ∨ (t ∨ t)) ∧ ((t ∧ J) ∧ (t ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, b is True, (((((b ∨ q) ∧ (b ∧ q)) ∧ ((b ∧ q) ∧ (q ∧ q))) ∧ (((q ∧ b) ∨ (b ∧ q)) ∨ ((q ∨ q) ∧ (q ∧ q)))) ∧ ((((b ∧ q) ∨ (b ∧ q)) ∧ ((q ∨ b) ∨ (q ∨ q))) ∧ (((b ∨ b) ∧ (q ∨ q)) ∧ ((b ∨ q) ∧ (b ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is False, g is True, (((((g ∧ T) ∧ (T ∧ g)) ∧ ((g ∨ g) ∨ (g ∧ g))) ∨ (((T ∨ T) ∧ (g ∧ g)) ∧ ((T ∨ T) ∨ (g ∧ T)))) ∨ ((((T ∧ T) ∨ (g ∨ T)) ∨ ((g ∨ g) ∧ (T ∨ g))) ∨ (((g ∧ g) ∨ (T ∧ g)) ∧ ((T ∨ T) ∨ (g ∧ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, T is False, (((((T ∨ j) ∧ (j ∨ j)) ∧ ((j ∧ T) ∨ (j ∧ j))) ∨ (((j ∧ T) ∨ (j ∨ T)) ∨ ((j ∧ T) ∧ (j ∧ T)))) ∨ ((((T ∧ j) ∨ (T ∧ T)) ∧ ((T ∧ T) ∨ (j ∧ j))) ∨ (((j ∧ T) ∨ (j ∧ j)) ∨ ((j ∨ T) ∧ (T ∨ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is False, u is True, (((((u ∧ w) ∧ (w ∨ u)) ∨ ((w ∧ u) ∨ (w ∨ w))) ∧ (((w ∨ u) ∧ (w ∧ u)) ∧ ((w ∧ u) ∧ (u ∨ w)))) ∧ ((((u ∨ u) ∧ (w ∨ u)) ∨ ((w ∧ u) ∨ (u ∧ w))) ∧ (((w ∨ w) ∧ (u ∧ w)) ∧ ((u ∧ w) ∧ (w ∨ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, W is False, (((((X ∧ W) ∨ (X ∧ W)) ∨ ((W ∨ W) ∧ (X ∧ W))) ∧ (((W ∧ W) ∨ (W ∨ X)) ∨ ((X ∧ W) ∨ (W ∧ X)))) ∧ ((((W ∨ W) ∨ (X ∨ X)) ∨ ((X ∧ X) ∧ (X ∧ W))) ∧ (((W ∨ W) ∨ (W ∧ X)) ∨ ((X ∧ W) ∧ (X ∧ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, o is True, (((((I ∧ o) ∨ (o ∨ o)) ∧ ((o ∧ I) ∨ (o ∧ I))) ∨ (((o ∨ o) ∨ (o ∧ I)) ∧ ((o ∨ I) ∨ (o ∧ o)))) ∧ ((((o ∧ o) ∧ (o ∧ I)) ∨ ((o ∧ o) ∨ (I ∨ I))) ∧ (((o ∨ I) ∨ (o ∨ o)) ∧ ((o ∧ I) ∧ (o ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, x is True, (((((n ∨ x) ∧ (x ∧ n)) ∧ ((x ∧ x) ∨ (n ∨ n))) ∨ (((x ∨ x) ∧ (x ∧ x)) ∧ ((n ∧ n) ∧ (x ∧ n)))) ∧ ((((x ∨ n) ∧ (x ∨ x)) ∨ ((n ∨ x) ∨ (x ∧ x))) ∨ (((x ∨ x) ∧ (x ∧ n)) ∧ ((x ∧ n) ∧ (x ∨ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is False, s is True, (((((s ∧ E) ∨ (E ∧ E)) ∧ ((E ∧ E) ∨ (s ∨ s))) ∨ (((s ∨ E) ∧ (E ∧ s)) ∨ ((s ∨ s) ∨ (s ∧ E)))) ∨ ((((s ∧ s) ∨ (E ∧ s)) ∨ ((E ∨ E) ∨ (s ∧ s))) ∨ (((E ∧ E) ∨ (E ∨ E)) ∧ ((s ∧ s) ∧ (E ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is True, G is False, (((((z ∧ G) ∨ (G ∨ G)) ∨ ((G ∧ G) ∧ (z ∧ G))) ∧ (((z ∨ z) ∨ (G ∨ z)) ∧ ((z ∨ G) ∨ (z ∨ G)))) ∧ ((((G ∧ G) ∨ (z ∧ z)) ∧ ((G ∨ z) ∧ (z ∨ G))) ∧ (((G ∧ z) ∨ (G ∧ G)) ∧ ((G ∨ G) ∨ (G ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, F is False, (((((F ∨ N) ∧ (F ∧ F)) ∧ ((F ∨ N) ∧ (F ∨ F))) ∨ (((N ∧ N) ∨ (N ∨ N)) ∨ ((F ∨ F) ∨ (N ∧ F)))) ∨ ((((F ∨ N) ∧ (N ∨ F)) ∧ ((F ∨ F) ∧ (N ∧ N))) ∨ (((F ∨ F) ∨ (N ∨ F)) ∨ ((N ∨ F) ∧ (N ∨ N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, y is False, (((((o ∨ y) ∨ (y ∨ y)) ∨ ((y ∨ o) ∨ (y ∨ y))) ∧ (((y ∧ o) ∨ (y ∧ o)) ∨ ((y ∨ y) ∧ (y ∧ o)))) ∧ ((((o ∧ o) ∨ (o ∧ y)) ∧ ((y ∧ o) ∧ (y ∧ y))) ∧ (((o ∨ o) ∧ (o ∨ o)) ∧ ((o ∧ y) ∨ (y ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, J is True, (((((c ∨ J) ∧ (c ∨ J)) ∧ ((J ∨ J) ∧ (c ∨ J))) ∨ (((c ∧ J) ∨ (c ∨ c)) ∨ ((J ∨ J) ∧ (J ∧ c)))) ∨ ((((J ∨ c) ∨ (c ∨ c)) ∧ ((J ∨ c) ∨ (c ∨ J))) ∧ (((c ∨ J) ∧ (J ∧ c)) ∨ ((c ∧ J) ∨ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, g is True, (((((t ∧ g) ∧ (t ∨ g)) ∨ ((t ∧ t) ∨ (g ∧ g))) ∧ (((t ∧ g) ∧ (g ∨ g)) ∧ ((t ∨ t) ∧ (t ∨ t)))) ∨ ((((g ∨ t) ∧ (t ∨ t)) ∨ ((t ∨ t) ∨ (g ∧ t))) ∧ (((t ∧ g) ∧ (g ∨ g)) ∧ ((t ∧ g) ∧ (g ∧ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "s is False, C is True, (((((C ∨ s) ∧ (s ∨ s)) ∨ ((s ∧ s) ∧ (C ∨ C))) ∨ (((s ∨ s) ∧ (s ∨ s)) ∧ ((C ∨ C) ∨ (C ∨ C)))) ∧ ((((C ∨ C) ∨ (s ∧ C)) ∧ ((s ∧ C) ∨ (s ∨ s))) ∧ (((C ∨ C) ∧ (C ∨ s)) ∨ ((C ∧ C) ∨ (s ∧ C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, g is True, (((((g ∨ D) ∧ (g ∧ g)) ∨ ((D ∨ D) ∨ (g ∨ g))) ∨ (((D ∧ g) ∨ (D ∨ D)) ∨ ((D ∧ D) ∨ (D ∨ D)))) ∧ ((((g ∨ g) ∧ (D ∨ D)) ∨ ((g ∨ D) ∧ (g ∧ D))) ∧ (((g ∨ g) ∧ (g ∨ D)) ∨ ((D ∧ g) ∧ (D ∨ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is False, p is True, (((((p ∧ f) ∧ (f ∨ f)) ∧ ((f ∧ p) ∨ (f ∨ p))) ∧ (((f ∨ f) ∧ (f ∧ p)) ∧ ((p ∨ p) ∨ (p ∨ f)))) ∧ ((((p ∧ f) ∨ (f ∧ f)) ∧ ((p ∨ f) ∧ (f ∨ p))) ∧ (((f ∧ f) ∨ (p ∨ p)) ∧ ((f ∧ f) ∧ (p ∨ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, j is False, (((((z ∨ j) ∧ (j ∧ z)) ∨ ((j ∨ j) ∧ (z ∨ j))) ∧ (((j ∨ z) ∧ (j ∨ j)) ∧ ((j ∨ j) ∨ (j ∧ z)))) ∨ ((((j ∨ z) ∨ (z ∧ z)) ∧ ((j ∧ z) ∧ (j ∨ j))) ∨ (((j ∧ z) ∧ (j ∧ z)) ∨ ((j ∧ z) ∧ (z ∨ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, j is False, (((((E ∧ j) ∧ (E ∨ j)) ∨ ((E ∨ E) ∧ (E ∧ j))) ∧ (((E ∧ j) ∨ (j ∨ E)) ∧ ((j ∧ j) ∧ (E ∧ j)))) ∨ ((((j ∧ j) ∨ (j ∧ j)) ∨ ((E ∨ E) ∨ (E ∨ j))) ∨ (((E ∧ j) ∨ (j ∧ E)) ∨ ((j ∧ j) ∧ (E ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is True, s is False, (((((V ∧ s) ∧ (V ∧ V)) ∧ ((V ∧ s) ∧ (V ∧ V))) ∨ (((V ∨ V) ∨ (V ∨ V)) ∨ ((V ∧ V) ∨ (V ∧ V)))) ∧ ((((V ∧ s) ∨ (V ∨ V)) ∨ ((s ∧ V) ∧ (s ∧ s))) ∨ (((V ∨ V) ∧ (V ∧ s)) ∨ ((V ∨ s) ∧ (V ∨ V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, o is True, (((((o ∨ k) ∧ (k ∨ o)) ∨ ((k ∨ k) ∨ (o ∨ k))) ∨ (((k ∧ k) ∧ (o ∧ o)) ∧ ((o ∨ k) ∨ (k ∧ k)))) ∧ ((((k ∨ o) ∨ (o ∧ o)) ∧ ((k ∧ k) ∧ (o ∧ k))) ∨ (((k ∨ o) ∨ (k ∧ o)) ∨ ((o ∧ k) ∧ (k ∨ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is False, I is True, (((((b ∨ I) ∨ (b ∧ b)) ∨ ((I ∨ I) ∨ (b ∨ b))) ∧ (((I ∨ I) ∨ (I ∨ I)) ∧ ((I ∧ I) ∧ (I ∧ b)))) ∧ ((((I ∨ b) ∧ (I ∧ b)) ∧ ((I ∧ I) ∧ (I ∧ b))) ∨ (((b ∨ b) ∧ (b ∨ b)) ∨ ((b ∨ I) ∧ (I ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, B is False, (((((B ∧ f) ∨ (B ∨ f)) ∧ ((f ∧ B) ∧ (B ∨ f))) ∨ (((f ∧ B) ∧ (B ∨ B)) ∧ ((B ∨ f) ∨ (B ∧ f)))) ∧ ((((f ∨ B) ∧ (f ∧ f)) ∧ ((B ∨ f) ∨ (B ∨ B))) ∧ (((B ∧ f) ∨ (f ∧ B)) ∨ ((B ∨ f) ∧ (B ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, D is False, (((((D ∨ M) ∧ (D ∧ D)) ∨ ((D ∨ D) ∨ (D ∧ D))) ∨ (((D ∨ M) ∧ (D ∧ M)) ∨ ((D ∧ D) ∨ (M ∧ D)))) ∧ ((((M ∨ D) ∨ (M ∨ D)) ∧ ((D ∧ M) ∧ (D ∧ M))) ∧ (((M ∧ D) ∨ (M ∨ D)) ∨ ((D ∧ D) ∨ (D ∧ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, g is False, (((((D ∧ g) ∨ (g ∧ g)) ∨ ((D ∧ g) ∧ (g ∧ g))) ∧ (((g ∨ D) ∧ (D ∨ g)) ∧ ((D ∧ g) ∨ (g ∧ D)))) ∧ ((((D ∧ g) ∧ (D ∨ g)) ∨ ((D ∧ D) ∨ (D ∧ D))) ∧ (((g ∧ D) ∨ (D ∨ g)) ∧ ((D ∨ g) ∧ (g ∨ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is True, d is False, (((((d ∨ B) ∧ (d ∧ B)) ∧ ((d ∨ B) ∨ (d ∨ d))) ∨ (((d ∧ B) ∧ (d ∧ B)) ∧ ((B ∨ d) ∨ (d ∧ d)))) ∧ ((((B ∨ B) ∧ (B ∨ B)) ∧ ((d ∨ B) ∨ (B ∧ d))) ∧ (((d ∧ B) ∧ (B ∨ d)) ∧ ((B ∧ d) ∧ (B ∨ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, L is True, (((((L ∨ v) ∧ (v ∨ L)) ∧ ((L ∧ v) ∨ (v ∧ v))) ∧ (((L ∨ L) ∨ (L ∨ L)) ∧ ((L ∨ v) ∨ (v ∨ L)))) ∧ ((((v ∨ L) ∧ (v ∨ v)) ∧ ((v ∧ v) ∧ (v ∧ L))) ∧ (((v ∧ L) ∧ (L ∨ L)) ∧ ((L ∨ L) ∨ (v ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, x is False, (((((m ∨ x) ∨ (m ∧ m)) ∧ ((m ∧ m) ∨ (m ∧ m))) ∨ (((x ∧ x) ∨ (x ∨ x)) ∧ ((m ∨ x) ∨ (x ∧ m)))) ∧ ((((m ∧ x) ∨ (m ∧ m)) ∧ ((m ∧ x) ∨ (x ∨ m))) ∨ (((m ∨ m) ∧ (x ∧ m)) ∧ ((x ∧ x) ∧ (x ∨ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, P is False, (((((P ∨ f) ∨ (f ∧ f)) ∨ ((P ∧ f) ∧ (f ∧ P))) ∧ (((P ∧ P) ∨ (P ∨ f)) ∧ ((P ∨ P) ∧ (P ∨ P)))) ∨ ((((f ∨ f) ∧ (P ∨ P)) ∧ ((P ∧ P) ∧ (f ∨ P))) ∧ (((P ∧ f) ∧ (P ∧ P)) ∨ ((P ∧ P) ∧ (f ∧ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, Q is True, (((((Q ∨ R) ∨ (Q ∧ R)) ∧ ((R ∨ R) ∨ (Q ∧ R))) ∧ (((Q ∧ R) ∨ (R ∧ Q)) ∨ ((Q ∨ Q) ∧ (Q ∨ Q)))) ∧ ((((R ∨ R) ∧ (R ∧ R)) ∨ ((Q ∨ R) ∧ (R ∨ Q))) ∨ (((R ∨ R) ∨ (Q ∨ Q)) ∨ ((R ∨ Q) ∨ (Q ∧ Q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, k is True, (((((k ∧ Z) ∧ (Z ∨ Z)) ∨ ((k ∨ Z) ∨ (k ∨ Z))) ∧ (((k ∨ Z) ∨ (Z ∨ k)) ∧ ((k ∨ Z) ∧ (Z ∨ k)))) ∧ ((((k ∧ k) ∨ (k ∧ Z)) ∨ ((k ∧ Z) ∨ (k ∧ k))) ∧ (((k ∧ Z) ∨ (k ∨ k)) ∨ ((Z ∨ Z) ∨ (k ∨ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, B is False, (((((B ∨ o) ∨ (B ∧ B)) ∨ ((o ∧ o) ∨ (o ∨ B))) ∨ (((B ∧ o) ∧ (o ∨ o)) ∧ ((B ∨ B) ∨ (B ∨ o)))) ∧ ((((B ∨ B) ∨ (o ∨ B)) ∨ ((B ∧ o) ∧ (o ∧ o))) ∨ (((B ∧ B) ∧ (B ∧ o)) ∧ ((B ∧ o) ∨ (o ∧ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is True, M is False, (((((M ∨ V) ∨ (M ∨ M)) ∨ ((V ∨ M) ∨ (M ∨ M))) ∧ (((V ∧ M) ∧ (M ∨ V)) ∨ ((V ∨ M) ∧ (V ∧ M)))) ∧ ((((V ∧ M) ∧ (V ∨ V)) ∧ ((M ∨ V) ∨ (V ∧ M))) ∧ (((V ∧ M) ∨ (V ∨ M)) ∨ ((V ∨ M) ∨ (M ∧ V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, B is False, (((((e ∨ B) ∧ (B ∧ B)) ∧ ((e ∨ B) ∨ (e ∨ e))) ∨ (((B ∧ e) ∧ (e ∧ e)) ∨ ((e ∨ B) ∧ (B ∨ B)))) ∨ ((((e ∧ B) ∧ (e ∨ e)) ∨ ((B ∨ e) ∨ (e ∨ e))) ∧ (((e ∧ e) ∧ (e ∧ B)) ∧ ((e ∨ B) ∧ (B ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is False, n is True, (((((l ∨ n) ∧ (n ∧ n)) ∨ ((l ∨ n) ∧ (l ∨ l))) ∨ (((n ∧ l) ∧ (l ∧ l)) ∧ ((l ∨ l) ∧ (l ∧ n)))) ∨ ((((l ∨ n) ∨ (l ∨ n)) ∨ ((n ∧ n) ∧ (l ∨ n))) ∨ (((l ∨ n) ∨ (n ∨ l)) ∧ ((n ∧ l) ∧ (l ∨ n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, I is True, (((((P ∨ I) ∧ (P ∧ I)) ∨ ((I ∧ I) ∧ (I ∨ I))) ∨ (((I ∧ P) ∧ (I ∧ P)) ∧ ((P ∨ P) ∨ (I ∧ P)))) ∨ ((((P ∧ P) ∧ (I ∨ P)) ∨ ((P ∨ I) ∧ (I ∧ I))) ∧ (((I ∧ I) ∨ (P ∧ P)) ∧ ((P ∨ I) ∧ (P ∧ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, A is True, (((((A ∧ G) ∧ (A ∨ A)) ∧ ((G ∨ G) ∨ (A ∨ A))) ∨ (((A ∧ A) ∨ (G ∧ A)) ∨ ((G ∧ A) ∧ (G ∧ A)))) ∧ ((((G ∨ A) ∨ (A ∨ A)) ∧ ((A ∧ G) ∨ (G ∨ G))) ∨ (((A ∧ A) ∨ (A ∧ A)) ∨ ((A ∧ G) ∨ (A ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, g is True, (((((g ∨ k) ∨ (g ∨ k)) ∨ ((g ∧ g) ∧ (k ∨ k))) ∨ (((g ∨ k) ∨ (k ∧ g)) ∧ ((k ∧ k) ∨ (k ∨ g)))) ∨ ((((g ∨ g) ∨ (k ∧ g)) ∧ ((k ∨ k) ∨ (k ∧ g))) ∧ (((g ∧ k) ∧ (k ∨ g)) ∧ ((g ∧ g) ∧ (g ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "u is True, A is False, (((((A ∨ u) ∧ (u ∧ u)) ∨ ((A ∨ A) ∧ (u ∨ u))) ∧ (((A ∧ A) ∨ (A ∧ u)) ∨ ((A ∧ u) ∨ (u ∧ A)))) ∨ ((((u ∧ A) ∧ (A ∧ A)) ∨ ((u ∨ A) ∧ (A ∨ A))) ∧ (((A ∨ A) ∧ (u ∨ u)) ∧ ((u ∧ u) ∧ (A ∨ A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, s is False, (((((l ∨ s) ∨ (s ∧ l)) ∨ ((l ∧ l) ∧ (s ∧ s))) ∧ (((s ∨ l) ∧ (l ∧ s)) ∨ ((l ∨ s) ∧ (l ∨ l)))) ∨ ((((s ∧ s) ∨ (s ∧ l)) ∨ ((s ∨ s) ∨ (s ∨ l))) ∧ (((s ∨ s) ∨ (l ∨ s)) ∨ ((l ∧ l) ∧ (l ∨ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, k is True, (((((k ∧ F) ∨ (k ∨ k)) ∨ ((k ∧ F) ∨ (k ∧ k))) ∨ (((k ∨ F) ∧ (F ∨ F)) ∧ ((F ∧ F) ∨ (F ∨ k)))) ∨ ((((k ∨ k) ∧ (k ∧ F)) ∧ ((F ∧ F) ∨ (F ∨ F))) ∨ (((k ∨ F) ∨ (F ∨ F)) ∧ ((F ∧ k) ∨ (k ∧ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "W is True, Y is False, (((((W ∧ Y) ∨ (Y ∨ W)) ∨ ((Y ∧ W) ∧ (Y ∨ Y))) ∨ (((W ∨ W) ∨ (Y ∧ W)) ∨ ((Y ∨ Y) ∧ (W ∨ Y)))) ∧ ((((Y ∧ Y) ∨ (Y ∨ Y)) ∨ ((W ∧ Y) ∧ (W ∨ Y))) ∧ (((Y ∨ Y) ∨ (Y ∧ Y)) ∨ ((W ∧ Y) ∧ (Y ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, F is True, (((((F ∧ w) ∧ (F ∨ F)) ∨ ((w ∧ w) ∨ (F ∧ w))) ∧ (((F ∨ F) ∨ (F ∧ F)) ∨ ((w ∧ w) ∧ (F ∧ w)))) ∨ ((((w ∨ w) ∧ (F ∨ w)) ∨ ((F ∧ w) ∧ (w ∧ w))) ∨ (((w ∧ F) ∧ (F ∨ w)) ∨ ((w ∧ w) ∨ (F ∨ w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, y is True, (((((y ∧ k) ∨ (k ∨ k)) ∨ ((k ∧ k) ∨ (k ∨ y))) ∨ (((y ∧ k) ∧ (k ∧ k)) ∨ ((k ∨ k) ∨ (k ∧ k)))) ∨ ((((k ∧ y) ∧ (k ∧ k)) ∧ ((k ∧ k) ∨ (y ∧ y))) ∨ (((k ∧ k) ∨ (y ∧ k)) ∧ ((y ∨ k) ∧ (y ∨ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, r is False, (((((A ∧ r) ∧ (A ∧ r)) ∧ ((A ∧ A) ∨ (r ∨ r))) ∨ (((A ∧ r) ∧ (A ∧ A)) ∨ ((A ∨ r) ∨ (r ∨ r)))) ∨ ((((r ∨ A) ∨ (A ∧ r)) ∧ ((r ∧ r) ∧ (A ∨ A))) ∧ (((r ∧ r) ∨ (r ∧ r)) ∨ ((A ∨ r) ∨ (r ∧ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is True, J is False, (((((J ∧ n) ∧ (n ∨ J)) ∧ ((n ∧ n) ∧ (n ∨ J))) ∨ (((n ∨ J) ∨ (n ∨ n)) ∧ ((n ∨ J) ∧ (J ∧ n)))) ∧ ((((n ∧ n) ∧ (J ∧ J)) ∨ ((J ∨ n) ∨ (n ∨ n))) ∧ (((J ∧ n) ∨ (n ∧ J)) ∧ ((J ∨ J) ∧ (n ∨ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is False, u is True, (((((u ∧ N) ∧ (u ∨ u)) ∨ ((N ∧ u) ∧ (N ∧ u))) ∧ (((N ∧ u) ∨ (N ∧ N)) ∨ ((u ∧ u) ∧ (u ∧ N)))) ∨ ((((u ∧ N) ∨ (N ∧ u)) ∧ ((u ∨ N) ∧ (N ∨ u))) ∧ (((u ∨ N) ∧ (u ∧ u)) ∨ ((u ∧ u) ∧ (N ∧ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, k is True, (((((F ∧ k) ∧ (k ∧ F)) ∧ ((F ∧ F) ∨ (F ∨ k))) ∧ (((F ∧ F) ∨ (F ∧ F)) ∨ ((k ∨ F) ∧ (k ∧ F)))) ∨ ((((F ∧ F) ∨ (k ∨ k)) ∨ ((k ∨ k) ∧ (k ∨ F))) ∧ (((k ∧ F) ∧ (F ∨ F)) ∨ ((F ∨ k) ∨ (k ∧ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, Z is True, (((((k ∨ Z) ∨ (k ∧ k)) ∧ ((Z ∨ k) ∧ (k ∨ Z))) ∨ (((Z ∧ Z) ∧ (Z ∧ Z)) ∧ ((k ∨ Z) ∨ (k ∧ k)))) ∨ ((((k ∨ Z) ∧ (k ∧ Z)) ∧ ((k ∨ Z) ∧ (k ∨ k))) ∨ (((k ∨ k) ∨ (k ∨ k)) ∧ ((Z ∨ k) ∨ (Z ∨ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "r is True, M is False, (((((M ∧ r) ∧ (r ∧ M)) ∧ ((M ∧ r) ∨ (M ∧ r))) ∨ (((r ∨ M) ∧ (M ∧ M)) ∧ ((r ∨ r) ∨ (M ∨ M)))) ∧ ((((M ∧ M) ∧ (r ∨ r)) ∧ ((r ∨ M) ∧ (M ∨ M))) ∧ (((r ∧ r) ∨ (r ∨ r)) ∧ ((M ∧ M) ∨ (M ∨ r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, J is False, (((((f ∨ J) ∨ (J ∨ f)) ∧ ((f ∨ J) ∨ (J ∨ J))) ∨ (((J ∨ f) ∨ (J ∨ J)) ∨ ((f ∨ f) ∨ (f ∨ J)))) ∨ ((((J ∨ f) ∨ (J ∧ f)) ∧ ((J ∧ f) ∨ (f ∧ J))) ∧ (((f ∧ J) ∧ (J ∧ f)) ∨ ((f ∧ J) ∧ (f ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is True, x is False, (((((x ∧ h) ∧ (x ∧ x)) ∧ ((x ∨ x) ∨ (h ∧ h))) ∨ (((x ∨ x) ∧ (h ∨ h)) ∧ ((h ∧ h) ∧ (h ∧ h)))) ∨ ((((h ∨ h) ∧ (h ∨ x)) ∨ ((x ∧ h) ∧ (x ∨ x))) ∨ (((h ∧ h) ∧ (h ∨ x)) ∧ ((h ∧ x) ∨ (h ∨ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is True, P is False, (((((a ∧ P) ∨ (P ∧ P)) ∧ ((a ∧ a) ∧ (P ∨ P))) ∨ (((P ∧ a) ∧ (a ∨ P)) ∧ ((a ∨ a) ∧ (P ∨ a)))) ∧ ((((a ∧ a) ∨ (a ∧ P)) ∨ ((a ∨ a) ∨ (a ∨ P))) ∧ (((a ∧ P) ∨ (P ∧ P)) ∧ ((a ∧ a) ∧ (P ∨ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "m is True, K is False, (((((K ∧ m) ∨ (m ∧ m)) ∧ ((K ∧ K) ∨ (m ∧ m))) ∨ (((K ∧ m) ∨ (m ∨ K)) ∨ ((K ∧ K) ∧ (m ∨ m)))) ∨ ((((m ∧ K) ∧ (m ∨ K)) ∨ ((m ∨ K) ∨ (m ∨ m))) ∧ (((m ∨ m) ∨ (m ∧ K)) ∨ ((m ∧ m) ∨ (K ∨ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, h is True, (((((P ∧ h) ∧ (P ∨ P)) ∧ ((P ∨ P) ∧ (P ∨ h))) ∨ (((P ∨ P) ∨ (h ∧ P)) ∨ ((h ∨ h) ∧ (P ∨ h)))) ∧ ((((P ∨ P) ∧ (h ∨ h)) ∨ ((h ∨ h) ∧ (h ∨ h))) ∨ (((P ∨ h) ∨ (P ∨ P)) ∨ ((h ∧ P) ∨ (h ∨ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is True, x is False, (((((a ∨ x) ∨ (x ∧ x)) ∧ ((a ∧ x) ∧ (x ∨ a))) ∨ (((a ∧ x) ∧ (a ∨ x)) ∨ ((a ∧ x) ∨ (a ∨ a)))) ∧ ((((a ∧ a) ∧ (x ∧ a)) ∧ ((a ∧ a) ∧ (a ∧ a))) ∧ (((a ∧ a) ∧ (x ∧ a)) ∨ ((x ∧ a) ∨ (a ∧ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, I is True, (((((I ∨ Z) ∨ (Z ∧ Z)) ∧ ((I ∨ Z) ∨ (Z ∨ Z))) ∨ (((Z ∧ I) ∨ (Z ∧ Z)) ∧ ((I ∧ I) ∨ (Z ∧ I)))) ∧ ((((Z ∧ I) ∧ (Z ∧ Z)) ∨ ((I ∧ I) ∧ (Z ∧ I))) ∨ (((I ∧ I) ∨ (Z ∨ Z)) ∧ ((Z ∨ I) ∧ (Z ∨ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, u is True, (((((u ∧ w) ∨ (w ∨ w)) ∨ ((u ∨ u) ∨ (u ∧ w))) ∨ (((w ∧ w) ∧ (w ∨ w)) ∧ ((u ∧ w) ∧ (w ∧ u)))) ∧ ((((w ∨ u) ∧ (u ∧ u)) ∨ ((u ∧ u) ∧ (w ∧ w))) ∨ (((w ∨ w) ∨ (w ∧ u)) ∧ ((u ∨ u) ∧ (w ∧ u)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is False, g is True, (((((g ∧ J) ∨ (g ∨ g)) ∨ ((J ∧ g) ∨ (g ∧ J))) ∧ (((g ∨ g) ∨ (g ∨ g)) ∧ ((J ∨ g) ∨ (J ∧ J)))) ∨ ((((g ∧ g) ∨ (g ∨ g)) ∨ ((J ∨ J) ∨ (J ∨ J))) ∧ (((g ∧ g) ∨ (g ∨ g)) ∨ ((g ∨ g) ∧ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "b is True, o is False, (((((b ∨ o) ∨ (o ∧ o)) ∧ ((o ∧ b) ∧ (o ∧ o))) ∧ (((o ∧ b) ∨ (o ∧ b)) ∨ ((o ∨ b) ∨ (o ∧ b)))) ∨ ((((o ∨ o) ∨ (b ∨ b)) ∨ ((b ∨ b) ∧ (b ∨ o))) ∨ (((b ∨ o) ∧ (o ∧ o)) ∨ ((o ∧ b) ∨ (b ∨ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, o is False, (((((o ∨ i) ∧ (i ∧ o)) ∨ ((i ∧ i) ∨ (i ∧ o))) ∧ (((i ∨ i) ∧ (o ∧ i)) ∨ ((i ∨ o) ∨ (o ∧ o)))) ∧ ((((i ∨ o) ∧ (i ∧ o)) ∧ ((o ∨ o) ∧ (o ∧ i))) ∧ (((o ∨ i) ∧ (i ∨ o)) ∨ ((i ∨ i) ∧ (i ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is True, m is False, (((((m ∨ W) ∧ (W ∧ W)) ∨ ((m ∨ m) ∨ (W ∧ W))) ∧ (((W ∨ W) ∨ (m ∧ W)) ∧ ((W ∧ m) ∧ (W ∧ m)))) ∨ ((((W ∧ W) ∧ (m ∨ m)) ∨ ((W ∨ m) ∨ (W ∨ W))) ∧ (((m ∨ m) ∧ (W ∧ W)) ∨ ((m ∧ W) ∧ (W ∧ m)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, n is False, (((((n ∨ N) ∧ (n ∨ n)) ∨ ((n ∨ n) ∨ (N ∧ N))) ∨ (((N ∧ N) ∧ (N ∨ N)) ∧ ((n ∨ N) ∧ (n ∧ n)))) ∧ ((((n ∧ N) ∨ (n ∨ n)) ∧ ((n ∨ N) ∨ (N ∨ n))) ∨ (((N ∧ n) ∧ (N ∨ n)) ∧ ((N ∨ n) ∨ (n ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, g is False, (((((M ∧ g) ∧ (M ∧ g)) ∧ ((M ∨ M) ∨ (M ∨ g))) ∨ (((g ∨ M) ∨ (M ∨ g)) ∧ ((M ∨ g) ∧ (M ∧ M)))) ∨ ((((g ∨ g) ∧ (M ∧ M)) ∧ ((M ∧ g) ∧ (g ∨ g))) ∧ (((M ∧ g) ∨ (g ∧ M)) ∨ ((M ∨ g) ∨ (g ∨ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, i is True, (((((i ∧ H) ∨ (i ∨ i)) ∨ ((H ∨ H) ∨ (H ∨ i))) ∨ (((H ∧ i) ∨ (i ∨ i)) ∨ ((H ∧ i) ∧ (H ∧ H)))) ∨ ((((H ∧ i) ∨ (i ∧ i)) ∨ ((H ∨ H) ∨ (H ∨ H))) ∨ (((i ∧ i) ∨ (i ∨ H)) ∧ ((i ∨ i) ∨ (i ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, M is False, (((((M ∧ A) ∨ (A ∧ M)) ∧ ((M ∧ A) ∧ (M ∨ M))) ∨ (((A ∨ M) ∨ (A ∨ M)) ∧ ((M ∧ M) ∧ (M ∨ A)))) ∧ ((((A ∨ A) ∧ (M ∧ A)) ∨ ((A ∨ A) ∧ (M ∧ M))) ∧ (((A ∧ M) ∨ (A ∨ A)) ∧ ((M ∨ M) ∧ (M ∨ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, M is False, (((((M ∧ e) ∨ (e ∨ M)) ∧ ((M ∧ M) ∨ (e ∧ e))) ∨ (((M ∨ e) ∧ (e ∨ M)) ∨ ((M ∧ M) ∨ (e ∧ M)))) ∧ ((((e ∨ e) ∨ (e ∧ M)) ∨ ((e ∧ M) ∧ (e ∧ e))) ∧ (((e ∧ M) ∧ (M ∨ M)) ∨ ((e ∨ M) ∧ (M ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, c is True, (((((c ∧ h) ∨ (h ∧ c)) ∧ ((h ∧ h) ∧ (c ∧ h))) ∨ (((h ∧ h) ∨ (h ∨ h)) ∨ ((h ∧ h) ∨ (h ∧ c)))) ∨ ((((h ∨ c) ∧ (h ∨ c)) ∧ ((h ∧ h) ∨ (c ∧ c))) ∨ (((c ∨ c) ∨ (h ∨ h)) ∧ ((h ∨ c) ∨ (c ∧ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is False, I is True, (((((z ∧ I) ∨ (I ∧ z)) ∧ ((z ∨ z) ∧ (z ∧ I))) ∧ (((z ∧ I) ∧ (I ∧ I)) ∨ ((z ∨ I) ∨ (I ∧ I)))) ∨ ((((z ∨ I) ∧ (z ∨ I)) ∧ ((z ∧ z) ∧ (I ∨ I))) ∨ (((I ∨ z) ∨ (z ∨ I)) ∨ ((z ∨ I) ∨ (z ∨ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, s is True, (((((I ∧ s) ∧ (I ∨ I)) ∧ ((s ∧ s) ∨ (I ∧ s))) ∧ (((s ∨ I) ∧ (I ∨ I)) ∧ ((s ∧ s) ∨ (I ∧ I)))) ∧ ((((I ∨ I) ∨ (I ∧ I)) ∨ ((s ∨ I) ∧ (I ∨ s))) ∨ (((s ∨ I) ∧ (s ∧ I)) ∧ ((I ∨ s) ∧ (I ∨ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, T is False, (((((T ∧ e) ∧ (T ∨ T)) ∧ ((e ∨ e) ∧ (e ∧ e))) ∧ (((e ∨ T) ∨ (T ∧ e)) ∧ ((T ∧ T) ∧ (e ∨ T)))) ∨ ((((T ∨ e) ∧ (T ∧ T)) ∧ ((e ∨ e) ∨ (e ∨ e))) ∨ (((T ∨ T) ∧ (T ∨ e)) ∧ ((T ∧ T) ∧ (T ∨ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is False, U is True, (((((U ∨ a) ∨ (a ∨ a)) ∨ ((a ∧ U) ∨ (U ∨ U))) ∧ (((a ∧ a) ∨ (a ∨ a)) ∨ ((a ∧ a) ∨ (U ∧ U)))) ∧ ((((U ∨ a) ∨ (a ∧ U)) ∨ ((a ∧ a) ∨ (a ∧ a))) ∨ (((a ∨ a) ∧ (a ∧ U)) ∨ ((U ∧ a) ∧ (a ∨ U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, L is True, (((((n ∨ L) ∧ (L ∧ n)) ∨ ((L ∧ n) ∧ (n ∧ n))) ∧ (((L ∨ n) ∨ (n ∨ L)) ∧ ((L ∧ L) ∧ (n ∨ n)))) ∨ ((((n ∨ n) ∨ (n ∨ L)) ∨ ((n ∧ L) ∧ (n ∧ L))) ∧ (((n ∧ L) ∧ (n ∧ n)) ∧ ((L ∨ L) ∨ (n ∨ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, v is False, (((((v ∧ l) ∧ (v ∨ v)) ∨ ((l ∨ l) ∨ (l ∧ v))) ∧ (((v ∧ l) ∨ (l ∨ v)) ∧ ((v ∧ l) ∧ (l ∨ v)))) ∧ ((((l ∨ v) ∨ (l ∧ l)) ∨ ((l ∨ l) ∨ (l ∧ v))) ∧ (((l ∧ l) ∨ (l ∧ v)) ∧ ((l ∧ v) ∧ (l ∨ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, c is True, (((((L ∨ c) ∧ (c ∨ L)) ∨ ((L ∧ L) ∨ (L ∧ c))) ∨ (((c ∧ L) ∧ (L ∧ L)) ∧ ((c ∨ c) ∨ (c ∨ c)))) ∨ ((((L ∧ L) ∨ (L ∨ L)) ∧ ((c ∧ L) ∨ (c ∧ L))) ∧ (((L ∨ L) ∨ (c ∧ L)) ∧ ((c ∨ L) ∨ (L ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is True, j is False, (((((h ∧ j) ∧ (h ∧ h)) ∧ ((j ∨ h) ∨ (j ∧ j))) ∧ (((h ∨ j) ∨ (j ∨ j)) ∨ ((h ∧ h) ∧ (h ∧ h)))) ∧ ((((h ∨ j) ∧ (h ∧ j)) ∧ ((j ∨ j) ∨ (h ∧ h))) ∧ (((j ∨ h) ∧ (j ∨ j)) ∨ ((j ∧ j) ∨ (h ∨ h)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is True, E is False, (((((E ∨ b) ∧ (b ∧ E)) ∧ ((b ∨ E) ∧ (E ∧ E))) ∨ (((E ∧ b) ∧ (b ∧ E)) ∨ ((b ∨ E) ∧ (b ∨ E)))) ∨ ((((b ∧ E) ∨ (b ∧ b)) ∧ ((b ∨ b) ∨ (E ∧ b))) ∨ (((E ∧ E) ∨ (b ∧ b)) ∧ ((E ∨ b) ∧ (E ∧ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, s is False, (((((s ∧ U) ∧ (U ∧ U)) ∧ ((U ∧ U) ∨ (s ∨ U))) ∧ (((U ∨ s) ∧ (s ∧ U)) ∧ ((s ∨ s) ∨ (s ∨ U)))) ∧ ((((U ∧ s) ∨ (U ∨ U)) ∧ ((U ∧ s) ∨ (U ∧ U))) ∧ (((s ∨ s) ∨ (U ∨ s)) ∨ ((s ∨ U) ∧ (U ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, a is True, (((((R ∨ a) ∨ (a ∨ a)) ∧ ((R ∨ a) ∨ (R ∨ a))) ∨ (((a ∧ a) ∨ (a ∧ a)) ∧ ((a ∨ a) ∨ (a ∧ a)))) ∧ ((((R ∧ a) ∧ (a ∨ R)) ∨ ((R ∨ R) ∨ (a ∨ a))) ∧ (((a ∧ R) ∧ (a ∧ a)) ∧ ((R ∧ R) ∨ (a ∨ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is True, e is False, (((((e ∨ L) ∨ (L ∨ e)) ∧ ((L ∨ L) ∨ (L ∧ e))) ∧ (((L ∨ e) ∧ (e ∨ e)) ∨ ((e ∧ L) ∨ (L ∨ e)))) ∨ ((((L ∧ L) ∧ (L ∨ e)) ∧ ((e ∧ e) ∨ (e ∧ L))) ∨ (((L ∨ e) ∧ (e ∧ e)) ∧ ((e ∧ L) ∨ (e ∨ L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, Z is True, (((((Z ∧ c) ∧ (c ∧ Z)) ∨ ((c ∧ Z) ∧ (c ∧ c))) ∧ (((Z ∧ Z) ∨ (c ∨ Z)) ∨ ((Z ∨ Z) ∧ (c ∧ c)))) ∧ ((((c ∨ c) ∧ (c ∧ Z)) ∧ ((c ∧ Z) ∨ (Z ∨ Z))) ∧ (((c ∨ c) ∧ (c ∨ c)) ∧ ((Z ∨ Z) ∨ (Z ∨ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, J is False, (((((J ∧ l) ∧ (l ∧ l)) ∨ ((J ∧ J) ∧ (J ∧ J))) ∧ (((l ∧ J) ∧ (l ∨ J)) ∨ ((l ∨ J) ∧ (J ∧ J)))) ∨ ((((l ∨ J) ∧ (J ∨ l)) ∧ ((l ∧ J) ∨ (J ∧ J))) ∨ (((l ∨ J) ∨ (J ∨ J)) ∨ ((J ∨ J) ∧ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, B is False, (((((B ∧ i) ∧ (B ∨ i)) ∨ ((i ∧ B) ∧ (i ∨ i))) ∨ (((i ∧ i) ∨ (B ∧ i)) ∨ ((B ∨ i) ∧ (i ∧ B)))) ∧ ((((i ∧ i) ∨ (i ∨ i)) ∧ ((i ∧ B) ∧ (B ∨ i))) ∧ (((B ∧ B) ∧ (i ∨ i)) ∨ ((B ∨ i) ∨ (B ∨ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, u is True, (((((u ∧ P) ∧ (u ∧ u)) ∧ ((u ∧ u) ∨ (P ∨ u))) ∧ (((P ∨ P) ∨ (u ∧ P)) ∨ ((u ∧ P) ∧ (P ∨ P)))) ∧ ((((u ∨ u) ∧ (u ∧ P)) ∨ ((P ∧ P) ∧ (P ∧ u))) ∧ (((P ∨ P) ∧ (P ∧ P)) ∧ ((u ∧ u) ∧ (P ∧ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is False, I is True, (((((a ∨ I) ∧ (I ∧ a)) ∧ ((I ∧ I) ∧ (I ∧ a))) ∨ (((I ∧ a) ∨ (I ∨ I)) ∨ ((I ∧ a) ∧ (a ∨ I)))) ∨ ((((a ∨ a) ∧ (a ∧ I)) ∨ ((I ∧ a) ∧ (I ∧ a))) ∧ (((a ∧ I) ∨ (a ∨ I)) ∨ ((I ∨ a) ∨ (I ∧ a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, A is False, (((((A ∧ e) ∧ (e ∨ A)) ∧ ((A ∧ e) ∧ (A ∧ e))) ∧ (((A ∨ e) ∧ (e ∧ e)) ∨ ((A ∧ A) ∨ (A ∨ A)))) ∨ ((((A ∧ e) ∨ (e ∧ e)) ∨ ((A ∧ A) ∧ (e ∨ A))) ∧ (((e ∨ A) ∧ (A ∨ e)) ∧ ((A ∧ A) ∧ (e ∧ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is True, g is False, (((((g ∨ W) ∨ (g ∧ W)) ∨ ((g ∧ g) ∧ (g ∨ W))) ∨ (((W ∧ W) ∧ (W ∨ W)) ∧ ((W ∨ W) ∨ (W ∨ g)))) ∧ ((((W ∧ W) ∨ (g ∨ W)) ∧ ((g ∨ W) ∧ (g ∨ W))) ∧ (((W ∧ g) ∨ (W ∧ W)) ∧ ((g ∧ g) ∨ (g ∨ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, x is True, (((((x ∧ P) ∨ (x ∧ P)) ∧ ((x ∧ P) ∨ (x ∧ x))) ∧ (((x ∧ x) ∧ (x ∨ P)) ∨ ((P ∨ x) ∨ (x ∨ P)))) ∨ ((((P ∧ P) ∧ (P ∧ x)) ∧ ((x ∧ x) ∨ (x ∨ x))) ∧ (((P ∧ x) ∧ (x ∨ P)) ∨ ((P ∨ x) ∧ (x ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is False, c is True, (((((E ∧ c) ∧ (E ∨ c)) ∧ ((E ∨ E) ∧ (c ∧ c))) ∨ (((E ∧ c) ∨ (E ∧ c)) ∧ ((E ∨ E) ∨ (E ∧ c)))) ∧ ((((E ∨ E) ∧ (c ∧ c)) ∨ ((c ∧ c) ∨ (E ∨ E))) ∧ (((E ∨ E) ∧ (E ∨ E)) ∧ ((c ∨ c) ∧ (E ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, z is False, (((((i ∧ z) ∧ (i ∧ i)) ∧ ((i ∧ z) ∧ (z ∨ z))) ∨ (((i ∨ z) ∧ (z ∧ z)) ∧ ((i ∧ z) ∧ (i ∧ z)))) ∨ ((((z ∨ i) ∧ (i ∨ i)) ∨ ((i ∧ z) ∨ (i ∧ z))) ∧ (((i ∧ i) ∧ (z ∧ i)) ∨ ((z ∨ z) ∨ (z ∨ i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, C is True, (((((C ∨ v) ∧ (C ∧ v)) ∨ ((v ∧ v) ∧ (v ∨ v))) ∧ (((C ∧ v) ∨ (C ∨ v)) ∧ ((C ∨ C) ∧ (v ∧ v)))) ∧ ((((v ∧ C) ∧ (v ∨ v)) ∧ ((C ∨ C) ∨ (v ∨ C))) ∨ (((v ∨ C) ∨ (C ∨ v)) ∨ ((v ∧ C) ∨ (v ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, Y is True, (((((D ∧ Y) ∨ (D ∧ D)) ∨ ((D ∨ D) ∨ (D ∨ Y))) ∨ (((Y ∧ D) ∨ (Y ∨ Y)) ∧ ((Y ∧ Y) ∧ (D ∧ Y)))) ∨ ((((Y ∨ Y) ∧ (Y ∧ D)) ∨ ((D ∧ Y) ∨ (Y ∨ Y))) ∧ (((Y ∨ D) ∧ (D ∨ Y)) ∧ ((Y ∧ D) ∨ (Y ∨ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is False, y is True, (((((N ∧ y) ∨ (y ∨ y)) ∨ ((y ∧ y) ∨ (N ∧ N))) ∨ (((N ∨ N) ∨ (N ∨ N)) ∧ ((y ∧ N) ∧ (N ∧ N)))) ∨ ((((N ∧ N) ∧ (N ∨ N)) ∨ ((N ∨ y) ∨ (y ∨ y))) ∨ (((y ∧ y) ∨ (N ∧ y)) ∧ ((y ∨ y) ∧ (N ∧ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, v is False, (((((v ∨ o) ∧ (v ∨ o)) ∨ ((o ∨ o) ∨ (v ∧ v))) ∨ (((v ∨ v) ∧ (v ∧ v)) ∧ ((v ∨ o) ∧ (o ∧ v)))) ∧ ((((o ∨ o) ∧ (o ∧ o)) ∧ ((o ∨ o) ∧ (v ∧ o))) ∨ (((v ∨ v) ∧ (o ∧ v)) ∧ ((o ∨ o) ∧ (o ∨ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, Z is True, (((((Z ∨ h) ∨ (Z ∨ h)) ∧ ((Z ∨ Z) ∨ (h ∨ Z))) ∧ (((h ∨ Z) ∨ (h ∨ h)) ∨ ((h ∧ h) ∨ (Z ∨ h)))) ∨ ((((Z ∨ h) ∨ (Z ∨ Z)) ∨ ((Z ∧ Z) ∨ (h ∧ h))) ∧ (((h ∨ h) ∨ (h ∨ Z)) ∨ ((Z ∨ h) ∧ (h ∨ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "y is False, x is True, (((((y ∨ x) ∧ (x ∨ x)) ∧ ((x ∨ x) ∧ (y ∧ y))) ∨ (((x ∧ x) ∧ (y ∨ y)) ∧ ((y ∧ y) ∧ (x ∧ y)))) ∧ ((((y ∨ x) ∨ (x ∨ x)) ∧ ((y ∧ x) ∧ (x ∨ x))) ∨ (((y ∨ y) ∧ (x ∧ x)) ∧ ((x ∧ x) ∧ (y ∨ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "J is False, y is True, (((((J ∧ y) ∧ (J ∨ y)) ∧ ((J ∨ y) ∨ (J ∨ y))) ∧ (((J ∨ J) ∨ (y ∨ y)) ∨ ((J ∧ y) ∧ (y ∨ y)))) ∧ ((((y ∧ y) ∨ (y ∨ J)) ∧ ((y ∨ y) ∧ (J ∧ y))) ∧ (((J ∧ J) ∨ (J ∨ y)) ∨ ((J ∨ y) ∨ (J ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is False, v is True, (((((a ∧ v) ∨ (v ∨ a)) ∨ ((v ∧ a) ∨ (a ∨ v))) ∨ (((v ∨ v) ∧ (a ∨ v)) ∧ ((v ∧ v) ∧ (v ∧ a)))) ∨ ((((a ∧ v) ∨ (v ∨ v)) ∨ ((a ∧ v) ∨ (a ∨ v))) ∨ (((v ∨ v) ∨ (a ∧ v)) ∧ ((v ∧ a) ∨ (a ∨ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is False, I is True, (((((K ∧ I) ∨ (I ∨ I)) ∨ ((K ∧ I) ∨ (I ∨ I))) ∨ (((I ∨ K) ∧ (K ∧ K)) ∧ ((I ∧ K) ∨ (K ∧ K)))) ∧ ((((I ∨ I) ∧ (I ∨ I)) ∨ ((I ∧ K) ∧ (K ∨ I))) ∨ (((I ∧ I) ∨ (I ∧ K)) ∨ ((K ∧ I) ∧ (I ∨ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is True, u is False, (((((K ∧ u) ∨ (K ∧ K)) ∧ ((u ∧ K) ∨ (K ∨ K))) ∨ (((u ∧ u) ∨ (K ∧ K)) ∨ ((u ∧ K) ∨ (K ∧ u)))) ∧ ((((K ∨ K) ∨ (K ∨ u)) ∨ ((u ∨ u) ∧ (u ∧ K))) ∧ (((K ∨ u) ∧ (u ∨ u)) ∧ ((u ∧ u) ∨ (u ∧ K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, x is True, (((((Z ∨ x) ∨ (x ∧ x)) ∧ ((x ∧ x) ∧ (x ∧ x))) ∧ (((x ∨ x) ∨ (x ∧ Z)) ∧ ((Z ∧ x) ∨ (Z ∨ Z)))) ∧ ((((Z ∨ x) ∨ (Z ∨ x)) ∧ ((Z ∨ Z) ∧ (Z ∨ x))) ∨ (((Z ∨ x) ∨ (Z ∨ Z)) ∧ ((x ∧ Z) ∧ (Z ∨ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is False, y is True, (((((G ∧ y) ∧ (G ∨ G)) ∧ ((y ∧ y) ∧ (y ∧ y))) ∧ (((G ∧ G) ∧ (G ∧ G)) ∧ ((y ∨ y) ∧ (G ∧ y)))) ∨ ((((G ∧ y) ∨ (G ∨ y)) ∨ ((y ∨ G) ∧ (y ∧ G))) ∧ (((G ∧ G) ∧ (G ∨ G)) ∧ ((G ∨ y) ∧ (G ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, H is False, (((((z ∨ H) ∧ (z ∧ z)) ∧ ((H ∨ H) ∧ (H ∧ z))) ∧ (((H ∧ H) ∧ (H ∨ z)) ∨ ((H ∧ H) ∧ (H ∨ H)))) ∨ ((((H ∧ z) ∧ (z ∨ H)) ∧ ((H ∨ z) ∨ (z ∧ H))) ∨ (((H ∧ H) ∧ (z ∧ z)) ∨ ((z ∧ z) ∧ (H ∨ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, b is False, (((((b ∧ v) ∧ (b ∨ v)) ∨ ((v ∨ b) ∧ (v ∧ v))) ∧ (((b ∧ v) ∧ (v ∧ v)) ∧ ((v ∧ b) ∨ (v ∨ b)))) ∧ ((((v ∧ v) ∧ (b ∨ v)) ∨ ((b ∧ b) ∧ (v ∧ v))) ∧ (((b ∧ b) ∨ (b ∧ v)) ∨ ((b ∨ v) ∨ (b ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, U is False, (((((z ∧ U) ∧ (z ∨ z)) ∧ ((z ∨ U) ∨ (U ∧ z))) ∨ (((z ∨ U) ∧ (U ∨ z)) ∨ ((U ∧ U) ∨ (U ∨ z)))) ∨ ((((U ∧ U) ∧ (z ∨ U)) ∧ ((z ∨ U) ∨ (U ∨ U))) ∧ (((z ∧ U) ∨ (U ∧ U)) ∧ ((z ∧ z) ∨ (U ∨ U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is False, I is True, (((((I ∨ j) ∧ (j ∨ I)) ∨ ((j ∨ I) ∨ (I ∨ I))) ∨ (((I ∨ j) ∨ (j ∧ j)) ∧ ((j ∨ j) ∧ (j ∨ I)))) ∧ ((((j ∨ I) ∨ (j ∧ j)) ∧ ((I ∧ I) ∧ (I ∨ I))) ∨ (((j ∨ I) ∧ (I ∧ j)) ∧ ((j ∨ j) ∧ (I ∨ j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is False, W is True, (((((f ∧ W) ∨ (W ∨ f)) ∧ ((f ∨ W) ∧ (W ∧ f))) ∨ (((f ∧ W) ∨ (W ∧ W)) ∧ ((f ∨ W) ∨ (f ∧ f)))) ∨ ((((W ∨ f) ∧ (W ∧ f)) ∧ ((W ∨ f) ∨ (f ∨ W))) ∧ (((W ∧ f) ∨ (W ∨ W)) ∨ ((W ∨ f) ∧ (W ∧ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, d is True, (((((t ∧ d) ∧ (t ∧ t)) ∧ ((t ∧ d) ∨ (d ∧ d))) ∨ (((t ∨ t) ∧ (d ∨ d)) ∨ ((d ∨ t) ∧ (d ∨ d)))) ∧ ((((d ∨ d) ∧ (d ∨ d)) ∨ ((t ∨ t) ∧ (t ∧ t))) ∧ (((d ∨ d) ∧ (d ∧ d)) ∧ ((d ∨ t) ∨ (d ∧ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, T is True, (((((F ∨ T) ∨ (F ∨ T)) ∨ ((T ∨ F) ∧ (F ∨ F))) ∨ (((F ∨ T) ∧ (T ∨ F)) ∧ ((F ∨ F) ∨ (F ∧ T)))) ∨ ((((T ∧ T) ∧ (T ∨ F)) ∨ ((F ∧ T) ∧ (T ∨ F))) ∧ (((F ∧ T) ∨ (F ∧ F)) ∧ ((F ∧ T) ∨ (F ∧ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, W is True, (((((W ∨ c) ∨ (W ∨ W)) ∧ ((c ∨ W) ∨ (c ∨ c))) ∨ (((W ∧ W) ∧ (W ∧ W)) ∧ ((W ∧ W) ∨ (W ∧ c)))) ∧ ((((c ∨ c) ∧ (W ∧ W)) ∧ ((c ∧ W) ∨ (W ∧ c))) ∨ (((c ∧ c) ∨ (W ∨ c)) ∨ ((c ∨ W) ∨ (W ∨ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is False, y is True, (((((z ∨ y) ∨ (y ∧ z)) ∧ ((z ∧ y) ∧ (y ∧ y))) ∧ (((y ∧ z) ∨ (z ∨ y)) ∧ ((y ∧ z) ∧ (z ∧ y)))) ∧ ((((y ∨ z) ∨ (y ∨ y)) ∨ ((y ∧ z) ∧ (y ∨ z))) ∧ (((z ∧ z) ∨ (y ∧ y)) ∨ ((z ∨ y) ∨ (y ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is False, P is True, (((((P ∧ n) ∧ (P ∨ P)) ∨ ((n ∧ n) ∨ (P ∨ P))) ∨ (((n ∨ n) ∨ (P ∧ P)) ∧ ((P ∨ n) ∨ (P ∧ P)))) ∧ ((((P ∧ P) ∨ (P ∨ P)) ∧ ((n ∧ P) ∨ (P ∨ P))) ∨ (((P ∨ n) ∧ (n ∨ P)) ∧ ((P ∧ n) ∨ (n ∧ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, x is False, (((((x ∧ U) ∧ (x ∧ U)) ∨ ((x ∨ U) ∨ (U ∧ U))) ∧ (((x ∨ U) ∧ (U ∨ U)) ∧ ((x ∧ x) ∨ (U ∨ x)))) ∧ ((((x ∧ x) ∧ (U ∨ x)) ∨ ((U ∨ U) ∨ (x ∨ U))) ∧ (((x ∧ U) ∨ (U ∧ U)) ∧ ((U ∨ U) ∨ (x ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, T is True, (((((T ∨ o) ∧ (T ∧ T)) ∧ ((o ∧ o) ∧ (o ∨ o))) ∨ (((T ∧ o) ∧ (T ∨ T)) ∧ ((T ∨ o) ∨ (o ∧ T)))) ∨ ((((o ∧ T) ∨ (T ∧ o)) ∧ ((o ∨ T) ∧ (o ∨ o))) ∧ (((T ∧ o) ∧ (o ∨ T)) ∨ ((o ∧ T) ∧ (T ∨ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, W is False, (((((W ∧ z) ∧ (W ∨ W)) ∧ ((z ∨ z) ∧ (z ∨ z))) ∨ (((W ∨ z) ∨ (W ∧ z)) ∧ ((z ∨ W) ∨ (W ∨ z)))) ∨ ((((z ∨ W) ∧ (z ∨ z)) ∧ ((W ∨ W) ∨ (z ∧ W))) ∨ (((W ∧ W) ∨ (W ∨ W)) ∧ ((W ∧ z) ∧ (z ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, W is False, (((((A ∨ W) ∨ (W ∧ A)) ∧ ((A ∨ W) ∨ (W ∧ W))) ∧ (((W ∧ W) ∧ (A ∨ W)) ∧ ((W ∨ W) ∨ (A ∨ A)))) ∨ ((((A ∧ W) ∧ (A ∧ A)) ∧ ((A ∧ A) ∨ (W ∨ A))) ∧ (((A ∨ A) ∧ (W ∨ W)) ∧ ((W ∧ A) ∨ (A ∧ A)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, c is True, (((((H ∨ c) ∨ (c ∧ H)) ∨ ((H ∨ H) ∧ (c ∨ c))) ∧ (((H ∧ c) ∨ (H ∨ c)) ∧ ((c ∧ c) ∨ (c ∧ c)))) ∨ ((((c ∧ H) ∨ (H ∧ H)) ∧ ((c ∨ c) ∨ (H ∧ H))) ∨ (((H ∧ H) ∧ (c ∧ H)) ∨ ((H ∧ H) ∨ (H ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, p is True, (((((p ∨ t) ∨ (p ∨ t)) ∨ ((t ∨ p) ∧ (t ∨ t))) ∨ (((p ∧ p) ∧ (t ∨ p)) ∨ ((p ∧ t) ∨ (t ∧ t)))) ∧ ((((p ∨ t) ∧ (p ∨ p)) ∨ ((t ∧ t) ∧ (p ∨ p))) ∧ (((p ∧ p) ∨ (t ∨ p)) ∨ ((t ∨ t) ∨ (p ∨ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is True, k is False, (((((k ∧ t) ∨ (k ∨ t)) ∧ ((t ∧ t) ∧ (k ∨ k))) ∧ (((t ∨ k) ∨ (k ∨ k)) ∧ ((k ∨ k) ∨ (t ∧ t)))) ∧ ((((t ∧ t) ∨ (k ∧ k)) ∧ ((k ∧ k) ∨ (k ∨ k))) ∨ (((t ∨ k) ∨ (k ∧ t)) ∧ ((t ∨ t) ∨ (t ∨ k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is True, h is False, (((((h ∨ O) ∨ (O ∨ O)) ∧ ((O ∨ h) ∧ (O ∨ O))) ∨ (((h ∨ h) ∧ (O ∧ h)) ∧ ((O ∧ O) ∧ (h ∨ h)))) ∨ ((((h ∨ h) ∧ (h ∨ O)) ∨ ((h ∨ h) ∧ (h ∧ h))) ∨ (((h ∨ h) ∧ (h ∧ O)) ∨ ((O ∨ h) ∧ (h ∨ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is True, d is False, (((((F ∨ d) ∨ (d ∧ d)) ∧ ((F ∨ d) ∧ (d ∧ d))) ∧ (((F ∨ d) ∨ (d ∨ d)) ∨ ((F ∧ F) ∨ (d ∧ d)))) ∨ ((((d ∨ F) ∨ (d ∨ F)) ∧ ((F ∧ F) ∨ (d ∧ d))) ∨ (((F ∨ d) ∧ (d ∨ F)) ∧ ((d ∧ d) ∨ (F ∧ d)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, X is True, (((((R ∧ X) ∧ (R ∨ X)) ∧ ((R ∧ X) ∨ (X ∨ R))) ∨ (((X ∧ X) ∨ (R ∧ R)) ∨ ((R ∨ X) ∧ (R ∨ X)))) ∧ ((((R ∧ R) ∧ (X ∧ R)) ∨ ((X ∧ R) ∨ (R ∨ R))) ∧ (((R ∨ X) ∨ (R ∨ X)) ∨ ((X ∨ X) ∧ (X ∨ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is True, x is False, (((((x ∧ B) ∧ (B ∨ B)) ∨ ((B ∨ B) ∧ (B ∨ B))) ∧ (((B ∨ B) ∨ (B ∧ x)) ∧ ((B ∧ B) ∨ (B ∧ B)))) ∧ ((((B ∨ x) ∨ (x ∧ B)) ∨ ((x ∧ x) ∨ (x ∧ x))) ∧ (((x ∨ x) ∧ (B ∨ x)) ∨ ((x ∧ B) ∧ (x ∧ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, J is True, (((((O ∧ J) ∧ (O ∨ J)) ∧ ((O ∧ O) ∨ (J ∨ J))) ∧ (((O ∨ J) ∨ (O ∧ O)) ∧ ((J ∧ J) ∧ (O ∧ O)))) ∨ ((((O ∧ O) ∧ (O ∨ O)) ∧ ((J ∨ J) ∨ (J ∧ O))) ∨ (((J ∧ J) ∨ (O ∧ O)) ∨ ((O ∨ O) ∨ (O ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, b is True, (((((h ∨ b) ∧ (b ∨ h)) ∨ ((h ∧ b) ∨ (b ∨ h))) ∧ (((b ∧ b) ∧ (h ∨ h)) ∧ ((b ∧ h) ∨ (b ∨ b)))) ∨ ((((h ∧ b) ∨ (b ∧ b)) ∧ ((b ∧ b) ∨ (b ∧ h))) ∨ (((h ∨ b) ∧ (h ∧ b)) ∨ ((h ∨ h) ∨ (b ∧ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, Y is False, (((((D ∨ Y) ∧ (Y ∨ Y)) ∨ ((D ∧ Y) ∨ (D ∨ D))) ∧ (((Y ∧ Y) ∧ (D ∧ D)) ∨ ((Y ∧ D) ∨ (Y ∧ D)))) ∨ ((((Y ∧ Y) ∨ (D ∧ D)) ∧ ((Y ∨ D) ∨ (D ∨ D))) ∧ (((D ∧ Y) ∧ (D ∧ Y)) ∨ ((D ∨ D) ∧ (Y ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, n is True, (((((t ∨ n) ∧ (n ∧ t)) ∧ ((n ∨ n) ∨ (t ∧ t))) ∧ (((n ∧ n) ∨ (t ∨ n)) ∨ ((n ∨ t) ∨ (t ∨ t)))) ∧ ((((t ∧ t) ∨ (n ∨ n)) ∨ ((t ∧ n) ∨ (t ∨ n))) ∨ (((n ∨ t) ∨ (t ∧ t)) ∧ ((t ∨ n) ∨ (n ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, b is True, (((((b ∨ P) ∧ (P ∧ b)) ∨ ((P ∧ P) ∨ (P ∨ P))) ∨ (((b ∨ b) ∨ (P ∨ P)) ∧ ((b ∨ P) ∨ (b ∧ P)))) ∧ ((((P ∧ P) ∨ (b ∨ P)) ∨ ((P ∨ P) ∧ (b ∨ b))) ∧ (((b ∨ P) ∧ (b ∨ P)) ∨ ((b ∨ P) ∧ (P ∨ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, j is False, (((((j ∧ o) ∧ (o ∨ o)) ∨ ((j ∨ o) ∨ (j ∨ j))) ∨ (((o ∨ o) ∧ (o ∨ o)) ∨ ((o ∨ j) ∨ (o ∧ o)))) ∧ ((((o ∧ o) ∧ (o ∧ o)) ∨ ((o ∨ j) ∧ (o ∨ o))) ∧ (((j ∧ o) ∧ (j ∨ o)) ∧ ((j ∨ j) ∧ (j ∨ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is True, I is False, (((((t ∨ I) ∧ (t ∧ t)) ∨ ((t ∨ t) ∧ (I ∨ t))) ∧ (((t ∨ t) ∨ (I ∧ I)) ∨ ((t ∧ t) ∨ (I ∨ t)))) ∨ ((((t ∨ t) ∨ (t ∨ t)) ∧ ((I ∨ t) ∧ (t ∨ t))) ∨ (((I ∨ I) ∨ (t ∧ t)) ∨ ((t ∨ t) ∧ (I ∨ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is False, I is True, (((((o ∨ I) ∨ (o ∧ I)) ∧ ((I ∧ o) ∨ (o ∨ o))) ∧ (((o ∧ o) ∨ (I ∧ o)) ∨ ((I ∨ o) ∧ (o ∧ o)))) ∨ ((((I ∧ o) ∧ (I ∧ o)) ∨ ((o ∧ o) ∧ (I ∨ I))) ∧ (((I ∧ I) ∧ (o ∧ I)) ∨ ((I ∧ o) ∧ (I ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, u is False, (((((u ∨ e) ∧ (u ∨ u)) ∨ ((u ∧ e) ∧ (e ∧ u))) ∨ (((e ∨ e) ∨ (e ∧ e)) ∨ ((u ∨ u) ∨ (e ∧ e)))) ∨ ((((e ∧ e) ∨ (e ∧ e)) ∧ ((e ∧ u) ∨ (e ∨ u))) ∨ (((u ∨ e) ∨ (u ∨ e)) ∧ ((u ∧ u) ∧ (e ∨ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, P is True, (((((P ∧ Z) ∧ (Z ∨ Z)) ∧ ((Z ∧ Z) ∧ (P ∧ P))) ∧ (((P ∨ P) ∨ (P ∧ Z)) ∨ ((Z ∧ Z) ∨ (P ∧ P)))) ∨ ((((Z ∧ Z) ∧ (Z ∨ P)) ∨ ((Z ∧ P) ∧ (Z ∧ Z))) ∨ (((Z ∨ Z) ∨ (Z ∧ Z)) ∨ ((Z ∧ P) ∨ (P ∧ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, V is True, (((((V ∧ I) ∨ (I ∨ V)) ∨ ((V ∨ V) ∧ (V ∨ I))) ∨ (((I ∨ V) ∨ (I ∨ I)) ∨ ((I ∧ V) ∨ (V ∨ V)))) ∧ ((((I ∨ I) ∧ (I ∧ V)) ∧ ((I ∧ V) ∨ (I ∨ V))) ∨ (((I ∨ V) ∨ (V ∧ V)) ∧ ((V ∨ I) ∧ (V ∧ V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is True, d is False, (((((a ∧ d) ∧ (d ∧ d)) ∨ ((a ∧ d) ∨ (d ∨ d))) ∨ (((d ∧ a) ∧ (d ∧ d)) ∨ ((d ∧ d) ∧ (d ∧ d)))) ∧ ((((d ∨ d) ∨ (d ∨ a)) ∧ ((d ∨ d) ∧ (a ∧ d))) ∧ (((a ∨ d) ∧ (d ∧ d)) ∨ ((d ∧ a) ∧ (a ∨ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, r is False, (((((k ∨ r) ∨ (k ∨ r)) ∨ ((k ∨ k) ∨ (k ∨ k))) ∨ (((k ∨ k) ∨ (r ∨ k)) ∨ ((k ∨ k) ∧ (r ∨ r)))) ∨ ((((k ∧ k) ∧ (k ∨ k)) ∧ ((k ∧ r) ∨ (k ∧ k))) ∨ (((r ∧ r) ∨ (r ∨ r)) ∧ ((k ∧ k) ∨ (k ∨ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is False, n is True, (((((n ∧ k) ∨ (k ∨ k)) ∨ ((k ∨ n) ∧ (k ∧ n))) ∨ (((n ∧ k) ∨ (k ∨ k)) ∧ ((k ∨ n) ∨ (n ∨ k)))) ∨ ((((n ∨ k) ∨ (k ∨ k)) ∧ ((n ∧ n) ∨ (k ∧ n))) ∨ (((n ∨ n) ∨ (n ∧ k)) ∨ ((k ∧ k) ∧ (k ∧ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, C is True, (((((C ∧ F) ∨ (F ∧ F)) ∧ ((C ∨ C) ∨ (C ∨ C))) ∨ (((F ∨ C) ∧ (F ∨ F)) ∧ ((F ∨ C) ∨ (F ∨ C)))) ∨ ((((F ∨ C) ∧ (F ∧ C)) ∧ ((C ∧ F) ∧ (C ∧ F))) ∧ (((C ∨ C) ∨ (C ∧ F)) ∨ ((C ∧ C) ∨ (C ∨ C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is True, E is False, (((((E ∧ W) ∨ (W ∨ W)) ∨ ((W ∧ W) ∧ (E ∧ E))) ∨ (((E ∨ W) ∧ (E ∨ W)) ∧ ((E ∧ E) ∨ (E ∨ E)))) ∧ ((((E ∧ E) ∨ (E ∨ W)) ∨ ((E ∧ W) ∨ (W ∨ E))) ∧ (((E ∧ W) ∧ (E ∨ E)) ∨ ((W ∨ W) ∨ (E ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is False, x is True, (((((x ∨ K) ∨ (x ∧ x)) ∨ ((x ∨ K) ∨ (x ∨ K))) ∨ (((x ∧ x) ∨ (K ∧ K)) ∧ ((x ∧ x) ∧ (x ∧ K)))) ∧ ((((K ∧ x) ∨ (K ∧ x)) ∨ ((x ∧ x) ∧ (x ∧ x))) ∧ (((K ∧ x) ∨ (x ∧ x)) ∨ ((x ∨ K) ∧ (x ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is False, u is True, (((((i ∧ u) ∨ (u ∧ i)) ∧ ((u ∨ i) ∨ (i ∧ u))) ∧ (((u ∧ i) ∨ (i ∧ i)) ∧ ((i ∨ u) ∨ (u ∨ i)))) ∧ ((((i ∨ i) ∨ (i ∨ u)) ∧ ((u ∧ i) ∧ (i ∨ i))) ∨ (((u ∨ i) ∨ (i ∧ u)) ∧ ((u ∧ i) ∨ (u ∨ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, c is True, (((((P ∨ c) ∨ (c ∧ c)) ∨ ((P ∧ P) ∨ (c ∧ P))) ∧ (((c ∧ c) ∧ (c ∧ c)) ∧ ((P ∨ P) ∨ (P ∧ c)))) ∨ ((((c ∨ P) ∧ (P ∨ P)) ∨ ((P ∧ P) ∨ (c ∨ P))) ∧ (((c ∧ P) ∧ (c ∧ P)) ∨ ((c ∨ P) ∧ (P ∧ c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "g is False, I is True, (((((I ∧ g) ∨ (I ∧ g)) ∨ ((I ∨ I) ∨ (g ∧ I))) ∨ (((g ∨ I) ∧ (I ∧ g)) ∨ ((I ∨ g) ∨ (g ∨ I)))) ∨ ((((I ∧ I) ∧ (I ∧ I)) ∧ ((g ∨ I) ∧ (g ∧ g))) ∧ (((I ∨ I) ∨ (g ∨ g)) ∧ ((g ∧ I) ∨ (g ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is False, W is True, (((((W ∨ f) ∨ (f ∨ W)) ∨ ((W ∧ W) ∨ (f ∧ W))) ∧ (((W ∧ W) ∨ (f ∧ W)) ∧ ((W ∧ f) ∧ (f ∧ W)))) ∨ ((((f ∨ f) ∧ (f ∨ W)) ∨ ((f ∨ W) ∨ (W ∧ W))) ∧ (((f ∨ W) ∧ (f ∧ W)) ∨ ((W ∧ W) ∧ (W ∨ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is True, b is False, (((((b ∧ N) ∧ (N ∨ N)) ∨ ((b ∨ N) ∨ (N ∧ N))) ∧ (((b ∨ N) ∧ (b ∧ b)) ∨ ((b ∨ b) ∧ (b ∧ b)))) ∨ ((((N ∧ b) ∨ (N ∧ b)) ∨ ((b ∧ b) ∨ (b ∨ b))) ∨ (((N ∧ N) ∨ (N ∧ N)) ∧ ((b ∧ b) ∨ (N ∨ N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is False, U is True, (((((E ∨ U) ∧ (E ∧ E)) ∨ ((E ∧ U) ∨ (U ∨ U))) ∧ (((E ∨ U) ∧ (U ∧ U)) ∧ ((E ∨ U) ∨ (E ∧ U)))) ∨ ((((U ∧ U) ∧ (U ∨ U)) ∧ ((U ∧ E) ∨ (E ∨ U))) ∨ (((U ∨ U) ∧ (E ∨ E)) ∨ ((E ∧ E) ∨ (E ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, A is False, (((((o ∨ A) ∧ (o ∨ o)) ∨ ((o ∧ A) ∧ (A ∧ o))) ∨ (((o ∧ o) ∨ (A ∧ A)) ∧ ((o ∧ o) ∧ (o ∨ o)))) ∨ ((((A ∨ A) ∨ (o ∧ o)) ∨ ((o ∧ A) ∨ (o ∧ A))) ∨ (((o ∧ A) ∨ (o ∧ A)) ∧ ((o ∨ o) ∧ (A ∧ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is True, O is False, (((((n ∨ O) ∧ (O ∧ n)) ∧ ((O ∨ O) ∨ (n ∨ O))) ∧ (((n ∨ n) ∨ (O ∨ n)) ∧ ((O ∧ n) ∧ (O ∧ n)))) ∧ ((((n ∧ O) ∨ (n ∧ n)) ∧ ((O ∧ n) ∨ (O ∧ n))) ∨ (((O ∨ n) ∧ (n ∧ n)) ∨ ((O ∨ O) ∨ (O ∨ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, F is True, (((((c ∨ F) ∨ (c ∧ F)) ∨ ((F ∧ c) ∧ (F ∧ F))) ∧ (((c ∨ F) ∧ (F ∧ F)) ∨ ((F ∨ c) ∨ (F ∨ c)))) ∧ ((((F ∨ c) ∨ (c ∧ c)) ∧ ((F ∨ F) ∨ (F ∨ c))) ∧ (((c ∨ c) ∨ (F ∨ F)) ∧ ((c ∨ c) ∧ (F ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is False, o is True, (((((o ∨ N) ∨ (N ∧ N)) ∧ ((o ∨ o) ∨ (o ∨ N))) ∨ (((o ∨ N) ∧ (N ∧ N)) ∨ ((o ∨ o) ∧ (N ∨ o)))) ∨ ((((o ∧ N) ∧ (N ∧ o)) ∨ ((N ∨ o) ∨ (N ∧ o))) ∧ (((o ∨ o) ∨ (N ∧ N)) ∧ ((N ∧ o) ∧ (N ∧ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is True, T is False, (((((n ∨ T) ∧ (n ∧ n)) ∨ ((n ∨ T) ∧ (n ∧ n))) ∨ (((n ∧ T) ∧ (n ∧ n)) ∨ ((n ∨ T) ∨ (n ∧ n)))) ∨ ((((T ∧ n) ∨ (n ∧ T)) ∨ ((n ∨ n) ∧ (n ∧ T))) ∧ (((T ∨ T) ∨ (n ∧ T)) ∧ ((n ∧ T) ∧ (n ∨ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is True, e is False, (((((e ∧ E) ∧ (e ∧ E)) ∨ ((E ∨ E) ∨ (e ∧ E))) ∨ (((E ∧ E) ∨ (E ∨ E)) ∨ ((E ∨ e) ∨ (e ∨ E)))) ∧ ((((E ∨ e) ∨ (e ∧ e)) ∨ ((E ∧ E) ∨ (e ∧ e))) ∧ (((E ∧ E) ∧ (e ∨ E)) ∨ ((E ∨ E) ∧ (E ∨ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, C is True, (((((I ∧ C) ∧ (I ∧ I)) ∧ ((I ∧ I) ∨ (C ∧ C))) ∨ (((I ∨ C) ∨ (I ∨ C)) ∧ ((C ∧ C) ∨ (I ∨ C)))) ∧ ((((C ∨ I) ∨ (C ∧ I)) ∧ ((I ∧ I) ∨ (C ∨ C))) ∧ (((I ∧ C) ∨ (C ∧ C)) ∨ ((C ∨ C) ∨ (C ∧ C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is False, S is True, (((((S ∨ i) ∧ (S ∧ i)) ∧ ((i ∨ i) ∨ (S ∧ i))) ∨ (((i ∨ i) ∨ (S ∧ i)) ∨ ((S ∨ i) ∧ (i ∨ S)))) ∨ ((((i ∨ i) ∨ (i ∧ S)) ∧ ((S ∨ i) ∨ (i ∧ i))) ∧ (((i ∨ i) ∨ (S ∧ i)) ∧ ((i ∨ i) ∨ (i ∨ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is False, s is True, (((((s ∨ T) ∧ (s ∨ T)) ∧ ((s ∨ T) ∨ (s ∧ s))) ∨ (((s ∧ T) ∧ (T ∨ T)) ∧ ((s ∨ T) ∨ (s ∧ T)))) ∧ ((((T ∧ T) ∨ (s ∧ T)) ∧ ((T ∨ T) ∨ (T ∨ T))) ∧ (((T ∨ T) ∨ (T ∧ T)) ∧ ((s ∨ T) ∨ (T ∨ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is False, P is True, (((((P ∨ k) ∧ (k ∧ P)) ∨ ((P ∨ P) ∧ (P ∧ k))) ∧ (((P ∨ k) ∧ (P ∧ P)) ∧ ((k ∨ P) ∨ (k ∨ P)))) ∧ ((((k ∨ k) ∨ (P ∨ k)) ∧ ((k ∧ P) ∨ (k ∨ P))) ∧ (((k ∨ P) ∧ (k ∧ k)) ∨ ((P ∧ k) ∨ (k ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is False, g is True, (((((k ∨ g) ∨ (g ∧ g)) ∧ ((g ∧ k) ∧ (g ∧ g))) ∨ (((k ∨ k) ∧ (g ∧ k)) ∨ ((k ∨ k) ∨ (g ∨ k)))) ∨ ((((g ∨ k) ∧ (g ∨ k)) ∨ ((k ∨ k) ∨ (k ∧ g))) ∨ (((g ∧ g) ∨ (k ∨ k)) ∨ ((g ∨ g) ∧ (g ∨ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is True, X is False, (((((X ∨ K) ∧ (X ∧ K)) ∨ ((X ∧ K) ∨ (K ∨ K))) ∧ (((K ∨ K) ∨ (K ∧ X)) ∧ ((X ∧ K) ∨ (X ∧ K)))) ∨ ((((K ∨ K) ∨ (X ∧ X)) ∨ ((K ∧ X) ∧ (X ∧ K))) ∧ (((X ∨ X) ∨ (X ∧ X)) ∨ ((K ∧ K) ∨ (X ∨ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is True, P is False, (((((P ∧ X) ∧ (P ∨ X)) ∧ ((P ∨ X) ∧ (X ∧ X))) ∧ (((X ∧ X) ∨ (X ∧ P)) ∧ ((X ∧ P) ∧ (X ∨ P)))) ∨ ((((X ∧ X) ∨ (X ∨ P)) ∧ ((P ∨ X) ∧ (P ∨ X))) ∧ (((P ∧ P) ∧ (P ∧ X)) ∧ ((P ∧ P) ∨ (P ∨ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, K is False, (((((K ∧ F) ∨ (K ∧ K)) ∧ ((F ∧ F) ∧ (F ∨ F))) ∨ (((F ∨ F) ∧ (F ∨ F)) ∧ ((K ∧ K) ∧ (K ∨ K)))) ∧ ((((K ∨ K) ∨ (F ∧ K)) ∨ ((F ∧ F) ∧ (K ∨ F))) ∨ (((F ∨ K) ∧ (K ∨ K)) ∧ ((K ∧ K) ∨ (F ∧ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, p is False, (((((d ∨ p) ∧ (p ∧ p)) ∧ ((d ∨ p) ∧ (p ∨ p))) ∧ (((p ∧ d) ∧ (p ∨ d)) ∧ ((p ∧ d) ∧ (p ∨ d)))) ∨ ((((d ∨ p) ∨ (d ∨ p)) ∨ ((d ∧ d) ∨ (d ∨ p))) ∧ (((p ∧ p) ∨ (p ∨ d)) ∧ ((d ∨ p) ∧ (d ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, G is True, (((((G ∧ Z) ∧ (Z ∧ G)) ∨ ((Z ∧ G) ∧ (Z ∨ G))) ∧ (((G ∨ G) ∧ (G ∨ G)) ∨ ((G ∨ Z) ∧ (G ∧ G)))) ∧ ((((G ∨ Z) ∧ (Z ∨ G)) ∧ ((G ∧ G) ∧ (G ∨ Z))) ∨ (((Z ∧ G) ∨ (Z ∧ G)) ∧ ((Z ∧ Z) ∧ (Z ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, J is False, (((((d ∧ J) ∧ (J ∨ d)) ∨ ((J ∨ d) ∧ (J ∧ d))) ∧ (((J ∨ J) ∧ (d ∨ J)) ∧ ((J ∨ d) ∧ (J ∧ J)))) ∧ ((((J ∧ d) ∧ (d ∨ d)) ∧ ((d ∨ d) ∧ (d ∧ d))) ∧ (((d ∨ d) ∨ (d ∨ d)) ∨ ((d ∧ J) ∨ (d ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, Q is True, (((((F ∨ Q) ∨ (F ∧ Q)) ∧ ((Q ∨ Q) ∨ (F ∨ Q))) ∨ (((F ∨ Q) ∧ (F ∧ F)) ∨ ((Q ∨ Q) ∧ (Q ∨ Q)))) ∧ ((((F ∨ F) ∨ (Q ∨ Q)) ∧ ((Q ∨ Q) ∧ (Q ∨ Q))) ∨ (((Q ∨ Q) ∨ (Q ∧ F)) ∨ ((Q ∧ Q) ∧ (F ∨ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, Q is False, (((((U ∧ Q) ∨ (U ∧ Q)) ∨ ((Q ∧ U) ∨ (Q ∨ U))) ∨ (((Q ∧ U) ∧ (Q ∧ Q)) ∧ ((Q ∧ Q) ∨ (U ∨ Q)))) ∧ ((((U ∧ Q) ∧ (Q ∧ U)) ∨ ((U ∧ Q) ∧ (U ∨ U))) ∨ (((U ∧ U) ∨ (Q ∨ U)) ∨ ((U ∨ U) ∨ (U ∨ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, E is False, (((((d ∧ E) ∧ (E ∨ d)) ∨ ((E ∧ E) ∨ (d ∧ E))) ∧ (((E ∧ d) ∨ (d ∨ d)) ∨ ((E ∧ E) ∨ (d ∧ E)))) ∨ ((((d ∧ d) ∨ (E ∧ E)) ∨ ((E ∧ E) ∧ (E ∧ E))) ∧ (((E ∧ d) ∧ (E ∨ E)) ∧ ((E ∨ E) ∧ (d ∧ E)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, X is False, (((((X ∧ w) ∨ (w ∨ w)) ∨ ((w ∨ w) ∨ (X ∨ w))) ∨ (((w ∨ w) ∧ (w ∧ X)) ∨ ((X ∧ X) ∨ (w ∧ w)))) ∨ ((((w ∨ w) ∨ (X ∧ X)) ∧ ((X ∨ w) ∧ (X ∧ w))) ∨ (((X ∧ X) ∨ (w ∧ X)) ∨ ((w ∧ X) ∨ (X ∨ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, P is True, (((((H ∧ P) ∨ (H ∨ P)) ∧ ((H ∧ P) ∧ (H ∨ H))) ∧ (((H ∧ H) ∧ (H ∧ H)) ∧ ((P ∧ P) ∨ (P ∧ P)))) ∨ ((((P ∨ P) ∧ (H ∨ P)) ∨ ((P ∨ H) ∨ (H ∨ P))) ∨ (((P ∧ P) ∨ (H ∧ P)) ∧ ((H ∨ H) ∧ (P ∨ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, v is True, (((((v ∨ I) ∧ (I ∨ v)) ∧ ((v ∨ I) ∨ (I ∧ v))) ∧ (((v ∨ v) ∧ (v ∨ I)) ∧ ((v ∧ v) ∨ (I ∨ v)))) ∧ ((((v ∨ v) ∨ (v ∨ v)) ∧ ((I ∨ v) ∧ (I ∧ I))) ∧ (((I ∨ v) ∨ (v ∨ v)) ∨ ((I ∧ v) ∧ (v ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is False, i is True, (((((l ∧ i) ∨ (l ∨ l)) ∧ ((l ∧ i) ∨ (i ∨ l))) ∨ (((i ∧ l) ∨ (i ∧ l)) ∧ ((i ∧ l) ∨ (l ∨ l)))) ∧ ((((l ∨ i) ∨ (i ∧ i)) ∨ ((i ∨ l) ∨ (l ∧ l))) ∨ (((i ∨ i) ∧ (l ∧ i)) ∨ ((i ∧ l) ∨ (l ∨ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, R is True, (((((t ∧ R) ∨ (R ∨ t)) ∨ ((t ∧ t) ∧ (t ∨ R))) ∨ (((R ∨ t) ∧ (R ∨ R)) ∧ ((t ∨ t) ∧ (R ∧ R)))) ∨ ((((R ∧ t) ∧ (t ∨ t)) ∨ ((t ∨ R) ∨ (R ∨ R))) ∧ (((R ∧ t) ∨ (R ∨ R)) ∨ ((R ∧ t) ∨ (t ∨ t)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, d is True, (((((d ∨ P) ∨ (d ∨ P)) ∧ ((P ∨ d) ∨ (d ∧ P))) ∧ (((d ∧ P) ∧ (P ∨ d)) ∧ ((P ∧ P) ∧ (d ∨ P)))) ∨ ((((P ∨ P) ∧ (P ∧ d)) ∧ ((d ∨ P) ∨ (P ∨ P))) ∨ (((d ∨ d) ∨ (d ∧ P)) ∨ ((d ∨ d) ∧ (P ∨ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is False, J is True, (((((J ∨ E) ∨ (J ∧ E)) ∧ ((E ∧ E) ∨ (J ∧ E))) ∨ (((J ∨ J) ∧ (J ∧ J)) ∨ ((E ∧ J) ∨ (E ∧ E)))) ∨ ((((E ∧ J) ∧ (J ∨ J)) ∧ ((E ∧ E) ∧ (E ∨ J))) ∨ (((E ∧ J) ∧ (E ∧ J)) ∨ ((E ∧ J) ∨ (J ∨ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is False, Z is True, (((((Z ∧ U) ∧ (U ∧ Z)) ∧ ((U ∧ U) ∨ (Z ∨ Z))) ∨ (((U ∧ U) ∧ (Z ∨ U)) ∨ ((U ∨ U) ∧ (Z ∨ U)))) ∧ ((((Z ∨ U) ∨ (U ∧ U)) ∧ ((U ∨ Z) ∧ (U ∧ U))) ∨ (((U ∧ Z) ∨ (Z ∧ Z)) ∧ ((U ∨ Z) ∧ (Z ∨ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "n is True, K is False, (((((K ∧ n) ∧ (K ∨ K)) ∧ ((K ∧ K) ∨ (n ∨ n))) ∨ (((K ∧ K) ∧ (n ∧ n)) ∧ ((K ∨ K) ∧ (K ∨ K)))) ∨ ((((K ∧ K) ∨ (n ∧ K)) ∧ ((K ∨ n) ∨ (n ∧ K))) ∨ (((n ∧ K) ∨ (n ∧ K)) ∨ ((n ∧ n) ∧ (K ∨ K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, k is True, (((((w ∨ k) ∨ (w ∨ w)) ∨ ((w ∧ w) ∧ (k ∨ w))) ∨ (((w ∨ w) ∧ (w ∨ w)) ∨ ((k ∨ w) ∨ (w ∧ w)))) ∨ ((((k ∨ k) ∧ (w ∧ k)) ∧ ((w ∨ w) ∨ (k ∧ k))) ∧ (((w ∧ k) ∨ (w ∧ k)) ∨ ((w ∨ w) ∧ (k ∧ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, X is False, (((((X ∧ v) ∧ (v ∨ X)) ∧ ((X ∧ X) ∨ (v ∨ X))) ∧ (((X ∧ X) ∧ (v ∧ X)) ∨ ((X ∧ v) ∨ (X ∧ X)))) ∧ ((((X ∨ v) ∧ (v ∨ X)) ∧ ((v ∨ X) ∧ (X ∨ v))) ∨ (((v ∨ X) ∨ (v ∨ v)) ∨ ((v ∨ v) ∧ (X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is True, Y is False, (((((Y ∧ Z) ∧ (Y ∧ Z)) ∨ ((Y ∨ Z) ∧ (Y ∧ Y))) ∧ (((Y ∨ Y) ∧ (Y ∧ Y)) ∨ ((Z ∨ Z) ∨ (Y ∨ Y)))) ∧ ((((Z ∧ Z) ∧ (Y ∨ Z)) ∧ ((Y ∧ Z) ∧ (Z ∧ Z))) ∨ (((Y ∨ Z) ∧ (Y ∨ Y)) ∧ ((Z ∧ Y) ∧ (Y ∨ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, o is False, (((((X ∧ o) ∧ (X ∧ X)) ∨ ((o ∨ o) ∧ (o ∧ o))) ∨ (((o ∧ X) ∧ (o ∨ o)) ∧ ((X ∧ X) ∨ (o ∧ X)))) ∨ ((((o ∨ o) ∨ (o ∨ o)) ∧ ((X ∨ X) ∨ (X ∨ o))) ∨ (((X ∧ o) ∨ (X ∧ X)) ∧ ((o ∨ X) ∧ (X ∨ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "X is True, J is False, (((((X ∨ J) ∨ (J ∧ J)) ∨ ((J ∧ X) ∧ (J ∨ X))) ∨ (((J ∨ X) ∨ (X ∧ X)) ∨ ((X ∨ X) ∧ (J ∨ J)))) ∨ ((((X ∨ X) ∧ (X ∨ X)) ∧ ((X ∧ J) ∨ (X ∧ X))) ∨ (((X ∨ X) ∨ (X ∨ J)) ∨ ((J ∧ J) ∨ (X ∧ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is True, X is False, (((((h ∨ X) ∨ (X ∧ X)) ∧ ((h ∧ h) ∨ (h ∨ h))) ∨ (((X ∨ X) ∧ (X ∨ X)) ∨ ((X ∧ h) ∨ (X ∧ h)))) ∨ ((((X ∧ h) ∧ (h ∧ X)) ∧ ((h ∧ h) ∨ (h ∨ X))) ∨ (((X ∧ X) ∨ (h ∨ h)) ∨ ((X ∨ h) ∨ (X ∧ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, S is True, (((((t ∨ S) ∨ (t ∧ S)) ∧ ((S ∨ t) ∨ (t ∨ S))) ∧ (((t ∨ t) ∧ (t ∨ S)) ∨ ((S ∨ S) ∨ (S ∨ S)))) ∧ ((((t ∧ S) ∨ (t ∨ t)) ∧ ((t ∨ S) ∧ (t ∨ S))) ∨ (((S ∨ S) ∧ (t ∨ S)) ∧ ((t ∨ S) ∧ (S ∧ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, D is True, (((((D ∨ o) ∧ (o ∨ D)) ∨ ((o ∧ o) ∨ (o ∨ D))) ∨ (((D ∨ o) ∧ (o ∧ o)) ∧ ((D ∨ o) ∧ (D ∧ D)))) ∧ ((((D ∧ D) ∧ (o ∨ D)) ∧ ((D ∧ D) ∨ (o ∧ o))) ∨ (((o ∧ D) ∧ (D ∧ o)) ∧ ((o ∨ o) ∨ (D ∧ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is True, m is False, (((((m ∨ U) ∨ (U ∨ m)) ∨ ((m ∨ m) ∧ (m ∨ m))) ∨ (((U ∧ U) ∨ (U ∨ U)) ∨ ((U ∨ U) ∨ (U ∨ U)))) ∧ ((((m ∨ m) ∧ (U ∧ U)) ∧ ((m ∨ U) ∧ (U ∧ U))) ∨ (((m ∧ m) ∨ (U ∨ m)) ∧ ((m ∨ U) ∨ (m ∨ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, i is True, (((((i ∧ G) ∧ (G ∧ i)) ∧ ((i ∧ G) ∨ (G ∧ i))) ∨ (((G ∧ G) ∨ (G ∨ i)) ∧ ((i ∧ i) ∧ (i ∨ i)))) ∨ ((((G ∧ i) ∨ (G ∨ i)) ∧ ((i ∨ G) ∧ (G ∨ i))) ∧ (((G ∨ i) ∧ (i ∧ G)) ∧ ((i ∨ i) ∧ (G ∧ i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, F is True, (((((l ∨ F) ∧ (F ∨ l)) ∨ ((l ∨ l) ∨ (l ∧ F))) ∧ (((l ∨ l) ∨ (l ∧ l)) ∧ ((l ∨ l) ∧ (F ∨ F)))) ∧ ((((l ∨ F) ∧ (l ∨ l)) ∨ ((l ∨ F) ∨ (l ∧ F))) ∧ (((F ∧ F) ∧ (F ∧ l)) ∨ ((l ∨ F) ∨ (l ∨ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, C is True, (((((D ∨ C) ∧ (C ∧ D)) ∨ ((C ∨ C) ∨ (D ∧ D))) ∧ (((D ∧ D) ∨ (C ∨ C)) ∧ ((C ∧ C) ∧ (C ∨ D)))) ∧ ((((C ∧ D) ∨ (C ∨ C)) ∧ ((D ∧ C) ∧ (C ∨ C))) ∧ (((D ∨ C) ∧ (D ∧ C)) ∧ ((D ∧ C) ∨ (C ∧ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is True, r is False, (((((r ∧ b) ∧ (r ∧ b)) ∨ ((r ∧ r) ∧ (b ∧ b))) ∨ (((b ∧ r) ∧ (b ∧ b)) ∧ ((b ∧ r) ∨ (b ∧ r)))) ∨ ((((b ∨ b) ∨ (r ∧ b)) ∧ ((r ∧ r) ∧ (r ∧ b))) ∨ (((r ∧ b) ∧ (b ∧ b)) ∧ ((r ∧ b) ∨ (r ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, g is True, (((((g ∧ o) ∨ (o ∧ g)) ∨ ((g ∧ g) ∧ (o ∧ g))) ∨ (((g ∨ o) ∨ (o ∨ o)) ∧ ((g ∨ o) ∧ (o ∨ o)))) ∧ ((((o ∧ g) ∧ (g ∧ g)) ∨ ((o ∨ o) ∧ (o ∧ o))) ∨ (((g ∨ g) ∧ (o ∧ g)) ∨ ((g ∧ o) ∧ (o ∨ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is True, J is False, (((((J ∧ W) ∨ (J ∧ J)) ∧ ((W ∧ J) ∧ (W ∧ W))) ∨ (((J ∧ J) ∨ (W ∨ J)) ∧ ((J ∨ W) ∨ (W ∧ W)))) ∧ ((((W ∧ W) ∨ (J ∨ J)) ∧ ((W ∨ J) ∨ (W ∧ J))) ∨ (((J ∨ J) ∧ (J ∨ W)) ∨ ((W ∨ J) ∧ (J ∧ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, e is True, (((((c ∧ e) ∨ (e ∧ e)) ∧ ((e ∨ c) ∨ (c ∧ c))) ∨ (((c ∧ e) ∨ (e ∧ c)) ∨ ((e ∧ e) ∨ (e ∨ c)))) ∨ ((((e ∧ e) ∧ (c ∨ c)) ∧ ((c ∧ e) ∧ (c ∨ c))) ∨ (((c ∧ e) ∨ (e ∨ c)) ∧ ((c ∨ e) ∧ (c ∨ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, n is False, (((((n ∨ A) ∨ (n ∧ A)) ∨ ((n ∨ n) ∨ (A ∧ A))) ∨ (((A ∧ n) ∨ (n ∧ n)) ∨ ((n ∧ A) ∧ (A ∧ n)))) ∧ ((((n ∧ A) ∨ (n ∨ n)) ∧ ((n ∧ n) ∨ (A ∧ A))) ∧ (((A ∨ n) ∨ (n ∨ n)) ∨ ((n ∧ A) ∨ (n ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is False, I is True, (((((I ∨ X) ∨ (I ∧ I)) ∨ ((I ∨ X) ∨ (X ∨ X))) ∧ (((I ∧ I) ∧ (X ∧ I)) ∧ ((I ∨ X) ∧ (X ∧ I)))) ∨ ((((I ∧ X) ∧ (X ∨ X)) ∧ ((X ∨ I) ∧ (I ∧ I))) ∨ (((X ∨ X) ∧ (X ∨ X)) ∨ ((X ∨ X) ∨ (I ∨ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, w is False, (((((B ∧ w) ∧ (w ∧ B)) ∨ ((w ∨ w) ∨ (w ∨ w))) ∧ (((B ∧ B) ∧ (B ∧ w)) ∨ ((w ∧ w) ∨ (B ∨ w)))) ∧ ((((w ∧ w) ∧ (B ∨ w)) ∨ ((B ∧ B) ∨ (B ∧ B))) ∧ (((w ∧ w) ∨ (w ∧ B)) ∨ ((w ∨ B) ∧ (w ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, d is False, (((((d ∧ i) ∨ (i ∨ i)) ∨ ((i ∧ d) ∧ (d ∨ d))) ∧ (((i ∧ d) ∨ (i ∨ d)) ∧ ((d ∨ i) ∧ (d ∨ d)))) ∨ ((((i ∨ i) ∧ (d ∨ d)) ∧ ((i ∨ d) ∨ (i ∧ d))) ∨ (((d ∧ d) ∧ (i ∧ i)) ∨ ((i ∨ d) ∧ (d ∨ i)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, w is True, (((((w ∧ p) ∨ (w ∨ p)) ∨ ((p ∧ w) ∧ (w ∨ p))) ∧ (((w ∨ w) ∧ (w ∨ w)) ∨ ((p ∧ p) ∧ (p ∨ p)))) ∧ ((((w ∧ w) ∨ (w ∧ p)) ∨ ((p ∨ p) ∨ (p ∧ p))) ∧ (((w ∨ p) ∨ (p ∨ p)) ∧ ((w ∧ p) ∧ (p ∧ p)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is False, a is True, (((((a ∧ Z) ∧ (a ∧ a)) ∨ ((Z ∨ Z) ∨ (Z ∧ a))) ∨ (((a ∨ Z) ∧ (a ∧ Z)) ∧ ((a ∨ a) ∨ (a ∨ a)))) ∨ ((((Z ∨ a) ∧ (a ∨ a)) ∧ ((a ∨ a) ∨ (a ∧ a))) ∨ (((a ∨ Z) ∨ (Z ∧ Z)) ∨ ((Z ∨ Z) ∧ (a ∧ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is False, p is True, (((((p ∨ a) ∧ (a ∨ p)) ∨ ((p ∧ a) ∧ (a ∨ a))) ∨ (((a ∨ a) ∨ (p ∧ a)) ∨ ((p ∧ a) ∧ (p ∧ p)))) ∧ ((((a ∨ p) ∨ (p ∧ p)) ∧ ((p ∧ p) ∨ (a ∧ p))) ∨ (((a ∧ p) ∧ (p ∧ p)) ∨ ((p ∨ a) ∨ (a ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, c is False, (((((o ∨ c) ∨ (o ∨ o)) ∨ ((c ∨ c) ∨ (c ∨ o))) ∧ (((o ∨ c) ∨ (o ∨ o)) ∨ ((c ∨ o) ∨ (o ∨ o)))) ∧ ((((o ∧ c) ∧ (o ∧ o)) ∧ ((c ∧ o) ∧ (c ∧ c))) ∧ (((c ∨ c) ∨ (o ∧ o)) ∨ ((o ∨ c) ∨ (o ∨ c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "S is False, T is True, (((((T ∨ S) ∨ (S ∨ S)) ∨ ((T ∨ S) ∧ (T ∨ S))) ∨ (((S ∨ T) ∨ (S ∨ S)) ∧ ((S ∧ T) ∨ (S ∧ T)))) ∨ ((((T ∨ S) ∨ (S ∧ T)) ∨ ((T ∧ S) ∨ (S ∨ S))) ∨ (((S ∧ T) ∨ (S ∧ S)) ∧ ((T ∧ T) ∨ (S ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, c is False, (((((A ∨ c) ∨ (A ∧ A)) ∧ ((A ∧ A) ∨ (c ∧ c))) ∨ (((c ∧ A) ∨ (A ∧ c)) ∨ ((A ∧ A) ∧ (c ∨ c)))) ∧ ((((A ∨ c) ∧ (c ∨ A)) ∧ ((A ∨ A) ∧ (A ∨ A))) ∨ (((c ∨ c) ∧ (c ∧ A)) ∨ ((c ∨ A) ∧ (A ∨ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, w is True, (((((w ∧ v) ∨ (v ∨ w)) ∧ ((w ∧ w) ∨ (v ∨ w))) ∧ (((w ∨ w) ∧ (w ∨ v)) ∧ ((w ∨ v) ∧ (w ∨ v)))) ∧ ((((w ∧ v) ∧ (w ∨ w)) ∨ ((w ∨ w) ∧ (w ∧ w))) ∧ (((w ∧ w) ∧ (w ∨ w)) ∧ ((v ∧ v) ∧ (v ∧ w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, e is True, (((((e ∨ I) ∨ (I ∨ e)) ∨ ((I ∨ e) ∨ (e ∨ I))) ∧ (((e ∧ e) ∨ (I ∧ e)) ∨ ((I ∨ e) ∨ (e ∨ I)))) ∨ ((((I ∧ I) ∧ (I ∧ I)) ∨ ((I ∧ e) ∧ (I ∨ e))) ∨ (((e ∨ I) ∨ (e ∧ e)) ∧ ((e ∨ e) ∧ (e ∨ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, K is False, (((((Z ∧ K) ∨ (Z ∨ K)) ∧ ((K ∧ Z) ∨ (K ∧ K))) ∧ (((K ∨ Z) ∨ (K ∧ K)) ∧ ((K ∨ Z) ∨ (K ∧ K)))) ∨ ((((K ∧ Z) ∨ (Z ∧ Z)) ∨ ((K ∧ K) ∨ (Z ∧ Z))) ∨ (((K ∧ K) ∨ (Z ∨ K)) ∨ ((Z ∧ Z) ∧ (K ∧ K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, G is True, (((((t ∨ G) ∨ (t ∧ t)) ∨ ((G ∧ t) ∧ (t ∨ t))) ∧ (((t ∨ G) ∨ (t ∨ t)) ∧ ((G ∨ G) ∧ (G ∧ G)))) ∧ ((((G ∧ t) ∨ (G ∧ t)) ∧ ((t ∧ G) ∨ (G ∧ G))) ∨ (((t ∧ t) ∨ (t ∨ G)) ∨ ((G ∧ G) ∨ (G ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, Y is True, (((((Y ∧ I) ∨ (I ∧ I)) ∨ ((I ∧ I) ∧ (I ∧ I))) ∧ (((Y ∨ I) ∧ (Y ∧ I)) ∨ ((Y ∨ I) ∧ (Y ∨ I)))) ∧ ((((I ∧ Y) ∧ (I ∨ Y)) ∧ ((I ∧ I) ∨ (I ∧ Y))) ∨ (((Y ∨ I) ∧ (Y ∧ I)) ∨ ((I ∧ I) ∧ (Y ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "K is True, A is False, (((((A ∨ K) ∧ (K ∨ A)) ∨ ((A ∨ K) ∧ (K ∧ A))) ∨ (((K ∨ A) ∨ (K ∧ A)) ∧ ((A ∧ A) ∧ (K ∧ K)))) ∧ ((((A ∧ A) ∧ (A ∨ K)) ∨ ((A ∧ K) ∨ (K ∧ A))) ∧ (((A ∧ K) ∨ (K ∧ K)) ∧ ((A ∧ K) ∧ (K ∧ K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, I is True, (((((I ∧ v) ∧ (v ∨ I)) ∧ ((v ∨ I) ∨ (I ∧ v))) ∨ (((I ∨ v) ∨ (I ∧ v)) ∨ ((I ∧ v) ∨ (I ∧ v)))) ∨ ((((v ∧ v) ∨ (I ∧ v)) ∧ ((I ∨ I) ∨ (v ∨ v))) ∧ (((v ∧ v) ∨ (I ∧ I)) ∧ ((I ∨ v) ∧ (I ∧ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is True, t is False, (((((R ∧ t) ∧ (R ∨ t)) ∨ ((R ∧ R) ∨ (R ∨ t))) ∨ (((t ∨ t) ∧ (t ∧ R)) ∧ ((t ∨ t) ∧ (R ∧ R)))) ∧ ((((t ∨ t) ∨ (t ∧ t)) ∨ ((t ∧ R) ∧ (t ∧ t))) ∧ (((R ∧ R) ∧ (t ∧ R)) ∧ ((t ∧ R) ∨ (t ∧ R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is True, b is False, (((((b ∧ r) ∧ (b ∨ r)) ∨ ((b ∨ r) ∧ (r ∨ b))) ∧ (((b ∨ b) ∨ (r ∨ b)) ∨ ((r ∨ b) ∨ (r ∧ r)))) ∨ ((((r ∨ b) ∨ (b ∨ b)) ∧ ((r ∨ b) ∧ (b ∨ r))) ∧ (((r ∨ b) ∧ (r ∧ r)) ∨ ((b ∧ b) ∧ (b ∨ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, o is False, (((((f ∨ o) ∨ (f ∧ o)) ∨ ((f ∧ f) ∧ (o ∧ o))) ∨ (((f ∧ o) ∨ (o ∧ f)) ∨ ((o ∧ o) ∨ (f ∧ f)))) ∧ ((((o ∧ f) ∨ (f ∨ f)) ∧ ((o ∧ o) ∨ (o ∨ f))) ∧ (((o ∧ o) ∧ (f ∧ f)) ∨ ((f ∨ f) ∧ (o ∨ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "E is True, z is False, (((((z ∧ E) ∨ (z ∨ E)) ∨ ((z ∨ z) ∧ (E ∨ E))) ∧ (((E ∨ z) ∧ (E ∧ E)) ∨ ((z ∨ E) ∨ (E ∧ E)))) ∧ ((((z ∨ E) ∨ (z ∧ E)) ∨ ((E ∧ E) ∨ (E ∧ z))) ∨ (((z ∨ E) ∧ (z ∧ E)) ∧ ((E ∧ E) ∨ (z ∧ E)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is True, M is False, (((((V ∧ M) ∨ (M ∧ V)) ∨ ((V ∧ V) ∨ (V ∧ M))) ∨ (((V ∨ M) ∧ (M ∧ M)) ∧ ((M ∧ V) ∨ (M ∧ M)))) ∨ ((((V ∨ M) ∧ (V ∧ V)) ∧ ((M ∧ M) ∨ (M ∨ M))) ∧ (((M ∨ M) ∧ (V ∧ M)) ∧ ((M ∨ M) ∧ (V ∧ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is True, w is False, (((((w ∧ q) ∨ (w ∨ q)) ∨ ((q ∨ q) ∨ (q ∧ w))) ∧ (((w ∨ w) ∨ (w ∧ w)) ∨ ((w ∨ q) ∧ (w ∨ q)))) ∧ ((((w ∧ q) ∧ (w ∧ w)) ∧ ((q ∧ q) ∧ (w ∨ w))) ∨ (((q ∨ w) ∨ (q ∧ q)) ∧ ((q ∧ w) ∧ (w ∨ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, x is False, (((((x ∨ H) ∨ (H ∨ H)) ∨ ((x ∨ x) ∨ (x ∧ H))) ∧ (((x ∨ x) ∧ (H ∧ x)) ∧ ((x ∧ x) ∧ (x ∨ x)))) ∨ ((((x ∨ H) ∨ (x ∨ x)) ∨ ((H ∧ x) ∨ (x ∨ H))) ∧ (((H ∨ H) ∨ (H ∨ H)) ∨ ((H ∧ x) ∧ (H ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, I is False, (((((I ∨ B) ∨ (B ∧ B)) ∨ ((I ∧ B) ∧ (I ∧ B))) ∨ (((B ∧ I) ∨ (B ∨ B)) ∨ ((B ∧ I) ∧ (I ∧ B)))) ∨ ((((I ∨ I) ∨ (B ∧ I)) ∧ ((I ∧ I) ∨ (B ∨ B))) ∨ (((B ∧ B) ∨ (I ∧ B)) ∨ ((I ∨ B) ∨ (I ∨ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, J is True, (((((G ∨ J) ∧ (J ∧ G)) ∧ ((G ∧ J) ∧ (G ∧ G))) ∧ (((J ∨ J) ∧ (J ∨ G)) ∨ ((J ∧ G) ∧ (J ∨ J)))) ∧ ((((G ∨ J) ∨ (J ∨ J)) ∧ ((G ∧ J) ∧ (G ∧ J))) ∧ (((J ∨ J) ∨ (G ∨ J)) ∧ ((G ∧ G) ∨ (G ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "J is False, x is True, (((((x ∨ J) ∨ (J ∧ x)) ∨ ((x ∨ J) ∨ (x ∨ J))) ∧ (((J ∨ J) ∨ (x ∧ x)) ∨ ((x ∧ J) ∧ (x ∧ J)))) ∨ ((((x ∨ J) ∧ (J ∨ x)) ∧ ((x ∨ J) ∨ (x ∨ J))) ∨ (((J ∧ x) ∨ (x ∨ x)) ∨ ((x ∨ x) ∨ (J ∧ x)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, p is False, (((((j ∨ p) ∨ (p ∧ p)) ∧ ((j ∧ j) ∨ (p ∧ j))) ∨ (((p ∨ p) ∧ (p ∨ p)) ∨ ((j ∧ p) ∧ (p ∧ j)))) ∨ ((((p ∧ p) ∨ (p ∨ j)) ∨ ((j ∧ j) ∧ (p ∧ j))) ∧ (((j ∨ j) ∨ (j ∨ p)) ∧ ((p ∧ j) ∧ (j ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, y is True, (((((y ∨ Z) ∧ (y ∨ y)) ∧ ((Z ∨ y) ∨ (y ∧ Z))) ∧ (((y ∨ Z) ∧ (Z ∨ Z)) ∨ ((y ∨ Z) ∧ (Z ∨ y)))) ∧ ((((Z ∨ y) ∨ (Z ∧ Z)) ∧ ((Z ∧ y) ∧ (Z ∧ Z))) ∧ (((y ∧ y) ∧ (Z ∧ Z)) ∧ ((y ∨ y) ∨ (y ∨ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, u is True, (((((c ∨ u) ∧ (c ∧ c)) ∨ ((c ∧ c) ∨ (u ∧ u))) ∨ (((c ∧ u) ∨ (u ∧ c)) ∧ ((c ∨ c) ∧ (u ∨ u)))) ∨ ((((u ∨ c) ∧ (c ∨ u)) ∨ ((c ∧ u) ∧ (c ∨ c))) ∨ (((c ∨ c) ∧ (c ∧ u)) ∧ ((c ∧ u) ∧ (c ∨ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "S is False, r is True, (((((S ∨ r) ∧ (r ∨ r)) ∨ ((r ∧ S) ∧ (S ∧ S))) ∨ (((S ∧ r) ∨ (r ∨ S)) ∨ ((S ∨ r) ∨ (r ∧ r)))) ∨ ((((r ∨ S) ∧ (S ∧ S)) ∨ ((r ∨ S) ∨ (r ∧ S))) ∧ (((r ∨ r) ∨ (S ∧ r)) ∨ ((r ∨ r) ∨ (r ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is False, J is True, (((((J ∧ D) ∧ (J ∨ J)) ∧ ((J ∨ J) ∨ (D ∨ D))) ∨ (((D ∧ J) ∨ (J ∧ J)) ∧ ((J ∨ D) ∨ (J ∧ J)))) ∨ ((((J ∨ D) ∨ (D ∨ D)) ∨ ((D ∧ D) ∧ (J ∧ J))) ∧ (((J ∧ D) ∨ (D ∧ J)) ∨ ((D ∨ D) ∧ (D ∨ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, v is False, (((((i ∧ v) ∨ (v ∧ v)) ∨ ((v ∧ i) ∨ (v ∨ v))) ∧ (((i ∧ i) ∧ (i ∨ i)) ∨ ((v ∧ i) ∧ (i ∨ v)))) ∧ ((((v ∧ i) ∧ (v ∨ v)) ∧ ((v ∧ v) ∧ (i ∧ v))) ∧ (((i ∨ v) ∧ (i ∨ v)) ∧ ((i ∧ i) ∨ (i ∧ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is True, X is False, (((((q ∧ X) ∧ (q ∨ q)) ∨ ((q ∨ X) ∨ (X ∨ q))) ∧ (((X ∧ X) ∨ (X ∧ X)) ∨ ((q ∧ q) ∨ (X ∨ X)))) ∨ ((((q ∧ X) ∧ (X ∧ q)) ∨ ((X ∨ X) ∧ (X ∧ q))) ∧ (((X ∨ X) ∧ (q ∧ q)) ∧ ((q ∧ q) ∧ (X ∧ X)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, m is True, (((((m ∨ I) ∨ (I ∨ m)) ∧ ((m ∨ I) ∧ (I ∧ m))) ∧ (((m ∧ I) ∨ (I ∧ m)) ∨ ((I ∨ I) ∧ (m ∧ m)))) ∨ ((((m ∧ m) ∨ (m ∧ I)) ∧ ((m ∧ m) ∧ (I ∨ m))) ∧ (((m ∧ I) ∨ (I ∧ I)) ∨ ((I ∨ I) ∨ (m ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "V is True, Y is False, (((((Y ∨ V) ∧ (V ∧ V)) ∨ ((V ∨ V) ∧ (Y ∧ Y))) ∨ (((V ∧ V) ∨ (Y ∧ V)) ∧ ((V ∧ V) ∨ (V ∧ V)))) ∨ ((((V ∨ V) ∧ (Y ∧ V)) ∨ ((V ∨ V) ∨ (Y ∧ Y))) ∧ (((Y ∨ V) ∨ (Y ∧ Y)) ∨ ((V ∧ V) ∧ (Y ∨ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is False, J is True, (((((J ∧ t) ∧ (J ∧ t)) ∧ ((t ∧ t) ∨ (t ∧ J))) ∨ (((J ∧ t) ∨ (t ∨ J)) ∧ ((J ∨ t) ∨ (J ∨ t)))) ∧ ((((J ∧ t) ∧ (t ∨ t)) ∨ ((J ∧ J) ∨ (t ∨ J))) ∨ (((J ∧ J) ∨ (t ∧ t)) ∨ ((J ∧ t) ∧ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, b is False, (((((b ∧ k) ∧ (k ∨ b)) ∨ ((k ∧ k) ∧ (k ∧ k))) ∧ (((b ∨ b) ∨ (k ∨ b)) ∨ ((k ∨ b) ∧ (k ∨ k)))) ∧ ((((b ∧ b) ∧ (b ∧ k)) ∨ ((b ∧ b) ∧ (b ∧ k))) ∨ (((k ∨ b) ∧ (k ∨ b)) ∧ ((k ∨ b) ∧ (k ∧ b)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, u is False, (((((u ∨ M) ∨ (u ∨ M)) ∧ ((M ∨ M) ∧ (M ∧ u))) ∨ (((M ∨ M) ∨ (M ∧ M)) ∨ ((u ∨ u) ∧ (M ∧ u)))) ∧ ((((M ∨ M) ∨ (u ∨ u)) ∨ ((M ∨ M) ∨ (M ∨ u))) ∨ (((M ∧ M) ∨ (u ∧ M)) ∨ ((M ∧ u) ∨ (M ∨ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, Q is False, (((((Q ∧ B) ∧ (B ∧ Q)) ∨ ((Q ∧ Q) ∧ (Q ∨ Q))) ∧ (((Q ∨ Q) ∨ (B ∨ Q)) ∧ ((B ∧ B) ∧ (Q ∧ B)))) ∨ ((((B ∧ B) ∨ (B ∧ B)) ∧ ((B ∧ B) ∨ (B ∧ Q))) ∧ (((B ∨ Q) ∨ (B ∨ Q)) ∧ ((Q ∧ Q) ∨ (Q ∧ Q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, Z is True, (((((L ∧ Z) ∧ (L ∧ Z)) ∧ ((L ∨ L) ∧ (Z ∨ Z))) ∨ (((Z ∨ Z) ∧ (L ∧ Z)) ∧ ((L ∨ Z) ∧ (L ∨ L)))) ∧ ((((Z ∧ Z) ∨ (Z ∨ Z)) ∧ ((L ∨ Z) ∧ (L ∧ Z))) ∧ (((Z ∧ L) ∨ (L ∨ L)) ∧ ((L ∧ Z) ∧ (Z ∧ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, N is True, (((((H ∨ N) ∨ (N ∧ H)) ∨ ((N ∨ N) ∨ (N ∨ H))) ∨ (((H ∧ N) ∧ (N ∨ H)) ∨ ((H ∧ H) ∨ (H ∧ H)))) ∨ ((((H ∨ N) ∧ (H ∧ H)) ∨ ((H ∧ N) ∧ (H ∧ H))) ∧ (((H ∧ H) ∨ (N ∧ N)) ∧ ((N ∨ H) ∨ (H ∨ N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "L is False, D is True, (((((D ∨ L) ∨ (L ∧ L)) ∧ ((L ∧ L) ∧ (D ∧ D))) ∧ (((L ∨ L) ∧ (L ∨ L)) ∧ ((L ∧ D) ∨ (D ∧ L)))) ∨ ((((L ∧ L) ∨ (L ∧ D)) ∧ ((L ∧ L) ∨ (D ∨ D))) ∨ (((L ∨ D) ∨ (D ∧ L)) ∨ ((L ∨ D) ∨ (L ∨ D)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, b is False, (((((e ∧ b) ∧ (b ∧ b)) ∨ ((e ∨ e) ∨ (e ∨ b))) ∧ (((e ∨ b) ∨ (e ∧ b)) ∨ ((b ∨ e) ∨ (b ∨ e)))) ∧ ((((e ∧ e) ∨ (e ∨ e)) ∨ ((e ∨ e) ∨ (b ∨ e))) ∨ (((b ∧ e) ∨ (b ∨ e)) ∨ ((b ∧ e) ∨ (e ∧ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, K is False, (((((K ∧ e) ∧ (e ∧ K)) ∧ ((e ∨ K) ∨ (e ∨ e))) ∨ (((K ∧ K) ∧ (e ∧ e)) ∧ ((e ∨ e) ∨ (K ∨ e)))) ∧ ((((K ∧ K) ∧ (K ∧ K)) ∨ ((K ∧ e) ∧ (K ∧ e))) ∨ (((K ∨ K) ∨ (K ∧ e)) ∨ ((K ∧ K) ∧ (e ∨ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, r is True, (((((U ∨ r) ∧ (r ∧ r)) ∧ ((r ∧ r) ∧ (U ∧ r))) ∨ (((U ∧ U) ∨ (U ∨ U)) ∧ ((r ∨ U) ∧ (U ∧ U)))) ∧ ((((r ∧ r) ∧ (r ∧ r)) ∨ ((r ∧ U) ∨ (r ∧ U))) ∨ (((U ∧ U) ∨ (U ∧ r)) ∧ ((r ∧ U) ∨ (r ∧ r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is True, b is False, (((((b ∧ r) ∨ (r ∧ r)) ∨ ((r ∨ b) ∧ (r ∧ b))) ∨ (((r ∧ b) ∧ (b ∨ r)) ∧ ((r ∧ b) ∧ (r ∨ b)))) ∨ ((((r ∨ b) ∧ (b ∧ b)) ∨ ((r ∧ b) ∧ (r ∧ r))) ∨ (((r ∨ b) ∨ (r ∨ r)) ∨ ((b ∨ b) ∧ (b ∨ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, k is True, (((((k ∧ P) ∧ (P ∨ P)) ∨ ((k ∧ P) ∨ (P ∨ P))) ∧ (((P ∧ P) ∨ (k ∧ k)) ∧ ((P ∧ k) ∧ (k ∧ P)))) ∧ ((((k ∨ k) ∨ (k ∨ P)) ∧ ((P ∧ k) ∧ (P ∧ P))) ∧ (((k ∨ k) ∨ (P ∨ P)) ∧ ((P ∧ k) ∧ (k ∧ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, L is True, (((((D ∧ L) ∧ (D ∨ L)) ∧ ((D ∨ L) ∧ (L ∧ D))) ∨ (((L ∨ D) ∧ (D ∧ D)) ∨ ((D ∧ L) ∨ (D ∨ D)))) ∧ ((((L ∧ D) ∧ (D ∨ D)) ∧ ((L ∨ D) ∨ (D ∧ L))) ∨ (((D ∧ L) ∧ (D ∨ D)) ∨ ((L ∨ D) ∧ (L ∨ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "q is True, f is False, (((((f ∨ q) ∧ (q ∧ q)) ∨ ((q ∨ f) ∨ (f ∨ q))) ∨ (((q ∧ f) ∧ (q ∧ f)) ∧ ((f ∧ q) ∧ (q ∧ f)))) ∧ ((((f ∨ q) ∨ (q ∧ q)) ∨ ((f ∨ q) ∧ (q ∨ q))) ∨ (((f ∨ f) ∨ (f ∨ q)) ∨ ((q ∧ f) ∨ (q ∧ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "L is False, I is True, (((((I ∧ L) ∧ (L ∧ I)) ∧ ((L ∧ L) ∧ (I ∨ L))) ∨ (((L ∧ L) ∧ (I ∨ L)) ∨ ((I ∨ I) ∨ (L ∨ I)))) ∧ ((((L ∨ I) ∨ (I ∨ L)) ∧ ((I ∨ I) ∨ (I ∧ L))) ∧ (((I ∧ L) ∨ (L ∨ I)) ∨ ((I ∧ I) ∧ (L ∧ L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "E is False, x is True, (((((E ∧ x) ∧ (x ∨ E)) ∨ ((x ∨ x) ∧ (x ∧ E))) ∨ (((x ∨ E) ∧ (x ∧ x)) ∨ ((x ∨ x) ∨ (E ∧ x)))) ∧ ((((x ∧ E) ∨ (E ∧ E)) ∧ ((x ∧ E) ∧ (E ∨ E))) ∨ (((x ∧ x) ∧ (E ∨ E)) ∧ ((E ∨ E) ∧ (E ∨ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is False, L is True, (((((z ∧ L) ∧ (L ∨ z)) ∨ ((L ∨ z) ∨ (z ∨ z))) ∧ (((L ∨ L) ∨ (L ∧ L)) ∧ ((z ∧ z) ∧ (z ∨ L)))) ∧ ((((L ∨ z) ∧ (L ∨ z)) ∨ ((L ∧ z) ∨ (L ∨ z))) ∨ (((z ∨ L) ∧ (L ∧ L)) ∧ ((L ∨ L) ∨ (z ∨ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, k is False, (((((k ∨ M) ∧ (k ∧ M)) ∨ ((M ∧ k) ∧ (M ∨ k))) ∧ (((M ∨ M) ∧ (k ∧ k)) ∨ ((M ∨ M) ∧ (k ∨ k)))) ∧ ((((k ∨ k) ∧ (k ∨ k)) ∧ ((M ∧ M) ∨ (k ∧ k))) ∧ (((k ∨ M) ∨ (M ∧ k)) ∨ ((k ∧ k) ∨ (k ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, f is False, (((((R ∨ f) ∨ (f ∨ R)) ∧ ((f ∨ f) ∨ (f ∨ R))) ∧ (((R ∧ f) ∨ (R ∧ f)) ∨ ((R ∧ f) ∨ (f ∧ f)))) ∨ ((((f ∧ f) ∧ (R ∧ f)) ∨ ((R ∧ f) ∧ (R ∨ R))) ∨ (((R ∧ R) ∨ (f ∧ f)) ∧ ((R ∧ R) ∨ (R ∨ R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "w is False, G is True, (((((G ∧ w) ∧ (w ∨ G)) ∧ ((G ∧ G) ∧ (w ∨ w))) ∨ (((G ∨ G) ∧ (w ∧ w)) ∨ ((G ∧ G) ∧ (w ∨ G)))) ∨ ((((G ∧ w) ∧ (w ∨ G)) ∨ ((G ∧ G) ∨ (G ∨ G))) ∨ (((w ∧ G) ∧ (w ∨ G)) ∧ ((G ∨ w) ∨ (w ∧ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "r is False, G is True, (((((G ∧ r) ∨ (G ∨ r)) ∧ ((G ∨ r) ∨ (r ∧ r))) ∨ (((G ∨ G) ∧ (G ∨ G)) ∨ ((r ∨ r) ∨ (r ∧ r)))) ∨ ((((r ∧ G) ∨ (r ∨ G)) ∧ ((r ∨ r) ∨ (G ∨ r))) ∧ (((G ∧ r) ∧ (r ∧ G)) ∨ ((r ∨ G) ∨ (r ∨ r)))))",
+        "cls": "1"
+    },
+    {
+        "text": "U is False, h is True, (((((h ∨ U) ∨ (U ∨ h)) ∨ ((h ∧ h) ∨ (U ∨ U))) ∨ (((h ∧ h) ∨ (U ∧ h)) ∧ ((h ∧ U) ∧ (U ∨ h)))) ∧ ((((U ∧ h) ∧ (U ∨ U)) ∨ ((U ∨ h) ∧ (U ∨ U))) ∨ (((U ∨ h) ∧ (h ∧ U)) ∧ ((U ∧ U) ∧ (U ∨ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "X is True, k is False, (((((X ∨ k) ∨ (k ∧ k)) ∧ ((X ∧ X) ∧ (k ∨ k))) ∧ (((X ∨ X) ∧ (X ∨ X)) ∨ ((k ∨ k) ∨ (X ∨ k)))) ∧ ((((X ∧ X) ∧ (k ∨ k)) ∨ ((X ∧ X) ∨ (k ∧ X))) ∨ (((X ∨ k) ∨ (X ∧ k)) ∧ ((k ∨ k) ∨ (k ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is False, e is True, (((((e ∧ i) ∨ (i ∨ e)) ∧ ((e ∨ i) ∧ (e ∨ i))) ∧ (((i ∧ e) ∧ (e ∧ e)) ∨ ((e ∧ e) ∨ (i ∧ i)))) ∨ ((((e ∨ i) ∨ (e ∧ i)) ∨ ((e ∧ i) ∨ (e ∧ i))) ∧ (((e ∨ i) ∧ (i ∧ i)) ∨ ((e ∨ i) ∧ (e ∨ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "P is False, C is True, (((((P ∧ C) ∧ (P ∧ C)) ∨ ((P ∨ C) ∧ (C ∨ P))) ∧ (((P ∨ P) ∨ (P ∨ P)) ∨ ((P ∨ P) ∧ (P ∨ P)))) ∨ ((((P ∧ C) ∨ (C ∨ C)) ∧ ((C ∨ C) ∧ (P ∧ C))) ∧ (((P ∧ C) ∧ (P ∧ P)) ∨ ((P ∧ P) ∧ (P ∧ C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, v is True, (((((v ∧ H) ∨ (H ∨ v)) ∨ ((v ∨ H) ∧ (v ∨ v))) ∧ (((H ∨ v) ∧ (H ∨ v)) ∧ ((H ∧ H) ∧ (v ∧ v)))) ∧ ((((v ∨ v) ∧ (H ∨ v)) ∧ ((H ∨ H) ∧ (H ∧ v))) ∨ (((H ∨ H) ∨ (v ∨ v)) ∨ ((H ∧ H) ∨ (H ∨ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is True, p is False, (((((p ∧ a) ∨ (p ∧ p)) ∨ ((a ∨ p) ∧ (a ∨ a))) ∧ (((a ∨ a) ∨ (p ∨ a)) ∨ ((a ∨ p) ∧ (p ∨ p)))) ∨ ((((p ∧ a) ∨ (a ∧ p)) ∨ ((a ∧ a) ∧ (a ∧ a))) ∨ (((p ∧ p) ∧ (a ∧ p)) ∧ ((a ∨ p) ∧ (p ∧ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is False, P is True, (((((P ∧ J) ∨ (J ∨ J)) ∧ ((P ∧ J) ∨ (P ∧ J))) ∧ (((P ∧ J) ∨ (P ∧ J)) ∨ ((J ∧ P) ∨ (J ∨ J)))) ∧ ((((P ∨ J) ∨ (P ∨ J)) ∨ ((J ∨ J) ∧ (P ∧ J))) ∧ (((J ∨ P) ∨ (J ∨ J)) ∨ ((J ∧ J) ∨ (P ∨ P)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, i is True, (((((i ∨ U) ∧ (i ∧ i)) ∨ ((U ∨ i) ∧ (i ∨ U))) ∧ (((U ∧ i) ∨ (i ∨ i)) ∧ ((i ∧ i) ∧ (i ∧ i)))) ∧ ((((U ∧ U) ∧ (U ∧ i)) ∧ ((U ∨ U) ∧ (i ∧ U))) ∨ (((i ∨ i) ∧ (U ∧ U)) ∧ ((i ∧ i) ∨ (U ∧ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, g is True, (((((g ∧ c) ∨ (c ∧ g)) ∨ ((g ∨ c) ∨ (c ∨ g))) ∧ (((g ∨ c) ∧ (g ∧ c)) ∨ ((c ∨ g) ∨ (c ∨ c)))) ∨ ((((c ∨ g) ∧ (c ∧ c)) ∨ ((c ∨ g) ∨ (g ∧ g))) ∧ (((g ∧ g) ∨ (g ∨ g)) ∧ ((c ∧ c) ∨ (g ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, b is True, (((((I ∨ b) ∨ (b ∨ I)) ∨ ((I ∧ I) ∨ (b ∨ I))) ∨ (((I ∧ I) ∨ (b ∧ b)) ∧ ((I ∧ b) ∨ (I ∧ b)))) ∧ ((((b ∧ b) ∨ (I ∨ b)) ∨ ((b ∧ I) ∧ (b ∨ b))) ∧ (((I ∧ b) ∨ (b ∨ I)) ∧ ((b ∧ b) ∧ (b ∨ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, n is True, (((((n ∨ Z) ∧ (n ∧ n)) ∧ ((Z ∧ n) ∧ (Z ∧ Z))) ∧ (((n ∧ n) ∨ (n ∨ n)) ∧ ((n ∨ Z) ∨ (Z ∧ n)))) ∨ ((((Z ∨ Z) ∨ (Z ∧ Z)) ∧ ((Z ∨ Z) ∧ (Z ∨ n))) ∨ (((Z ∨ Z) ∨ (Z ∨ n)) ∧ ((n ∧ n) ∨ (Z ∧ n)))))",
+        "cls": "1"
+    },
+    {
+        "text": "g is True, d is False, (((((d ∧ g) ∧ (d ∨ d)) ∨ ((d ∨ d) ∨ (d ∨ g))) ∧ (((g ∨ d) ∧ (g ∧ d)) ∧ ((d ∧ g) ∨ (d ∧ d)))) ∧ ((((d ∧ g) ∧ (g ∨ g)) ∨ ((g ∨ g) ∨ (d ∧ d))) ∧ (((g ∧ g) ∧ (g ∧ g)) ∧ ((d ∧ g) ∧ (d ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is False, T is True, (((((a ∨ T) ∨ (a ∧ a)) ∧ ((a ∨ a) ∨ (T ∨ T))) ∧ (((a ∧ a) ∧ (a ∨ a)) ∨ ((a ∨ T) ∧ (a ∨ a)))) ∨ ((((a ∨ T) ∧ (T ∨ a)) ∧ ((a ∧ T) ∨ (a ∨ T))) ∧ (((a ∨ a) ∧ (T ∧ T)) ∧ ((T ∨ a) ∨ (a ∨ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is True, g is False, (((((o ∧ g) ∨ (o ∨ o)) ∧ ((o ∧ g) ∧ (o ∨ o))) ∧ (((o ∧ o) ∨ (o ∧ g)) ∧ ((o ∨ g) ∧ (g ∧ g)))) ∨ ((((g ∧ o) ∧ (g ∧ o)) ∨ ((o ∧ g) ∧ (o ∨ g))) ∧ (((g ∧ g) ∧ (g ∨ o)) ∧ ((g ∧ g) ∧ (g ∨ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is False, q is True, (((((l ∨ q) ∧ (l ∧ l)) ∨ ((q ∨ l) ∨ (l ∨ q))) ∧ (((q ∨ q) ∧ (l ∨ q)) ∧ ((q ∨ q) ∧ (q ∨ q)))) ∧ ((((l ∨ q) ∨ (l ∨ q)) ∧ ((q ∨ l) ∨ (q ∧ q))) ∧ (((q ∧ q) ∧ (q ∨ q)) ∨ ((l ∧ l) ∧ (l ∨ l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is True, b is False, (((((G ∨ b) ∨ (b ∧ b)) ∧ ((G ∧ b) ∨ (b ∧ G))) ∨ (((b ∧ b) ∨ (G ∧ G)) ∨ ((b ∧ b) ∨ (G ∨ b)))) ∧ ((((G ∨ b) ∨ (G ∨ b)) ∨ ((G ∧ b) ∧ (b ∨ b))) ∨ (((b ∨ b) ∧ (b ∨ b)) ∧ ((G ∨ b) ∨ (G ∧ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, u is False, (((((d ∨ u) ∨ (u ∨ u)) ∨ ((u ∧ u) ∧ (u ∨ u))) ∨ (((d ∨ d) ∧ (u ∨ d)) ∧ ((u ∧ d) ∨ (d ∨ d)))) ∨ ((((u ∨ d) ∧ (u ∧ u)) ∧ ((d ∨ u) ∨ (u ∧ u))) ∨ (((u ∧ d) ∧ (d ∨ u)) ∧ ((d ∨ d) ∨ (u ∧ u)))))",
+        "cls": "1"
+    },
+    {
+        "text": "F is False, i is True, (((((F ∨ i) ∧ (F ∧ F)) ∨ ((i ∧ i) ∨ (i ∨ i))) ∧ (((i ∨ F) ∨ (F ∨ F)) ∨ ((F ∨ F) ∨ (i ∨ F)))) ∨ ((((i ∨ F) ∧ (i ∨ F)) ∧ ((F ∧ F) ∧ (i ∧ i))) ∨ (((F ∧ F) ∧ (F ∨ i)) ∧ ((i ∨ F) ∧ (i ∨ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, G is False, (((((l ∧ G) ∨ (l ∨ l)) ∨ ((G ∧ G) ∧ (G ∨ G))) ∧ (((G ∨ l) ∧ (l ∧ l)) ∧ ((G ∧ G) ∨ (l ∨ l)))) ∧ ((((l ∧ l) ∧ (G ∨ G)) ∨ ((G ∨ l) ∨ (l ∧ G))) ∨ (((G ∨ G) ∧ (G ∨ l)) ∨ ((l ∧ l) ∨ (G ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, y is True, (((((v ∧ y) ∧ (v ∧ v)) ∨ ((v ∨ y) ∧ (y ∧ y))) ∧ (((v ∧ y) ∧ (v ∧ v)) ∨ ((v ∨ v) ∧ (v ∧ v)))) ∧ ((((y ∨ y) ∨ (y ∨ y)) ∨ ((y ∧ y) ∧ (y ∧ y))) ∨ (((y ∨ v) ∧ (v ∨ y)) ∨ ((v ∧ y) ∧ (v ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, m is True, (((((w ∨ m) ∧ (m ∨ w)) ∨ ((w ∨ w) ∧ (w ∨ m))) ∧ (((m ∨ w) ∨ (w ∨ w)) ∧ ((w ∧ m) ∨ (w ∨ w)))) ∨ ((((w ∧ w) ∨ (m ∨ w)) ∧ ((m ∨ w) ∧ (w ∨ m))) ∨ (((m ∨ m) ∧ (w ∧ w)) ∨ ((m ∨ w) ∧ (w ∧ m)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, c is True, (((((G ∧ c) ∨ (G ∧ G)) ∨ ((G ∨ G) ∧ (c ∧ G))) ∨ (((c ∧ G) ∨ (c ∧ c)) ∨ ((G ∧ G) ∨ (G ∨ c)))) ∨ ((((G ∨ G) ∧ (G ∨ c)) ∨ ((G ∧ c) ∧ (c ∨ G))) ∧ (((c ∨ c) ∧ (c ∨ G)) ∧ ((G ∨ G) ∧ (c ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "W is True, g is False, (((((W ∧ g) ∧ (g ∨ g)) ∧ ((g ∨ g) ∧ (g ∨ W))) ∧ (((W ∨ W) ∧ (W ∨ W)) ∧ ((W ∨ W) ∨ (W ∨ g)))) ∧ ((((g ∨ W) ∨ (g ∧ g)) ∨ ((g ∨ W) ∨ (g ∧ g))) ∧ (((g ∧ W) ∧ (g ∨ g)) ∧ ((W ∧ W) ∨ (W ∨ W)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is True, O is False, (((((O ∧ t) ∨ (O ∨ t)) ∨ ((O ∨ t) ∧ (O ∧ O))) ∨ (((t ∧ O) ∨ (t ∨ t)) ∨ ((O ∧ t) ∧ (t ∧ t)))) ∧ ((((t ∧ t) ∨ (O ∨ t)) ∨ ((t ∧ t) ∧ (O ∧ t))) ∧ (((O ∧ O) ∨ (O ∧ t)) ∧ ((O ∨ t) ∧ (t ∧ O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "B is True, l is False, (((((B ∨ l) ∧ (l ∧ l)) ∨ ((l ∨ B) ∧ (l ∧ l))) ∧ (((l ∧ B) ∨ (B ∨ B)) ∧ ((l ∨ B) ∨ (l ∨ B)))) ∨ ((((B ∨ B) ∧ (B ∧ l)) ∨ ((B ∧ l) ∧ (l ∧ B))) ∨ (((B ∨ B) ∨ (l ∨ l)) ∧ ((l ∨ l) ∨ (B ∨ B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, a is False, (((((a ∧ k) ∧ (a ∨ a)) ∧ ((k ∨ k) ∨ (k ∨ a))) ∨ (((a ∨ k) ∨ (a ∧ a)) ∧ ((a ∧ k) ∨ (a ∨ k)))) ∧ ((((a ∨ a) ∨ (k ∧ a)) ∨ ((k ∧ a) ∧ (k ∨ a))) ∧ (((a ∨ k) ∧ (a ∨ k)) ∨ ((k ∧ a) ∧ (a ∨ a)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, D is False, (((((D ∧ R) ∨ (D ∧ D)) ∨ ((R ∧ R) ∨ (D ∨ D))) ∨ (((R ∨ D) ∧ (R ∨ R)) ∧ ((R ∧ R) ∨ (D ∧ D)))) ∧ ((((R ∨ D) ∧ (D ∧ R)) ∨ ((D ∧ D) ∧ (R ∨ R))) ∧ (((D ∨ R) ∧ (R ∨ R)) ∨ ((R ∨ D) ∧ (D ∨ R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "p is False, v is True, (((((p ∧ v) ∧ (p ∨ p)) ∨ ((v ∨ v) ∨ (v ∨ p))) ∨ (((p ∧ p) ∨ (p ∧ p)) ∨ ((v ∧ p) ∨ (v ∨ p)))) ∨ ((((p ∨ v) ∧ (p ∧ v)) ∧ ((p ∨ v) ∧ (v ∨ v))) ∨ (((p ∧ p) ∧ (p ∧ v)) ∨ ((v ∧ p) ∨ (v ∧ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "C is True, B is False, (((((C ∧ B) ∨ (C ∨ C)) ∨ ((C ∨ B) ∧ (C ∧ B))) ∧ (((B ∨ C) ∨ (B ∧ C)) ∨ ((C ∧ B) ∧ (B ∧ C)))) ∨ ((((B ∨ C) ∨ (B ∧ B)) ∨ ((B ∨ C) ∧ (C ∧ B))) ∨ (((C ∧ B) ∨ (C ∨ C)) ∧ ((B ∧ C) ∧ (C ∧ B)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, Y is False, (((((j ∧ Y) ∨ (Y ∧ Y)) ∧ ((j ∧ j) ∧ (j ∧ Y))) ∧ (((Y ∧ Y) ∨ (j ∨ Y)) ∨ ((Y ∧ j) ∧ (Y ∧ j)))) ∧ ((((Y ∧ j) ∨ (j ∧ Y)) ∧ ((j ∧ Y) ∨ (j ∧ j))) ∧ (((j ∨ Y) ∨ (Y ∧ j)) ∨ ((j ∨ j) ∧ (Y ∨ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is True, J is False, (((((O ∧ J) ∨ (J ∨ J)) ∨ ((J ∨ O) ∨ (O ∧ O))) ∨ (((J ∨ O) ∧ (J ∧ J)) ∨ ((J ∧ O) ∨ (O ∨ O)))) ∧ ((((O ∧ J) ∧ (O ∨ J)) ∨ ((O ∧ O) ∧ (J ∨ O))) ∧ (((O ∧ J) ∨ (O ∧ O)) ∨ ((J ∨ J) ∨ (O ∨ O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, z is False, (((((d ∨ z) ∨ (z ∧ d)) ∨ ((d ∧ z) ∧ (z ∨ d))) ∨ (((d ∨ d) ∧ (z ∨ d)) ∨ ((d ∨ d) ∨ (z ∧ z)))) ∨ ((((d ∧ z) ∧ (z ∨ z)) ∨ ((z ∧ z) ∧ (z ∨ z))) ∧ (((d ∧ d) ∨ (z ∨ d)) ∨ ((z ∧ z) ∨ (z ∨ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, v is False, (((((v ∧ j) ∨ (v ∧ j)) ∨ ((v ∧ j) ∧ (j ∧ v))) ∧ (((v ∧ v) ∨ (j ∨ v)) ∧ ((v ∨ v) ∧ (j ∨ j)))) ∨ ((((j ∧ v) ∨ (v ∨ j)) ∧ ((v ∧ j) ∨ (j ∨ v))) ∨ (((j ∨ j) ∧ (j ∨ v)) ∨ ((j ∧ j) ∨ (v ∧ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is False, a is True, (((((G ∨ a) ∧ (G ∧ G)) ∧ ((G ∨ a) ∨ (G ∧ G))) ∨ (((G ∨ a) ∨ (G ∨ G)) ∨ ((a ∧ G) ∧ (a ∨ G)))) ∧ ((((a ∨ G) ∧ (G ∨ a)) ∨ ((G ∧ a) ∨ (G ∨ a))) ∧ (((a ∧ G) ∧ (G ∨ a)) ∧ ((a ∧ a) ∨ (a ∨ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, v is True, (((((v ∧ w) ∨ (v ∧ v)) ∨ ((w ∧ w) ∧ (v ∧ w))) ∧ (((w ∨ w) ∨ (v ∨ w)) ∨ ((w ∨ v) ∧ (w ∧ w)))) ∨ ((((w ∧ w) ∨ (v ∨ w)) ∨ ((w ∧ v) ∨ (w ∨ w))) ∧ (((w ∨ v) ∨ (v ∧ v)) ∨ ((w ∧ w) ∧ (w ∨ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is True, B is False, (((((n ∧ B) ∧ (n ∨ B)) ∨ ((B ∧ n) ∨ (B ∨ B))) ∧ (((B ∨ B) ∧ (n ∨ n)) ∧ ((B ∧ n) ∨ (n ∧ B)))) ∨ ((((B ∨ B) ∨ (n ∧ B)) ∧ ((n ∧ n) ∧ (B ∧ B))) ∧ (((B ∨ n) ∧ (B ∧ n)) ∨ ((n ∧ n) ∧ (B ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, o is False, (((((o ∨ D) ∧ (D ∧ o)) ∨ ((D ∨ D) ∨ (D ∧ o))) ∧ (((o ∧ o) ∨ (D ∧ o)) ∨ ((D ∧ D) ∧ (D ∨ D)))) ∧ ((((o ∧ o) ∧ (D ∧ D)) ∧ ((D ∧ D) ∨ (D ∨ o))) ∨ (((o ∨ D) ∧ (o ∨ D)) ∨ ((D ∨ o) ∧ (o ∨ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is True, z is False, (((((Z ∨ z) ∧ (Z ∧ Z)) ∧ ((z ∧ Z) ∨ (Z ∨ z))) ∧ (((Z ∨ Z) ∨ (Z ∧ z)) ∨ ((z ∨ z) ∧ (z ∨ z)))) ∨ ((((z ∧ z) ∨ (z ∧ Z)) ∧ ((Z ∨ Z) ∧ (Z ∧ z))) ∧ (((Z ∨ z) ∧ (z ∧ z)) ∧ ((Z ∧ z) ∨ (z ∨ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, Y is False, (((((k ∨ Y) ∨ (k ∧ Y)) ∨ ((k ∧ k) ∧ (k ∨ k))) ∨ (((Y ∧ k) ∧ (k ∧ Y)) ∧ ((Y ∨ Y) ∨ (Y ∧ k)))) ∨ ((((Y ∨ k) ∧ (k ∨ k)) ∧ ((k ∧ k) ∨ (Y ∧ k))) ∨ (((Y ∨ Y) ∨ (Y ∧ Y)) ∧ ((Y ∧ k) ∨ (k ∨ k)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is False, y is True, (((((y ∧ z) ∨ (y ∨ y)) ∨ ((y ∧ y) ∧ (y ∧ z))) ∨ (((y ∧ z) ∧ (y ∧ z)) ∨ ((y ∨ z) ∧ (y ∧ y)))) ∨ ((((z ∨ z) ∧ (z ∧ y)) ∧ ((y ∨ y) ∧ (z ∧ y))) ∨ (((z ∧ z) ∨ (z ∧ y)) ∨ ((z ∧ z) ∧ (y ∨ y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, k is False, (((((k ∨ l) ∧ (l ∧ k)) ∧ ((l ∧ k) ∧ (k ∧ k))) ∨ (((k ∨ l) ∧ (k ∧ l)) ∨ ((k ∧ k) ∨ (k ∨ k)))) ∨ ((((l ∨ l) ∨ (l ∨ k)) ∨ ((l ∧ k) ∧ (l ∧ k))) ∧ (((l ∧ l) ∨ (k ∧ k)) ∨ ((k ∧ l) ∧ (l ∨ l)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is False, J is True, (((((J ∨ N) ∧ (J ∨ N)) ∨ ((J ∧ J) ∨ (J ∨ J))) ∨ (((J ∨ N) ∧ (J ∨ J)) ∨ ((N ∨ J) ∧ (N ∧ N)))) ∨ ((((N ∨ N) ∨ (N ∧ N)) ∨ ((J ∧ N) ∨ (N ∨ J))) ∧ (((N ∨ N) ∨ (J ∨ J)) ∧ ((N ∨ N) ∨ (N ∧ N)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is False, U is True, (((((U ∧ f) ∧ (f ∧ U)) ∧ ((f ∨ U) ∨ (f ∧ f))) ∨ (((U ∧ U) ∨ (f ∧ U)) ∧ ((U ∨ f) ∧ (U ∨ U)))) ∧ ((((f ∧ U) ∧ (U ∨ f)) ∧ ((U ∧ f) ∧ (f ∧ f))) ∨ (((f ∨ U) ∧ (f ∧ f)) ∨ ((U ∨ U) ∨ (U ∧ U)))))",
+        "cls": "1"
+    },
+    {
+        "text": "C is True, x is False, (((((C ∧ x) ∨ (C ∨ C)) ∨ ((C ∨ C) ∧ (x ∨ x))) ∧ (((C ∧ x) ∨ (x ∧ x)) ∧ ((C ∨ C) ∧ (x ∨ C)))) ∨ ((((x ∨ C) ∨ (C ∧ x)) ∧ ((C ∨ x) ∨ (C ∨ x))) ∨ (((C ∧ x) ∧ (x ∧ C)) ∧ ((x ∧ x) ∧ (x ∨ C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is True, K is False, (((((q ∧ K) ∨ (K ∨ q)) ∨ ((q ∧ K) ∧ (K ∧ K))) ∧ (((q ∨ K) ∧ (K ∧ K)) ∧ ((q ∨ q) ∧ (K ∧ K)))) ∧ ((((q ∧ K) ∨ (K ∨ K)) ∨ ((q ∨ K) ∨ (K ∧ K))) ∧ (((K ∨ K) ∨ (K ∧ K)) ∨ ((q ∧ q) ∧ (K ∧ K)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, p is True, (((((I ∧ p) ∨ (p ∧ p)) ∧ ((p ∧ I) ∨ (p ∨ p))) ∧ (((I ∨ p) ∨ (p ∧ p)) ∨ ((p ∨ p) ∧ (p ∨ I)))) ∧ ((((p ∨ p) ∨ (I ∧ p)) ∨ ((p ∧ I) ∨ (I ∧ I))) ∧ (((I ∨ I) ∧ (I ∧ p)) ∨ ((I ∧ p) ∧ (p ∧ p)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, G is True, (((((G ∨ t) ∧ (G ∧ t)) ∧ ((t ∧ t) ∧ (t ∧ t))) ∧ (((G ∧ t) ∧ (t ∧ t)) ∨ ((t ∧ G) ∧ (G ∨ G)))) ∧ ((((t ∧ G) ∧ (t ∧ G)) ∧ ((G ∧ t) ∧ (G ∧ t))) ∨ (((t ∨ t) ∨ (t ∨ t)) ∨ ((G ∧ t) ∨ (t ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, B is False, (((((B ∨ k) ∧ (B ∧ B)) ∧ ((B ∨ B) ∧ (k ∧ k))) ∧ (((k ∧ B) ∧ (B ∨ B)) ∨ ((B ∧ k) ∨ (B ∧ k)))) ∨ ((((B ∨ B) ∨ (B ∨ B)) ∨ ((k ∨ B) ∧ (B ∧ k))) ∧ (((B ∨ B) ∧ (k ∧ k)) ∧ ((B ∧ k) ∨ (B ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "A is True, v is False, (((((A ∧ v) ∨ (v ∨ A)) ∨ ((A ∨ v) ∧ (A ∨ v))) ∨ (((A ∧ A) ∨ (A ∨ A)) ∨ ((A ∨ A) ∨ (v ∧ v)))) ∨ ((((A ∧ A) ∨ (A ∧ v)) ∧ ((A ∧ A) ∧ (A ∧ A))) ∨ (((A ∧ A) ∨ (v ∧ v)) ∧ ((v ∧ A) ∨ (A ∧ A)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, s is False, (((((j ∧ s) ∧ (s ∨ j)) ∧ ((s ∨ j) ∨ (s ∨ j))) ∧ (((j ∨ j) ∨ (s ∧ s)) ∧ ((s ∨ j) ∧ (j ∧ s)))) ∧ ((((s ∧ j) ∨ (j ∧ s)) ∧ ((j ∨ s) ∧ (j ∨ s))) ∧ (((j ∧ s) ∧ (j ∨ s)) ∨ ((j ∧ s) ∧ (j ∨ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, g is True, (((((g ∧ L) ∧ (L ∧ L)) ∨ ((L ∧ g) ∨ (g ∨ g))) ∨ (((L ∧ L) ∧ (g ∧ L)) ∨ ((g ∨ g) ∨ (L ∨ g)))) ∧ ((((g ∨ L) ∨ (L ∧ g)) ∧ ((L ∨ L) ∨ (L ∧ L))) ∨ (((g ∧ g) ∧ (L ∧ g)) ∧ ((g ∧ L) ∨ (L ∧ g)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is True, u is False, (((((o ∧ u) ∨ (o ∧ o)) ∧ ((o ∨ o) ∧ (o ∧ u))) ∨ (((u ∧ o) ∨ (o ∨ o)) ∧ ((u ∧ o) ∨ (u ∧ u)))) ∧ ((((u ∨ o) ∧ (o ∧ o)) ∧ ((u ∧ u) ∧ (o ∨ o))) ∧ (((u ∧ u) ∨ (o ∨ o)) ∨ ((o ∧ o) ∨ (u ∨ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "z is True, w is False, (((((z ∨ w) ∧ (z ∧ w)) ∧ ((z ∨ z) ∧ (z ∧ z))) ∨ (((w ∧ z) ∧ (z ∨ z)) ∨ ((z ∨ z) ∨ (z ∧ w)))) ∨ ((((w ∨ z) ∨ (w ∧ z)) ∧ ((w ∧ z) ∧ (z ∨ z))) ∧ (((z ∨ z) ∨ (w ∨ w)) ∨ ((w ∨ z) ∨ (z ∧ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, I is True, (((((q ∧ I) ∨ (q ∧ I)) ∧ ((I ∧ q) ∨ (q ∨ q))) ∧ (((I ∨ I) ∨ (I ∧ q)) ∧ ((q ∨ q) ∧ (I ∧ q)))) ∧ ((((I ∨ I) ∧ (I ∧ I)) ∨ ((I ∧ q) ∧ (I ∧ I))) ∨ (((q ∨ I) ∧ (q ∧ q)) ∧ ((q ∨ I) ∨ (I ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, i is False, (((((R ∨ i) ∨ (i ∧ R)) ∨ ((i ∧ R) ∨ (i ∨ R))) ∧ (((i ∨ i) ∨ (R ∨ R)) ∨ ((i ∧ R) ∧ (i ∨ R)))) ∨ ((((i ∧ i) ∧ (R ∨ R)) ∧ ((R ∨ i) ∨ (R ∨ i))) ∧ (((i ∧ R) ∧ (i ∧ R)) ∧ ((i ∨ R) ∨ (i ∨ R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is True, v is False, (((((v ∨ G) ∨ (G ∨ G)) ∧ ((G ∨ v) ∧ (G ∨ v))) ∧ (((v ∧ v) ∨ (G ∧ v)) ∨ ((v ∧ G) ∧ (G ∧ v)))) ∨ ((((G ∧ v) ∧ (v ∧ G)) ∨ ((v ∨ v) ∨ (v ∨ v))) ∧ (((v ∧ v) ∨ (v ∧ G)) ∨ ((G ∨ G) ∧ (G ∧ v)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, J is False, (((((J ∨ D) ∨ (D ∧ D)) ∨ ((J ∨ D) ∧ (D ∨ J))) ∨ (((J ∧ D) ∧ (D ∨ D)) ∨ ((J ∨ J) ∧ (D ∨ J)))) ∨ ((((J ∧ J) ∧ (D ∨ J)) ∧ ((D ∨ J) ∧ (J ∧ D))) ∧ (((D ∧ D) ∨ (D ∧ J)) ∧ ((D ∨ J) ∨ (D ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is False, C is True, (((((a ∧ C) ∧ (a ∨ a)) ∧ ((C ∧ C) ∨ (a ∨ a))) ∧ (((C ∧ C) ∧ (a ∧ C)) ∧ ((C ∧ C) ∧ (C ∨ a)))) ∧ ((((C ∧ a) ∨ (a ∨ C)) ∧ ((a ∨ a) ∧ (C ∨ a))) ∧ (((a ∧ C) ∨ (a ∨ C)) ∨ ((a ∨ a) ∧ (C ∨ C)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is False, P is True, (((((P ∨ d) ∨ (P ∧ P)) ∨ ((d ∨ P) ∧ (P ∨ P))) ∨ (((d ∨ d) ∧ (d ∨ P)) ∨ ((P ∨ d) ∨ (d ∨ P)))) ∧ ((((P ∧ P) ∨ (P ∧ P)) ∧ ((d ∧ P) ∧ (d ∧ P))) ∨ (((P ∨ P) ∨ (P ∧ d)) ∧ ((d ∧ d) ∨ (P ∨ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is False, p is True, (((((p ∨ v) ∨ (v ∨ p)) ∨ ((p ∧ v) ∧ (p ∨ p))) ∧ (((p ∧ p) ∧ (v ∨ v)) ∨ ((p ∧ p) ∧ (v ∨ p)))) ∨ ((((p ∨ v) ∧ (p ∧ v)) ∨ ((v ∨ p) ∨ (v ∨ p))) ∨ (((p ∧ v) ∧ (p ∧ p)) ∧ ((p ∧ p) ∨ (v ∧ v)))))",
+        "cls": "1"
+    },
+    {
+        "text": "T is False, I is True, (((((I ∨ T) ∨ (T ∨ I)) ∧ ((I ∧ I) ∧ (I ∧ T))) ∨ (((T ∨ I) ∧ (I ∨ I)) ∧ ((I ∨ T) ∨ (I ∨ T)))) ∨ ((((T ∨ T) ∧ (I ∧ I)) ∧ ((I ∨ I) ∨ (T ∧ I))) ∧ (((I ∨ I) ∧ (I ∨ T)) ∨ ((T ∧ T) ∧ (I ∧ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, L is True, (((((L ∧ I) ∨ (I ∧ I)) ∨ ((L ∨ I) ∨ (I ∨ I))) ∨ (((I ∧ L) ∨ (L ∧ I)) ∧ ((I ∨ L) ∨ (I ∨ L)))) ∧ ((((I ∧ L) ∧ (L ∧ L)) ∧ ((L ∧ L) ∧ (L ∨ L))) ∧ (((I ∨ L) ∧ (L ∨ I)) ∧ ((L ∨ I) ∧ (L ∨ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, Z is True, (((((Z ∨ F) ∧ (Z ∨ F)) ∧ ((Z ∨ Z) ∨ (F ∨ F))) ∧ (((Z ∨ Z) ∨ (F ∨ F)) ∨ ((F ∧ F) ∧ (F ∧ F)))) ∧ ((((Z ∨ Z) ∨ (F ∨ F)) ∧ ((Z ∧ F) ∧ (F ∧ F))) ∨ (((F ∨ Z) ∨ (Z ∧ F)) ∨ ((F ∨ F) ∨ (Z ∧ F)))))",
+        "cls": "1"
+    },
+    {
+        "text": "d is True, m is False, (((((d ∨ m) ∨ (d ∨ d)) ∧ ((m ∨ m) ∨ (m ∨ m))) ∧ (((m ∨ m) ∧ (m ∨ d)) ∨ ((d ∨ d) ∧ (m ∧ m)))) ∧ ((((m ∨ d) ∧ (d ∧ m)) ∧ ((d ∧ d) ∨ (d ∨ d))) ∨ (((d ∨ m) ∧ (m ∨ m)) ∧ ((d ∨ m) ∧ (m ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "M is True, J is False, (((((J ∧ M) ∨ (M ∨ J)) ∨ ((M ∨ M) ∧ (J ∧ M))) ∧ (((M ∧ M) ∨ (J ∧ J)) ∨ ((M ∨ M) ∨ (J ∧ J)))) ∨ ((((M ∧ J) ∨ (M ∧ M)) ∨ ((M ∨ J) ∨ (M ∧ J))) ∨ (((J ∨ J) ∨ (M ∧ J)) ∨ ((M ∧ M) ∨ (M ∧ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, V is False, (((((k ∨ V) ∨ (V ∧ k)) ∧ ((V ∧ k) ∧ (k ∨ k))) ∨ (((V ∨ k) ∧ (V ∧ V)) ∨ ((k ∧ k) ∧ (V ∧ k)))) ∨ ((((V ∧ V) ∧ (k ∧ V)) ∧ ((V ∧ V) ∨ (k ∨ V))) ∨ (((V ∧ V) ∨ (V ∧ V)) ∨ ((V ∨ V) ∨ (k ∨ V)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, n is True, (((((n ∨ l) ∨ (n ∨ l)) ∨ ((l ∧ l) ∨ (l ∧ n))) ∧ (((n ∧ l) ∧ (l ∨ n)) ∧ ((n ∨ l) ∨ (n ∧ n)))) ∧ ((((l ∧ n) ∨ (l ∧ l)) ∧ ((l ∨ l) ∨ (l ∨ n))) ∨ (((l ∨ n) ∨ (l ∧ n)) ∧ ((l ∧ l) ∨ (l ∧ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "a is True, D is False, (((((D ∨ a) ∨ (D ∧ a)) ∧ ((a ∧ D) ∧ (a ∨ a))) ∨ (((a ∧ a) ∨ (D ∨ a)) ∧ ((a ∨ a) ∧ (D ∧ D)))) ∧ ((((D ∨ D) ∧ (a ∨ D)) ∨ ((D ∨ D) ∨ (a ∧ D))) ∧ (((a ∧ D) ∨ (a ∧ D)) ∧ ((D ∧ D) ∨ (D ∧ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, Q is True, (((((h ∨ Q) ∧ (h ∨ h)) ∨ ((h ∧ Q) ∨ (h ∨ h))) ∨ (((Q ∨ Q) ∧ (h ∧ h)) ∨ ((h ∨ Q) ∧ (h ∨ h)))) ∧ ((((h ∨ Q) ∨ (h ∨ h)) ∧ ((h ∨ h) ∨ (Q ∨ Q))) ∧ (((Q ∨ Q) ∧ (h ∧ Q)) ∧ ((Q ∧ Q) ∧ (Q ∧ Q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, p is True, (((((I ∧ p) ∨ (I ∧ p)) ∧ ((I ∧ p) ∨ (p ∨ I))) ∨ (((p ∨ I) ∧ (p ∨ I)) ∧ ((I ∧ p) ∨ (I ∧ p)))) ∧ ((((p ∧ p) ∨ (I ∨ p)) ∨ ((p ∧ I) ∧ (I ∨ I))) ∧ (((p ∨ I) ∨ (I ∧ I)) ∧ ((p ∧ p) ∨ (p ∧ p)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, P is True, (((((P ∧ c) ∧ (c ∨ P)) ∨ ((c ∨ P) ∧ (P ∧ c))) ∧ (((P ∨ P) ∧ (c ∨ c)) ∨ ((c ∧ P) ∧ (c ∨ c)))) ∨ ((((c ∨ c) ∧ (P ∧ P)) ∧ ((c ∨ P) ∨ (c ∨ c))) ∨ (((c ∨ P) ∧ (P ∨ c)) ∨ ((c ∧ P) ∧ (P ∧ P)))))",
+        "cls": "1"
+    },
+    {
+        "text": "D is True, b is False, (((((b ∨ D) ∨ (b ∨ D)) ∧ ((b ∧ D) ∧ (D ∧ D))) ∧ (((D ∨ b) ∧ (b ∧ b)) ∧ ((D ∧ b) ∨ (b ∨ b)))) ∧ ((((D ∨ b) ∧ (D ∧ D)) ∨ ((b ∨ b) ∧ (b ∨ b))) ∧ (((b ∨ D) ∨ (D ∨ D)) ∨ ((b ∨ D) ∨ (b ∨ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, g is True, (((((g ∧ I) ∧ (I ∨ g)) ∧ ((g ∧ I) ∧ (I ∧ g))) ∧ (((g ∨ g) ∨ (g ∧ I)) ∨ ((I ∧ I) ∨ (I ∧ I)))) ∧ ((((g ∧ g) ∨ (I ∧ g)) ∧ ((I ∨ g) ∧ (I ∨ I))) ∨ (((I ∧ I) ∨ (g ∨ I)) ∨ ((g ∧ I) ∨ (I ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is False, I is True, (((((I ∧ i) ∧ (I ∧ I)) ∧ ((I ∧ I) ∧ (I ∧ I))) ∨ (((I ∧ i) ∨ (I ∨ I)) ∧ ((I ∨ i) ∧ (i ∧ i)))) ∧ ((((i ∧ i) ∧ (I ∧ I)) ∨ ((i ∨ I) ∨ (I ∨ I))) ∨ (((I ∨ i) ∧ (I ∨ I)) ∨ ((I ∨ I) ∨ (i ∧ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "c is False, s is True, (((((s ∨ c) ∨ (c ∧ c)) ∧ ((c ∧ c) ∧ (s ∧ s))) ∧ (((c ∨ c) ∨ (s ∨ s)) ∧ ((c ∨ s) ∨ (c ∧ c)))) ∧ ((((s ∨ s) ∨ (c ∨ s)) ∨ ((c ∨ s) ∧ (c ∨ c))) ∧ (((s ∨ c) ∨ (c ∧ s)) ∧ ((s ∧ c) ∨ (c ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is False, o is True, (((((f ∨ o) ∧ (o ∨ o)) ∨ ((o ∨ f) ∧ (f ∨ f))) ∧ (((f ∨ f) ∨ (f ∨ f)) ∧ ((f ∨ o) ∧ (f ∨ f)))) ∨ ((((o ∨ o) ∨ (o ∨ f)) ∧ ((o ∧ o) ∨ (f ∧ f))) ∨ (((o ∧ f) ∨ (o ∧ o)) ∧ ((o ∨ o) ∨ (o ∨ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, J is False, (((((J ∧ B) ∨ (B ∧ B)) ∧ ((B ∨ J) ∨ (J ∨ J))) ∧ (((J ∨ B) ∨ (J ∨ J)) ∧ ((J ∧ B) ∨ (J ∧ J)))) ∧ ((((J ∧ B) ∨ (J ∧ J)) ∧ ((J ∨ J) ∨ (B ∧ J))) ∧ (((J ∨ B) ∧ (B ∨ B)) ∧ ((B ∧ J) ∧ (B ∧ J)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is False, Z is True, (((((r ∧ Z) ∨ (r ∨ r)) ∧ ((Z ∧ r) ∧ (r ∨ r))) ∨ (((r ∧ Z) ∧ (r ∨ Z)) ∧ ((r ∧ r) ∧ (r ∨ Z)))) ∧ ((((Z ∨ Z) ∧ (Z ∧ r)) ∨ ((Z ∧ Z) ∧ (Z ∧ r))) ∨ (((Z ∨ r) ∨ (Z ∧ r)) ∧ ((r ∨ r) ∨ (Z ∧ Z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, V is False, (((((H ∨ V) ∨ (H ∧ H)) ∨ ((V ∨ V) ∨ (V ∧ V))) ∨ (((H ∨ V) ∧ (V ∧ H)) ∨ ((H ∨ H) ∧ (H ∨ H)))) ∧ ((((V ∨ V) ∧ (H ∨ V)) ∧ ((V ∧ H) ∨ (H ∧ V))) ∧ (((H ∨ V) ∨ (H ∨ V)) ∨ ((H ∧ V) ∧ (V ∨ V)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is True, Q is False, (((((Q ∧ i) ∨ (i ∨ i)) ∧ ((i ∧ i) ∧ (i ∧ i))) ∧ (((Q ∨ Q) ∧ (i ∧ Q)) ∨ ((Q ∧ Q) ∧ (Q ∨ Q)))) ∨ ((((Q ∨ i) ∧ (Q ∧ i)) ∧ ((i ∧ Q) ∨ (i ∧ Q))) ∧ (((Q ∧ Q) ∨ (i ∨ i)) ∧ ((Q ∨ i) ∨ (i ∨ i)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, G is True, (((((h ∨ G) ∨ (h ∧ h)) ∧ ((G ∧ h) ∧ (h ∧ G))) ∧ (((G ∧ h) ∨ (h ∨ G)) ∧ ((G ∧ G) ∧ (G ∧ h)))) ∧ ((((h ∨ h) ∧ (G ∨ h)) ∧ ((G ∨ h) ∨ (h ∧ G))) ∧ (((h ∧ G) ∨ (G ∧ G)) ∧ ((G ∨ G) ∧ (h ∧ h)))))",
+        "cls": "0"
+    },
+    {
+        "text": "W is False, w is True, (((((w ∧ W) ∨ (W ∧ W)) ∧ ((W ∨ W) ∨ (W ∧ w))) ∨ (((W ∨ w) ∨ (w ∨ w)) ∧ ((W ∨ W) ∨ (W ∨ W)))) ∨ ((((W ∨ w) ∨ (w ∧ w)) ∨ ((W ∧ W) ∨ (w ∧ w))) ∨ (((w ∨ w) ∨ (W ∨ w)) ∧ ((W ∧ w) ∨ (w ∨ W)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, d is True, (((((d ∨ l) ∨ (l ∧ d)) ∧ ((l ∧ d) ∧ (l ∧ l))) ∨ (((d ∨ l) ∨ (d ∨ d)) ∧ ((d ∧ l) ∧ (d ∧ d)))) ∨ ((((d ∧ d) ∧ (d ∧ l)) ∧ ((d ∧ l) ∨ (d ∧ d))) ∨ (((d ∧ d) ∧ (d ∧ d)) ∧ ((d ∧ d) ∧ (d ∨ d)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, B is False, (((((B ∧ o) ∧ (o ∨ B)) ∨ ((B ∧ B) ∨ (o ∨ o))) ∨ (((B ∧ B) ∧ (B ∧ o)) ∧ ((B ∨ B) ∧ (B ∧ o)))) ∨ ((((B ∨ B) ∧ (o ∧ o)) ∨ ((o ∨ o) ∧ (B ∧ o))) ∨ (((o ∧ B) ∧ (o ∧ o)) ∨ ((o ∨ o) ∧ (B ∧ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "r is True, X is False, (((((r ∧ X) ∨ (X ∧ X)) ∧ ((X ∧ X) ∨ (X ∨ X))) ∧ (((r ∧ X) ∧ (X ∨ X)) ∨ ((X ∨ r) ∧ (X ∨ r)))) ∧ ((((X ∧ X) ∨ (X ∨ X)) ∧ ((r ∧ X) ∧ (r ∨ r))) ∨ (((X ∧ X) ∧ (X ∨ X)) ∨ ((X ∧ X) ∧ (r ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is False, m is True, (((((f ∨ m) ∨ (m ∧ f)) ∧ ((f ∨ m) ∨ (f ∨ f))) ∨ (((m ∧ m) ∨ (m ∨ f)) ∧ ((f ∨ f) ∨ (m ∧ m)))) ∨ ((((f ∨ f) ∧ (m ∧ m)) ∨ ((m ∧ f) ∨ (m ∨ m))) ∨ (((f ∧ f) ∧ (f ∧ f)) ∧ ((f ∨ m) ∧ (m ∨ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is True, M is False, (((((M ∧ G) ∨ (G ∧ M)) ∨ ((G ∧ M) ∨ (G ∧ G))) ∨ (((G ∨ M) ∨ (G ∧ M)) ∧ ((G ∧ G) ∨ (M ∧ G)))) ∨ ((((G ∨ M) ∧ (M ∧ G)) ∨ ((M ∧ M) ∧ (M ∧ G))) ∧ (((M ∧ M) ∧ (M ∨ M)) ∨ ((G ∧ M) ∨ (M ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "G is True, J is False, (((((J ∨ G) ∧ (G ∧ G)) ∧ ((J ∨ J) ∨ (G ∨ G))) ∨ (((J ∨ G) ∧ (G ∨ J)) ∧ ((G ∧ G) ∨ (G ∧ G)))) ∨ ((((G ∧ G) ∨ (J ∨ G)) ∧ ((G ∧ J) ∨ (G ∨ G))) ∨ (((J ∧ G) ∧ (J ∧ G)) ∧ ((J ∧ J) ∨ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, m is True, (((((m ∧ H) ∧ (m ∨ m)) ∧ ((m ∧ H) ∨ (H ∨ H))) ∨ (((H ∧ H) ∧ (m ∧ m)) ∧ ((H ∨ H) ∨ (m ∧ H)))) ∨ ((((H ∧ m) ∨ (H ∧ H)) ∨ ((H ∧ H) ∨ (m ∧ H))) ∨ (((m ∧ H) ∨ (m ∨ H)) ∨ ((H ∨ m) ∨ (m ∧ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "K is True, Z is False, (((((Z ∨ K) ∨ (Z ∧ K)) ∨ ((Z ∨ Z) ∨ (Z ∧ Z))) ∨ (((Z ∨ K) ∧ (K ∧ Z)) ∨ ((K ∨ K) ∧ (K ∧ K)))) ∧ ((((Z ∧ Z) ∨ (K ∧ K)) ∨ ((Z ∧ Z) ∧ (Z ∧ K))) ∧ (((Z ∨ Z) ∨ (Z ∨ K)) ∨ ((K ∨ Z) ∨ (Z ∧ K)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Q is True, s is False, (((((Q ∧ s) ∨ (Q ∨ s)) ∨ ((Q ∧ s) ∨ (s ∨ Q))) ∧ (((s ∧ Q) ∧ (s ∨ s)) ∨ ((Q ∧ Q) ∨ (Q ∨ s)))) ∨ ((((s ∨ Q) ∨ (s ∧ s)) ∧ ((s ∧ Q) ∨ (Q ∨ s))) ∨ (((Q ∨ Q) ∧ (Q ∨ s)) ∧ ((Q ∨ Q) ∨ (s ∧ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "N is False, J is True, (((((J ∧ N) ∧ (N ∧ J)) ∧ ((J ∨ J) ∧ (N ∧ J))) ∨ (((N ∨ J) ∧ (N ∨ N)) ∨ ((N ∧ J) ∨ (N ∧ J)))) ∨ ((((N ∨ J) ∧ (J ∧ N)) ∨ ((N ∨ J) ∨ (N ∨ J))) ∧ (((N ∧ J) ∧ (J ∧ J)) ∨ ((N ∧ N) ∨ (N ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "o is True, A is False, (((((A ∧ o) ∧ (o ∧ A)) ∨ ((o ∧ A) ∨ (A ∧ A))) ∧ (((A ∧ A) ∨ (A ∧ o)) ∨ ((A ∧ o) ∨ (o ∨ o)))) ∧ ((((A ∨ o) ∧ (o ∨ A)) ∨ ((A ∧ o) ∧ (A ∨ o))) ∨ (((A ∧ o) ∨ (A ∨ A)) ∨ ((A ∧ o) ∧ (o ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is True, e is False, (((((e ∧ l) ∧ (e ∧ e)) ∧ ((l ∨ e) ∨ (l ∨ l))) ∧ (((e ∧ e) ∧ (e ∨ e)) ∧ ((e ∧ e) ∨ (l ∧ e)))) ∧ ((((e ∧ l) ∨ (e ∨ e)) ∨ ((e ∧ e) ∧ (e ∨ e))) ∨ (((e ∧ e) ∧ (e ∧ l)) ∧ ((e ∨ e) ∧ (e ∨ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is False, w is True, (((((w ∨ G) ∧ (w ∨ G)) ∧ ((G ∧ G) ∧ (G ∨ G))) ∧ (((w ∨ G) ∧ (G ∧ G)) ∨ ((G ∧ G) ∨ (G ∧ G)))) ∨ ((((w ∧ w) ∧ (G ∧ G)) ∨ ((w ∧ w) ∨ (w ∧ G))) ∨ (((G ∨ G) ∧ (G ∨ G)) ∧ ((w ∨ w) ∨ (G ∨ G)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is True, I is False, (((((t ∧ I) ∧ (I ∧ t)) ∨ ((t ∧ t) ∧ (I ∧ I))) ∨ (((I ∧ I) ∨ (t ∧ I)) ∧ ((t ∧ t) ∨ (t ∧ t)))) ∨ ((((I ∨ I) ∨ (t ∨ I)) ∧ ((I ∨ I) ∧ (t ∨ t))) ∨ (((t ∨ t) ∧ (t ∨ t)) ∨ ((t ∧ t) ∧ (I ∧ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, r is False, (((((A ∨ r) ∧ (A ∧ r)) ∧ ((r ∧ A) ∨ (r ∨ r))) ∧ (((r ∨ r) ∨ (r ∨ r)) ∧ ((r ∨ A) ∧ (A ∨ A)))) ∨ ((((r ∧ A) ∧ (r ∧ A)) ∧ ((A ∧ A) ∨ (A ∨ A))) ∧ (((A ∨ A) ∧ (A ∨ r)) ∨ ((A ∨ r) ∨ (A ∨ r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is True, v is False, (((((v ∧ d) ∧ (v ∧ v)) ∨ ((d ∧ d) ∨ (d ∧ v))) ∧ (((v ∧ d) ∨ (v ∧ v)) ∨ ((v ∧ v) ∧ (v ∨ d)))) ∧ ((((d ∧ d) ∧ (d ∧ d)) ∨ ((d ∨ v) ∧ (v ∧ v))) ∧ (((v ∧ d) ∨ (v ∨ d)) ∨ ((v ∧ v) ∨ (d ∧ d)))))",
+        "cls": "0"
+    },
+    {
+        "text": "i is False, x is True, (((((i ∧ x) ∨ (i ∨ i)) ∧ ((x ∨ x) ∨ (i ∨ x))) ∨ (((i ∨ i) ∧ (i ∨ i)) ∧ ((i ∧ x) ∨ (i ∧ i)))) ∨ ((((i ∨ x) ∧ (i ∧ x)) ∨ ((i ∧ x) ∧ (x ∨ i))) ∧ (((x ∧ x) ∧ (i ∨ x)) ∧ ((x ∨ i) ∧ (i ∨ x)))))",
+        "cls": "0"
+    },
+    {
+        "text": "S is True, O is False, (((((O ∧ S) ∨ (O ∧ O)) ∧ ((S ∨ S) ∧ (S ∨ O))) ∧ (((O ∨ O) ∨ (S ∧ S)) ∨ ((S ∧ S) ∨ (S ∧ O)))) ∧ ((((S ∧ S) ∧ (S ∨ O)) ∨ ((O ∨ S) ∧ (S ∧ S))) ∧ (((S ∨ O) ∧ (O ∧ O)) ∧ ((O ∧ S) ∨ (O ∨ S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is False, c is True, (((((h ∧ c) ∨ (h ∧ h)) ∨ ((c ∧ h) ∧ (h ∧ h))) ∨ (((h ∧ h) ∨ (c ∨ h)) ∧ ((h ∧ h) ∨ (c ∨ h)))) ∧ ((((c ∧ c) ∧ (c ∧ h)) ∨ ((c ∨ h) ∨ (h ∧ c))) ∨ (((h ∨ h) ∨ (c ∨ c)) ∧ ((c ∧ c) ∨ (c ∧ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "A is True, g is False, (((((g ∨ A) ∨ (A ∨ g)) ∧ ((A ∧ g) ∧ (A ∨ g))) ∧ (((A ∧ g) ∨ (g ∨ A)) ∨ ((g ∨ g) ∧ (g ∨ A)))) ∨ ((((A ∧ A) ∨ (A ∧ A)) ∨ ((g ∧ g) ∨ (g ∧ A))) ∧ (((A ∨ A) ∧ (A ∧ A)) ∨ ((g ∨ A) ∧ (A ∨ A)))))",
+        "cls": "1"
+    },
+    {
+        "text": "z is True, t is False, (((((z ∨ t) ∧ (t ∧ t)) ∧ ((z ∧ z) ∨ (t ∧ z))) ∨ (((z ∧ z) ∨ (z ∧ t)) ∧ ((t ∨ t) ∧ (t ∧ z)))) ∨ ((((t ∧ z) ∧ (t ∧ t)) ∧ ((z ∧ z) ∨ (z ∧ z))) ∨ (((t ∧ t) ∨ (t ∨ z)) ∨ ((z ∨ z) ∧ (z ∨ z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Z is False, E is True, (((((Z ∧ E) ∧ (Z ∧ Z)) ∨ ((E ∧ Z) ∨ (E ∧ E))) ∨ (((E ∧ E) ∨ (Z ∧ Z)) ∧ ((E ∧ E) ∨ (E ∨ E)))) ∨ ((((Z ∨ E) ∨ (E ∧ Z)) ∧ ((E ∨ Z) ∨ (Z ∨ E))) ∧ (((E ∨ Z) ∧ (Z ∧ E)) ∧ ((E ∨ E) ∧ (Z ∨ Z)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, T is True, (((((l ∧ T) ∨ (T ∨ l)) ∨ ((l ∨ T) ∧ (T ∧ l))) ∧ (((l ∨ l) ∧ (l ∧ T)) ∧ ((T ∨ T) ∧ (l ∧ l)))) ∧ ((((T ∧ l) ∧ (l ∨ T)) ∨ ((T ∧ T) ∧ (T ∨ l))) ∧ (((T ∧ l) ∧ (l ∧ T)) ∧ ((T ∨ T) ∧ (l ∨ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, A is True, (((((A ∧ R) ∨ (A ∨ R)) ∨ ((R ∨ A) ∧ (R ∨ R))) ∧ (((R ∧ R) ∨ (R ∨ R)) ∧ ((R ∧ A) ∧ (R ∨ A)))) ∨ ((((A ∨ R) ∨ (R ∧ A)) ∨ ((A ∨ A) ∧ (A ∨ R))) ∧ (((R ∨ R) ∨ (A ∨ R)) ∨ ((R ∨ R) ∧ (R ∧ R)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is True, F is False, (((((F ∨ H) ∨ (F ∨ F)) ∧ ((F ∧ F) ∨ (H ∧ F))) ∧ (((H ∧ F) ∨ (F ∨ H)) ∧ ((H ∨ F) ∨ (H ∧ F)))) ∧ ((((F ∧ H) ∨ (H ∧ F)) ∧ ((H ∨ F) ∧ (H ∧ H))) ∧ (((H ∧ H) ∨ (F ∧ F)) ∧ ((H ∨ H) ∨ (H ∨ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "l is False, w is True, (((((w ∧ l) ∧ (w ∧ l)) ∧ ((l ∧ w) ∨ (l ∨ w))) ∧ (((w ∧ w) ∧ (w ∧ l)) ∧ ((w ∨ w) ∧ (l ∧ l)))) ∧ ((((l ∨ w) ∧ (w ∨ w)) ∨ ((l ∧ w) ∧ (w ∨ l))) ∧ (((w ∧ l) ∧ (l ∨ w)) ∧ ((w ∧ l) ∨ (l ∨ w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "h is True, J is False, (((((J ∧ h) ∨ (J ∨ h)) ∧ ((h ∧ h) ∧ (h ∨ J))) ∨ (((J ∧ h) ∧ (h ∨ J)) ∧ ((h ∧ J) ∧ (J ∨ h)))) ∧ ((((h ∧ h) ∧ (h ∨ h)) ∧ ((h ∨ J) ∨ (h ∧ J))) ∨ (((h ∨ J) ∨ (h ∨ J)) ∧ ((h ∧ h) ∧ (J ∧ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is False, X is True, (((((h ∧ X) ∧ (X ∨ X)) ∧ ((h ∨ X) ∧ (h ∨ X))) ∨ (((X ∧ X) ∨ (h ∧ h)) ∧ ((h ∧ X) ∧ (X ∧ X)))) ∨ ((((h ∨ X) ∨ (h ∨ X)) ∨ ((h ∨ h) ∨ (h ∨ X))) ∧ (((X ∧ h) ∨ (X ∨ h)) ∧ ((X ∨ X) ∨ (h ∨ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "k is True, a is False, (((((k ∧ a) ∨ (a ∧ k)) ∧ ((k ∧ a) ∧ (k ∧ a))) ∧ (((k ∨ a) ∧ (k ∧ k)) ∨ ((a ∨ a) ∧ (a ∨ k)))) ∧ ((((a ∨ a) ∧ (k ∧ k)) ∧ ((k ∨ a) ∨ (k ∨ k))) ∧ (((k ∧ a) ∨ (k ∧ a)) ∧ ((k ∧ k) ∧ (k ∧ k)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, u is False, (((((D ∧ u) ∧ (D ∧ u)) ∨ ((u ∧ u) ∨ (D ∨ u))) ∧ (((u ∨ u) ∧ (u ∨ u)) ∨ ((u ∨ u) ∨ (u ∨ u)))) ∧ ((((D ∧ D) ∧ (u ∨ u)) ∧ ((D ∧ D) ∨ (D ∨ u))) ∧ (((u ∧ u) ∨ (u ∧ u)) ∧ ((u ∨ D) ∧ (D ∨ u)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Q is True, a is False, (((((a ∨ Q) ∧ (Q ∨ Q)) ∨ ((a ∧ Q) ∨ (Q ∧ a))) ∨ (((a ∧ a) ∨ (Q ∨ a)) ∧ ((Q ∨ Q) ∨ (Q ∨ Q)))) ∧ ((((a ∨ Q) ∧ (Q ∨ Q)) ∧ ((Q ∨ a) ∧ (Q ∨ a))) ∨ (((a ∧ a) ∨ (a ∨ a)) ∧ ((Q ∧ a) ∧ (Q ∧ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "Q is True, M is False, (((((M ∨ Q) ∧ (Q ∧ M)) ∧ ((M ∨ M) ∨ (M ∨ Q))) ∨ (((Q ∨ M) ∨ (M ∨ M)) ∨ ((M ∨ M) ∨ (Q ∨ Q)))) ∨ ((((M ∧ Q) ∨ (Q ∨ Q)) ∨ ((Q ∧ Q) ∨ (M ∧ M))) ∨ (((M ∨ Q) ∨ (M ∧ M)) ∧ ((Q ∧ Q) ∧ (Q ∨ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "v is True, J is False, (((((v ∧ J) ∧ (J ∨ J)) ∨ ((J ∨ J) ∧ (v ∨ J))) ∨ (((v ∧ J) ∨ (J ∧ J)) ∧ ((J ∨ J) ∧ (v ∨ v)))) ∨ ((((J ∧ v) ∧ (v ∧ J)) ∨ ((v ∧ v) ∧ (v ∧ J))) ∨ (((J ∧ J) ∨ (v ∨ v)) ∧ ((v ∧ v) ∨ (J ∨ J)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, L is False, (((((f ∨ L) ∧ (L ∨ L)) ∨ ((f ∨ L) ∧ (f ∨ f))) ∨ (((f ∧ L) ∨ (f ∧ f)) ∨ ((f ∧ f) ∨ (L ∧ f)))) ∧ ((((L ∨ L) ∨ (L ∧ L)) ∧ ((L ∧ L) ∧ (L ∨ f))) ∧ (((f ∨ L) ∧ (L ∨ f)) ∧ ((f ∧ f) ∧ (f ∨ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is False, v is True, (((((t ∧ v) ∨ (v ∧ t)) ∧ ((v ∨ v) ∨ (v ∨ v))) ∨ (((t ∨ v) ∧ (t ∨ v)) ∧ ((v ∨ v) ∨ (t ∧ v)))) ∧ ((((v ∧ v) ∧ (t ∧ t)) ∨ ((t ∨ t) ∨ (v ∧ t))) ∧ (((v ∨ v) ∨ (t ∨ t)) ∧ ((t ∧ v) ∧ (v ∨ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, Y is False, (((((e ∨ Y) ∧ (e ∧ Y)) ∧ ((Y ∧ Y) ∧ (Y ∧ Y))) ∧ (((Y ∧ e) ∧ (Y ∨ Y)) ∨ ((Y ∧ Y) ∧ (Y ∧ e)))) ∧ ((((e ∧ e) ∨ (Y ∨ e)) ∨ ((e ∨ e) ∨ (e ∧ Y))) ∨ (((Y ∧ e) ∧ (e ∨ e)) ∧ ((e ∧ e) ∨ (e ∧ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Y is True, Q is False, (((((Q ∨ Y) ∧ (Q ∧ Q)) ∧ ((Y ∨ Y) ∨ (Y ∧ Q))) ∨ (((Y ∨ Q) ∧ (Y ∨ Q)) ∧ ((Y ∨ Y) ∨ (Q ∧ Q)))) ∨ ((((Q ∨ Q) ∨ (Y ∧ Y)) ∨ ((Y ∧ Y) ∨ (Q ∨ Q))) ∨ (((Q ∨ Y) ∨ (Q ∨ Q)) ∧ ((Y ∧ Y) ∨ (Q ∨ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, p is False, (((((f ∨ p) ∨ (f ∧ f)) ∧ ((f ∨ p) ∧ (p ∧ p))) ∧ (((p ∧ f) ∧ (p ∧ f)) ∧ ((p ∧ p) ∧ (f ∨ f)))) ∨ ((((f ∨ f) ∧ (p ∧ p)) ∨ ((p ∧ p) ∨ (p ∧ f))) ∨ (((p ∨ p) ∨ (p ∧ f)) ∧ ((p ∧ f) ∨ (p ∨ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "S is False, Y is True, (((((S ∨ Y) ∧ (S ∨ S)) ∨ ((S ∨ Y) ∨ (Y ∨ Y))) ∧ (((S ∧ Y) ∨ (S ∧ Y)) ∧ ((S ∧ S) ∨ (Y ∧ Y)))) ∨ ((((Y ∧ S) ∧ (Y ∧ S)) ∧ ((Y ∨ S) ∧ (Y ∨ S))) ∧ (((Y ∧ S) ∨ (S ∧ S)) ∧ ((Y ∨ S) ∧ (Y ∨ Y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "g is True, u is False, (((((g ∨ u) ∧ (u ∧ g)) ∨ ((g ∧ u) ∧ (u ∧ u))) ∧ (((g ∧ u) ∧ (g ∨ g)) ∧ ((u ∨ g) ∧ (u ∨ u)))) ∨ ((((g ∨ u) ∨ (g ∧ g)) ∨ ((g ∨ u) ∧ (u ∧ g))) ∨ (((g ∨ u) ∨ (g ∧ g)) ∧ ((g ∨ g) ∧ (u ∧ g)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is True, z is False, (((((z ∨ c) ∧ (z ∨ c)) ∧ ((c ∨ c) ∨ (c ∨ c))) ∧ (((c ∧ z) ∧ (z ∧ z)) ∨ ((z ∨ z) ∨ (c ∨ z)))) ∨ ((((z ∧ z) ∧ (z ∧ z)) ∨ ((c ∧ z) ∨ (z ∧ z))) ∧ (((c ∨ z) ∨ (z ∨ z)) ∧ ((z ∨ c) ∧ (z ∨ c)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, m is False, (((((m ∧ f) ∧ (m ∧ m)) ∧ ((m ∨ f) ∧ (f ∨ m))) ∧ (((m ∧ m) ∧ (m ∧ m)) ∨ ((m ∨ m) ∨ (m ∧ f)))) ∨ ((((f ∨ f) ∨ (m ∧ f)) ∨ ((m ∨ f) ∨ (f ∧ f))) ∧ (((m ∧ f) ∧ (m ∧ m)) ∨ ((m ∨ m) ∨ (m ∨ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, z is False, (((((z ∨ e) ∧ (e ∧ e)) ∨ ((e ∨ z) ∧ (e ∧ e))) ∨ (((e ∧ e) ∧ (z ∧ e)) ∧ ((e ∧ z) ∧ (z ∨ z)))) ∧ ((((z ∨ e) ∨ (e ∨ e)) ∨ ((z ∨ e) ∨ (e ∧ e))) ∧ (((z ∧ e) ∧ (e ∨ z)) ∧ ((e ∨ z) ∨ (e ∧ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, M is False, (((((e ∨ M) ∧ (M ∧ M)) ∧ ((M ∧ M) ∨ (M ∨ M))) ∨ (((e ∧ e) ∧ (e ∧ e)) ∨ ((M ∧ e) ∧ (e ∧ e)))) ∧ ((((M ∧ M) ∧ (M ∨ e)) ∧ ((e ∨ e) ∨ (M ∧ M))) ∧ (((M ∧ e) ∧ (M ∧ e)) ∨ ((e ∨ M) ∧ (M ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is True, z is False, (((((r ∨ z) ∨ (z ∧ r)) ∧ ((r ∧ z) ∧ (r ∨ z))) ∨ (((r ∨ z) ∨ (z ∨ r)) ∧ ((z ∨ z) ∧ (z ∧ z)))) ∧ ((((r ∧ z) ∨ (r ∨ z)) ∨ ((r ∨ r) ∧ (z ∧ r))) ∧ (((z ∧ r) ∧ (z ∧ z)) ∧ ((r ∧ r) ∨ (r ∨ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is True, o is False, (((((o ∨ G) ∨ (o ∧ G)) ∨ ((o ∨ o) ∨ (o ∧ o))) ∧ (((G ∧ G) ∨ (o ∧ o)) ∨ ((o ∨ G) ∧ (G ∨ G)))) ∧ ((((o ∨ o) ∨ (o ∨ G)) ∧ ((o ∧ o) ∧ (o ∧ G))) ∧ (((o ∨ o) ∧ (G ∧ G)) ∨ ((G ∧ G) ∧ (G ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is True, B is False, (((((F ∧ B) ∧ (F ∧ B)) ∧ ((B ∨ F) ∧ (B ∧ F))) ∧ (((B ∧ B) ∧ (F ∧ F)) ∨ ((B ∨ B) ∧ (B ∨ B)))) ∧ ((((B ∧ F) ∨ (F ∧ F)) ∨ ((F ∨ B) ∨ (F ∧ B))) ∨ (((F ∧ F) ∧ (B ∧ B)) ∧ ((B ∧ F) ∧ (B ∧ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is True, Q is False, (((((H ∧ Q) ∨ (Q ∧ Q)) ∧ ((Q ∨ Q) ∨ (H ∨ Q))) ∨ (((H ∧ H) ∨ (Q ∨ H)) ∧ ((H ∧ Q) ∨ (Q ∧ Q)))) ∨ ((((Q ∧ Q) ∨ (H ∧ H)) ∧ ((H ∨ H) ∨ (H ∧ Q))) ∨ (((Q ∨ Q) ∧ (Q ∨ H)) ∧ ((H ∧ H) ∧ (Q ∨ Q)))))",
+        "cls": "1"
+    },
+    {
+        "text": "f is True, m is False, (((((f ∧ m) ∨ (m ∧ f)) ∨ ((m ∨ m) ∧ (m ∨ m))) ∨ (((f ∨ f) ∨ (f ∧ m)) ∧ ((m ∧ m) ∨ (m ∧ m)))) ∧ ((((m ∧ m) ∧ (m ∧ m)) ∧ ((f ∨ f) ∧ (m ∨ f))) ∨ (((f ∧ f) ∨ (f ∨ f)) ∧ ((m ∨ f) ∧ (f ∨ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "v is False, L is True, (((((L ∨ v) ∧ (L ∧ v)) ∧ ((v ∨ v) ∨ (v ∨ v))) ∨ (((L ∨ L) ∧ (v ∧ v)) ∨ ((L ∨ L) ∧ (L ∨ L)))) ∧ ((((v ∨ L) ∧ (v ∨ v)) ∧ ((L ∨ v) ∨ (L ∨ L))) ∨ (((L ∧ L) ∨ (v ∨ L)) ∧ ((L ∨ v) ∨ (L ∧ L)))))",
+        "cls": "1"
+    },
+    {
+        "text": "S is False, p is True, (((((p ∨ S) ∧ (S ∨ p)) ∧ ((p ∨ p) ∨ (S ∨ p))) ∧ (((p ∧ p) ∧ (p ∨ p)) ∨ ((p ∨ p) ∧ (p ∧ p)))) ∨ ((((p ∨ p) ∨ (S ∧ S)) ∧ ((S ∧ S) ∨ (p ∨ S))) ∨ (((p ∧ p) ∨ (S ∧ p)) ∨ ((S ∧ p) ∨ (S ∧ S)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, w is True, (((((n ∧ w) ∨ (n ∧ w)) ∧ ((n ∧ w) ∧ (n ∧ n))) ∧ (((n ∨ w) ∧ (n ∨ n)) ∧ ((n ∧ n) ∨ (w ∧ w)))) ∨ ((((w ∨ w) ∨ (w ∨ w)) ∧ ((n ∨ n) ∧ (n ∧ n))) ∧ (((n ∧ w) ∧ (w ∨ w)) ∨ ((n ∨ n) ∧ (w ∧ w)))))",
+        "cls": "0"
+    },
+    {
+        "text": "T is False, C is True, (((((T ∧ C) ∧ (T ∧ C)) ∨ ((C ∨ C) ∧ (T ∧ T))) ∨ (((C ∧ C) ∨ (T ∧ T)) ∧ ((C ∨ C) ∧ (C ∧ T)))) ∧ ((((C ∨ C) ∧ (C ∧ T)) ∨ ((T ∨ C) ∨ (C ∨ C))) ∧ (((T ∧ T) ∧ (T ∨ T)) ∧ ((C ∨ C) ∧ (T ∨ T)))))",
+        "cls": "0"
+    },
+    {
+        "text": "d is False, y is True, (((((y ∧ d) ∧ (y ∧ y)) ∧ ((d ∨ d) ∨ (y ∧ d))) ∧ (((y ∨ y) ∨ (d ∧ y)) ∧ ((y ∧ y) ∧ (d ∧ y)))) ∨ ((((d ∨ y) ∨ (d ∨ d)) ∨ ((d ∨ d) ∨ (d ∧ d))) ∨ (((y ∧ d) ∨ (y ∧ y)) ∨ ((d ∨ d) ∨ (d ∨ d)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is True, T is False, (((((T ∧ n) ∨ (T ∨ T)) ∧ ((T ∨ T) ∨ (T ∨ n))) ∧ (((T ∧ n) ∨ (n ∧ T)) ∧ ((n ∧ T) ∨ (T ∨ T)))) ∨ ((((T ∨ n) ∧ (n ∧ T)) ∨ ((T ∧ n) ∨ (T ∧ T))) ∨ (((n ∧ T) ∧ (n ∧ n)) ∧ ((T ∨ n) ∨ (n ∨ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, u is False, (((((e ∧ u) ∧ (e ∨ e)) ∨ ((e ∧ e) ∨ (u ∧ u))) ∨ (((u ∨ e) ∨ (u ∧ e)) ∧ ((e ∨ u) ∨ (u ∨ u)))) ∧ ((((u ∨ e) ∧ (e ∧ u)) ∨ ((u ∧ u) ∧ (e ∧ u))) ∨ (((u ∨ e) ∨ (e ∧ e)) ∨ ((u ∧ e) ∧ (u ∧ e)))))",
+        "cls": "1"
+    },
+    {
+        "text": "n is False, T is True, (((((T ∧ n) ∨ (n ∨ n)) ∨ ((n ∧ T) ∨ (n ∧ n))) ∧ (((n ∧ n) ∨ (T ∨ T)) ∨ ((T ∨ T) ∧ (T ∧ n)))) ∨ ((((n ∨ n) ∧ (n ∧ T)) ∨ ((n ∧ T) ∨ (n ∧ n))) ∨ (((n ∧ T) ∧ (n ∧ n)) ∧ ((n ∨ T) ∧ (T ∨ n)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, Y is False, (((((Y ∧ N) ∧ (Y ∧ N)) ∨ ((Y ∧ N) ∧ (Y ∧ Y))) ∧ (((Y ∧ N) ∧ (Y ∨ N)) ∧ ((N ∧ Y) ∨ (N ∨ N)))) ∧ ((((Y ∧ N) ∧ (Y ∨ N)) ∨ ((N ∧ N) ∨ (Y ∨ N))) ∨ (((Y ∨ Y) ∧ (Y ∧ Y)) ∧ ((N ∧ N) ∨ (N ∨ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is False, y is True, (((((y ∧ D) ∧ (y ∧ y)) ∨ ((D ∨ D) ∧ (D ∨ D))) ∧ (((D ∧ D) ∨ (D ∨ y)) ∧ ((D ∨ y) ∨ (y ∧ y)))) ∧ ((((D ∨ D) ∨ (y ∧ y)) ∧ ((y ∧ D) ∧ (D ∨ D))) ∧ (((y ∨ D) ∨ (D ∨ D)) ∨ ((y ∨ y) ∧ (y ∨ D)))))",
+        "cls": "0"
+    },
+    {
+        "text": "O is False, W is True, (((((W ∨ O) ∨ (W ∧ O)) ∧ ((O ∧ W) ∨ (O ∨ W))) ∧ (((O ∨ O) ∨ (W ∨ O)) ∨ ((O ∧ W) ∨ (O ∧ W)))) ∧ ((((W ∨ O) ∨ (W ∧ O)) ∨ ((W ∨ W) ∧ (W ∧ W))) ∧ (((O ∧ W) ∧ (W ∧ O)) ∨ ((W ∨ O) ∧ (W ∨ O)))))",
+        "cls": "1"
+    },
+    {
+        "text": "t is True, H is False, (((((t ∨ H) ∧ (t ∨ H)) ∨ ((t ∨ t) ∧ (t ∨ H))) ∧ (((H ∧ t) ∧ (H ∨ H)) ∧ ((t ∧ H) ∧ (H ∨ H)))) ∨ ((((H ∨ H) ∧ (H ∧ H)) ∨ ((t ∨ t) ∧ (t ∨ H))) ∨ (((H ∧ H) ∨ (t ∨ H)) ∧ ((H ∨ H) ∨ (t ∨ H)))))",
+        "cls": "1"
+    },
+    {
+        "text": "J is False, s is True, (((((s ∧ J) ∨ (J ∧ J)) ∧ ((s ∧ s) ∨ (J ∧ s))) ∧ (((s ∧ J) ∨ (s ∧ J)) ∨ ((s ∨ s) ∧ (s ∧ J)))) ∧ ((((J ∨ s) ∨ (J ∨ s)) ∧ ((s ∨ s) ∨ (J ∨ J))) ∧ (((s ∧ J) ∨ (s ∨ s)) ∨ ((J ∨ J) ∨ (J ∧ s)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is True, Y is False, (((((Y ∧ o) ∧ (Y ∨ Y)) ∨ ((o ∧ o) ∧ (Y ∧ o))) ∨ (((o ∨ Y) ∧ (o ∧ Y)) ∧ ((Y ∧ o) ∧ (Y ∨ Y)))) ∨ ((((o ∧ o) ∧ (o ∨ o)) ∨ ((Y ∧ Y) ∧ (Y ∨ o))) ∨ (((o ∨ o) ∨ (Y ∨ o)) ∨ ((Y ∧ o) ∨ (o ∨ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "B is True, E is False, (((((E ∨ B) ∨ (E ∧ B)) ∨ ((B ∨ E) ∧ (B ∨ E))) ∧ (((B ∧ B) ∧ (B ∧ E)) ∧ ((B ∧ E) ∨ (B ∨ B)))) ∧ ((((B ∨ B) ∨ (B ∧ E)) ∨ ((B ∨ E) ∨ (B ∨ E))) ∧ (((E ∧ B) ∨ (B ∨ E)) ∧ ((B ∨ B) ∨ (E ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is False, p is True, (((((G ∧ p) ∨ (p ∨ G)) ∧ ((G ∧ p) ∧ (G ∨ p))) ∨ (((p ∨ p) ∨ (G ∨ G)) ∧ ((p ∨ G) ∨ (G ∧ G)))) ∧ ((((p ∨ G) ∧ (p ∨ G)) ∧ ((G ∨ G) ∨ (p ∨ G))) ∧ (((G ∨ G) ∧ (G ∨ p)) ∨ ((p ∧ p) ∧ (G ∨ p)))))",
+        "cls": "1"
+    },
+    {
+        "text": "p is False, C is True, (((((C ∨ p) ∧ (C ∧ C)) ∨ ((C ∨ C) ∨ (p ∧ C))) ∨ (((C ∧ p) ∧ (C ∨ p)) ∧ ((p ∨ p) ∧ (p ∨ C)))) ∨ ((((p ∨ C) ∧ (C ∨ p)) ∨ ((C ∨ p) ∧ (C ∨ p))) ∨ (((p ∧ p) ∨ (p ∧ C)) ∨ ((p ∧ C) ∨ (p ∨ C)))))",
+        "cls": "1"
+    },
+    {
+        "text": "h is True, X is False, (((((X ∧ h) ∨ (X ∧ h)) ∧ ((X ∨ h) ∧ (h ∧ h))) ∨ (((h ∨ X) ∨ (h ∨ X)) ∨ ((X ∧ X) ∨ (h ∧ X)))) ∧ ((((h ∨ X) ∨ (X ∨ h)) ∧ ((h ∨ h) ∨ (X ∨ h))) ∨ (((X ∧ X) ∨ (X ∨ X)) ∧ ((h ∧ h) ∨ (h ∨ h)))))",
+        "cls": "1"
+    },
+    {
+        "text": "j is True, r is False, (((((j ∨ r) ∨ (j ∧ r)) ∨ ((j ∧ j) ∨ (r ∧ r))) ∧ (((j ∨ j) ∨ (r ∧ j)) ∧ ((r ∨ r) ∨ (r ∨ j)))) ∨ ((((r ∧ j) ∧ (j ∧ r)) ∧ ((r ∧ j) ∧ (j ∧ j))) ∨ (((j ∧ j) ∨ (r ∧ j)) ∧ ((r ∨ j) ∨ (r ∨ j)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is False, c is True, (((((c ∨ l) ∧ (l ∧ l)) ∨ ((c ∧ l) ∨ (l ∨ l))) ∧ (((l ∨ l) ∧ (c ∧ c)) ∨ ((l ∧ c) ∨ (c ∧ c)))) ∨ ((((l ∧ l) ∧ (c ∧ l)) ∨ ((l ∧ l) ∨ (l ∧ c))) ∧ (((l ∧ l) ∧ (l ∧ l)) ∨ ((l ∨ c) ∧ (l ∨ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is True, M is False, (((((M ∧ R) ∨ (M ∧ R)) ∧ ((M ∨ M) ∨ (R ∨ R))) ∨ (((M ∧ R) ∧ (M ∧ R)) ∧ ((M ∨ M) ∨ (R ∨ M)))) ∨ ((((R ∨ M) ∧ (M ∧ M)) ∨ ((R ∨ R) ∧ (R ∨ R))) ∨ (((R ∨ M) ∨ (M ∨ R)) ∨ ((M ∧ R) ∨ (R ∨ M)))))",
+        "cls": "1"
+    },
+    {
+        "text": "q is False, h is True, (((((q ∧ h) ∨ (h ∨ q)) ∨ ((h ∨ q) ∨ (h ∧ h))) ∧ (((h ∧ q) ∧ (q ∨ q)) ∨ ((q ∧ h) ∧ (h ∧ q)))) ∧ ((((h ∧ h) ∨ (h ∧ q)) ∧ ((h ∨ h) ∧ (q ∧ h))) ∧ (((q ∧ h) ∧ (h ∧ q)) ∨ ((h ∨ h) ∧ (q ∧ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, T is True, (((((T ∨ w) ∨ (w ∧ w)) ∨ ((w ∧ w) ∨ (w ∨ w))) ∧ (((w ∨ T) ∧ (T ∧ T)) ∨ ((w ∧ T) ∧ (w ∨ T)))) ∨ ((((w ∧ w) ∨ (w ∨ T)) ∧ ((w ∧ T) ∨ (T ∨ w))) ∨ (((w ∧ w) ∧ (w ∧ w)) ∧ ((w ∨ w) ∧ (w ∨ T)))))",
+        "cls": "1"
+    },
+    {
+        "text": "i is True, z is False, (((((i ∨ z) ∨ (i ∧ z)) ∨ ((i ∨ z) ∧ (i ∨ z))) ∧ (((i ∨ i) ∨ (z ∧ z)) ∧ ((z ∨ i) ∨ (z ∧ i)))) ∧ ((((i ∨ i) ∧ (i ∧ z)) ∨ ((i ∧ i) ∨ (z ∧ z))) ∧ (((z ∨ i) ∧ (z ∧ z)) ∧ ((z ∨ z) ∧ (z ∧ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, Q is False, (((((w ∧ Q) ∧ (w ∨ Q)) ∨ ((w ∧ w) ∨ (Q ∨ Q))) ∨ (((Q ∨ w) ∨ (w ∧ Q)) ∧ ((Q ∨ Q) ∧ (Q ∧ Q)))) ∧ ((((Q ∨ Q) ∨ (w ∨ w)) ∧ ((Q ∧ w) ∨ (Q ∧ w))) ∧ (((Q ∨ w) ∨ (Q ∨ Q)) ∨ ((w ∧ Q) ∨ (Q ∨ Q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "R is False, z is True, (((((R ∧ z) ∨ (R ∧ z)) ∧ ((z ∧ R) ∧ (R ∨ R))) ∧ (((z ∨ R) ∧ (z ∧ R)) ∧ ((R ∧ z) ∧ (z ∧ z)))) ∧ ((((R ∨ z) ∨ (z ∨ R)) ∨ ((R ∨ z) ∨ (R ∧ R))) ∧ (((R ∧ R) ∧ (R ∧ R)) ∧ ((z ∨ z) ∧ (R ∧ z)))))",
+        "cls": "0"
+    },
+    {
+        "text": "D is True, Y is False, (((((Y ∨ D) ∧ (Y ∨ D)) ∨ ((D ∨ D) ∧ (D ∨ D))) ∧ (((Y ∨ Y) ∧ (Y ∧ D)) ∨ ((D ∨ Y) ∧ (D ∧ D)))) ∨ ((((D ∨ Y) ∨ (D ∨ D)) ∧ ((Y ∧ D) ∧ (D ∨ D))) ∨ (((D ∨ D) ∧ (D ∨ Y)) ∧ ((Y ∧ D) ∨ (Y ∧ Y)))))",
+        "cls": "1"
+    },
+    {
+        "text": "I is False, r is True, (((((r ∨ I) ∧ (I ∧ I)) ∨ ((I ∨ I) ∨ (I ∧ r))) ∧ (((r ∧ I) ∧ (r ∧ r)) ∨ ((I ∨ I) ∧ (r ∧ I)))) ∨ ((((r ∨ I) ∨ (I ∨ I)) ∧ ((r ∧ r) ∨ (r ∨ I))) ∨ (((I ∨ r) ∧ (I ∨ I)) ∧ ((r ∧ r) ∧ (I ∧ I)))))",
+        "cls": "1"
+    },
+    {
+        "text": "a is False, y is True, (((((a ∨ y) ∨ (y ∧ a)) ∨ ((a ∧ a) ∧ (a ∨ a))) ∨ (((y ∨ a) ∧ (a ∧ y)) ∨ ((a ∨ y) ∧ (a ∧ y)))) ∨ ((((a ∨ a) ∧ (a ∨ a)) ∨ ((a ∨ a) ∨ (a ∧ y))) ∧ (((a ∧ a) ∧ (y ∧ a)) ∧ ((y ∧ y) ∧ (a ∨ a)))))",
+        "cls": "1"
+    },
+    {
+        "text": "e is True, B is False, (((((e ∧ B) ∨ (B ∨ B)) ∨ ((B ∨ e) ∧ (B ∨ B))) ∧ (((B ∧ e) ∧ (e ∧ e)) ∨ ((B ∨ e) ∧ (e ∨ B)))) ∧ ((((B ∨ e) ∨ (B ∨ B)) ∨ ((B ∧ e) ∧ (e ∨ B))) ∨ (((B ∨ B) ∨ (e ∨ e)) ∨ ((e ∧ e) ∧ (B ∨ B)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Q is True, s is False, (((((Q ∨ s) ∧ (s ∨ Q)) ∨ ((s ∨ s) ∧ (Q ∧ s))) ∨ (((s ∧ s) ∧ (Q ∨ s)) ∧ ((Q ∧ Q) ∨ (s ∨ Q)))) ∧ ((((s ∧ s) ∨ (Q ∨ Q)) ∨ ((s ∨ s) ∨ (s ∧ Q))) ∨ (((s ∨ s) ∧ (s ∧ s)) ∧ ((s ∨ Q) ∨ (Q ∧ s)))))",
+        "cls": "1"
+    },
+    {
+        "text": "R is False, S is True, (((((R ∧ S) ∨ (R ∨ S)) ∧ ((R ∧ S) ∧ (S ∨ S))) ∨ (((S ∨ R) ∨ (R ∧ S)) ∧ ((R ∧ R) ∧ (R ∧ R)))) ∧ ((((S ∨ R) ∨ (S ∧ S)) ∧ ((S ∨ R) ∨ (S ∨ S))) ∨ (((S ∧ S) ∨ (S ∧ R)) ∨ ((R ∧ S) ∧ (R ∨ R)))))",
+        "cls": "0"
+    },
+    {
+        "text": "r is True, n is False, (((((n ∨ r) ∨ (n ∧ r)) ∧ ((r ∧ n) ∧ (r ∨ r))) ∨ (((r ∧ n) ∧ (r ∨ r)) ∨ ((r ∨ r) ∧ (n ∨ n)))) ∧ ((((n ∨ r) ∨ (r ∨ r)) ∨ ((n ∨ n) ∨ (r ∨ n))) ∨ (((r ∧ n) ∨ (r ∧ n)) ∨ ((n ∨ r) ∨ (r ∧ r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is True, M is False, (((((M ∨ Z) ∨ (Z ∧ Z)) ∧ ((Z ∨ Z) ∧ (M ∧ Z))) ∨ (((Z ∨ M) ∧ (Z ∧ Z)) ∧ ((M ∨ M) ∧ (M ∧ Z)))) ∨ ((((Z ∨ Z) ∨ (M ∧ Z)) ∧ ((M ∨ M) ∨ (Z ∧ M))) ∧ (((Z ∧ M) ∧ (M ∨ M)) ∧ ((Z ∨ Z) ∧ (M ∧ M)))))",
+        "cls": "0"
+    },
+    {
+        "text": "A is True, o is False, (((((o ∧ A) ∧ (A ∨ A)) ∨ ((o ∨ A) ∧ (A ∧ A))) ∨ (((A ∧ A) ∧ (A ∨ o)) ∧ ((o ∧ o) ∨ (A ∧ A)))) ∨ ((((A ∧ o) ∧ (o ∧ A)) ∨ ((o ∧ A) ∨ (o ∨ A))) ∧ (((A ∨ o) ∧ (o ∨ A)) ∧ ((A ∧ o) ∧ (o ∨ o)))))",
+        "cls": "1"
+    },
+    {
+        "text": "l is True, q is False, (((((l ∨ q) ∨ (l ∧ l)) ∧ ((l ∧ q) ∨ (q ∧ l))) ∧ (((q ∧ q) ∨ (q ∧ l)) ∧ ((l ∧ q) ∨ (l ∨ l)))) ∧ ((((l ∧ q) ∨ (q ∧ l)) ∨ ((l ∨ q) ∧ (q ∧ l))) ∨ (((l ∧ l) ∧ (l ∧ q)) ∨ ((l ∧ l) ∨ (q ∧ q)))))",
+        "cls": "0"
+    },
+    {
+        "text": "H is False, l is True, (((((H ∧ l) ∨ (H ∨ l)) ∨ ((l ∨ l) ∨ (l ∧ l))) ∧ (((H ∨ l) ∨ (l ∧ H)) ∧ ((H ∨ H) ∧ (H ∨ H)))) ∧ ((((l ∧ H) ∧ (H ∨ l)) ∨ ((H ∨ H) ∧ (H ∧ l))) ∧ (((H ∧ H) ∧ (l ∨ H)) ∧ ((l ∧ H) ∧ (H ∧ l)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is True, A is False, (((((A ∧ N) ∨ (A ∨ A)) ∧ ((A ∨ N) ∨ (N ∨ N))) ∧ (((A ∧ N) ∧ (N ∨ N)) ∧ ((A ∧ A) ∧ (N ∨ A)))) ∧ ((((A ∧ N) ∧ (A ∧ N)) ∧ ((N ∨ N) ∧ (N ∧ A))) ∧ (((A ∧ A) ∨ (N ∨ N)) ∧ ((A ∧ N) ∨ (A ∨ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "I is False, m is True, (((((m ∧ I) ∨ (m ∧ I)) ∧ ((I ∨ m) ∧ (I ∨ m))) ∨ (((I ∧ m) ∧ (m ∨ m)) ∨ ((I ∧ I) ∧ (m ∨ I)))) ∨ ((((m ∨ I) ∨ (m ∨ m)) ∧ ((I ∧ I) ∧ (m ∧ I))) ∧ (((m ∧ m) ∨ (m ∧ m)) ∧ ((I ∧ m) ∨ (m ∧ I)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, b is True, (((((b ∧ F) ∧ (b ∧ F)) ∨ ((b ∨ F) ∨ (b ∨ F))) ∧ (((b ∨ F) ∨ (b ∨ b)) ∨ ((b ∧ F) ∧ (F ∨ F)))) ∧ ((((F ∧ b) ∧ (b ∧ F)) ∨ ((F ∨ b) ∧ (F ∧ b))) ∧ (((b ∧ F) ∨ (b ∨ b)) ∧ ((b ∨ b) ∧ (b ∨ F)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, w is False, (((((f ∨ w) ∧ (w ∧ w)) ∧ ((f ∨ f) ∧ (w ∨ w))) ∨ (((w ∧ f) ∧ (f ∨ f)) ∨ ((w ∨ w) ∨ (f ∧ f)))) ∧ ((((w ∧ f) ∨ (f ∨ f)) ∧ ((w ∨ f) ∨ (f ∧ w))) ∨ (((w ∨ w) ∨ (w ∨ f)) ∨ ((f ∧ w) ∨ (f ∨ f)))))",
+        "cls": "1"
+    },
+    {
+        "text": "H is False, Y is True, (((((H ∨ Y) ∨ (Y ∧ H)) ∧ ((Y ∧ Y) ∨ (Y ∨ H))) ∨ (((Y ∧ H) ∧ (H ∧ H)) ∨ ((Y ∨ H) ∧ (H ∧ H)))) ∧ ((((H ∧ H) ∧ (H ∧ H)) ∧ ((Y ∧ H) ∨ (Y ∧ Y))) ∧ (((H ∨ H) ∨ (Y ∧ Y)) ∧ ((H ∧ Y) ∨ (H ∧ H)))))",
+        "cls": "0"
+    },
+    {
+        "text": "b is False, I is True, (((((b ∧ I) ∨ (I ∨ I)) ∨ ((I ∧ I) ∧ (b ∧ b))) ∨ (((I ∧ I) ∧ (b ∧ b)) ∧ ((I ∧ b) ∨ (I ∨ I)))) ∨ ((((I ∨ b) ∨ (b ∧ I)) ∨ ((I ∧ I) ∧ (b ∨ b))) ∨ (((I ∧ b) ∧ (I ∧ I)) ∧ ((b ∧ b) ∨ (b ∨ b)))))",
+        "cls": "1"
+    },
+    {
+        "text": "c is False, v is True, (((((v ∧ c) ∧ (c ∨ c)) ∧ ((v ∧ c) ∧ (c ∨ v))) ∧ (((v ∨ c) ∧ (c ∧ c)) ∨ ((v ∨ v) ∧ (v ∧ c)))) ∧ ((((c ∧ v) ∨ (v ∨ c)) ∧ ((c ∧ v) ∧ (c ∨ v))) ∨ (((c ∨ c) ∨ (v ∧ c)) ∧ ((c ∨ c) ∨ (c ∧ c)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is True, B is False, (((((B ∧ t) ∧ (t ∧ t)) ∧ ((B ∨ B) ∨ (B ∨ t))) ∧ (((B ∧ t) ∨ (B ∨ B)) ∧ ((t ∨ B) ∧ (B ∨ B)))) ∧ ((((t ∨ B) ∨ (t ∧ t)) ∨ ((t ∨ t) ∧ (t ∧ t))) ∧ (((t ∨ B) ∨ (B ∨ B)) ∧ ((B ∧ B) ∧ (t ∨ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is True, g is False, (((((g ∨ w) ∨ (g ∧ w)) ∧ ((w ∨ w) ∨ (w ∧ g))) ∨ (((g ∨ w) ∨ (w ∨ g)) ∨ ((g ∨ w) ∧ (g ∧ w)))) ∨ ((((g ∧ w) ∧ (g ∧ g)) ∨ ((g ∧ w) ∨ (w ∧ g))) ∧ (((w ∨ g) ∧ (w ∧ g)) ∨ ((w ∨ g) ∧ (g ∨ w)))))",
+        "cls": "1"
+    },
+    {
+        "text": "O is False, V is True, (((((V ∧ O) ∧ (V ∨ V)) ∨ ((O ∧ O) ∨ (O ∨ O))) ∧ (((O ∧ V) ∧ (O ∧ V)) ∨ ((O ∨ V) ∧ (V ∨ O)))) ∧ ((((O ∨ V) ∨ (O ∧ V)) ∧ ((O ∧ O) ∨ (V ∧ V))) ∧ (((O ∨ V) ∨ (O ∨ O)) ∨ ((V ∧ V) ∧ (V ∧ O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "F is False, S is True, (((((F ∨ S) ∨ (F ∧ S)) ∨ ((S ∨ F) ∨ (F ∨ F))) ∧ (((F ∨ S) ∧ (S ∧ S)) ∨ ((S ∨ F) ∨ (S ∨ S)))) ∧ ((((F ∨ F) ∧ (F ∨ F)) ∨ ((S ∨ S) ∧ (F ∨ F))) ∧ (((S ∨ S) ∧ (F ∧ F)) ∨ ((F ∨ S) ∧ (F ∧ S)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is False, a is True, (((((U ∨ a) ∨ (a ∧ U)) ∨ ((U ∧ U) ∧ (a ∧ a))) ∨ (((U ∨ a) ∨ (U ∧ a)) ∨ ((a ∨ U) ∧ (a ∧ a)))) ∧ ((((a ∨ U) ∧ (a ∧ U)) ∨ ((U ∨ U) ∧ (a ∨ a))) ∧ (((U ∨ U) ∧ (U ∧ U)) ∨ ((U ∧ a) ∨ (U ∨ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "U is True, K is False, (((((U ∧ K) ∧ (U ∨ U)) ∧ ((K ∧ U) ∨ (K ∧ U))) ∧ (((K ∨ K) ∧ (K ∨ U)) ∨ ((K ∧ U) ∨ (U ∨ K)))) ∧ ((((K ∨ U) ∧ (K ∧ U)) ∨ ((U ∨ U) ∨ (U ∧ K))) ∨ (((U ∨ K) ∧ (K ∧ K)) ∨ ((U ∧ K) ∧ (U ∧ U)))))",
+        "cls": "0"
+    },
+    {
+        "text": "e is True, m is False, (((((e ∧ m) ∧ (e ∨ e)) ∨ ((m ∧ m) ∧ (e ∨ m))) ∨ (((m ∧ m) ∨ (m ∨ e)) ∧ ((e ∧ m) ∨ (e ∨ e)))) ∧ ((((m ∨ m) ∧ (m ∨ e)) ∧ ((m ∧ m) ∧ (m ∨ m))) ∧ (((e ∧ m) ∨ (m ∧ e)) ∨ ((e ∧ e) ∧ (m ∨ e)))))",
+        "cls": "0"
+    },
+    {
+        "text": "N is False, V is True, (((((N ∨ V) ∧ (N ∧ N)) ∨ ((V ∧ N) ∧ (N ∧ V))) ∧ (((N ∨ N) ∨ (N ∧ V)) ∧ ((V ∨ N) ∨ (V ∧ V)))) ∧ ((((V ∨ V) ∨ (N ∨ N)) ∧ ((N ∨ N) ∧ (V ∧ V))) ∨ (((N ∧ V) ∧ (N ∨ N)) ∧ ((V ∧ N) ∨ (N ∨ N)))))",
+        "cls": "0"
+    },
+    {
+        "text": "P is False, r is True, (((((P ∧ r) ∨ (r ∧ P)) ∧ ((r ∨ P) ∨ (P ∨ P))) ∧ (((P ∨ r) ∧ (r ∨ P)) ∧ ((P ∧ P) ∨ (r ∧ r)))) ∧ ((((P ∨ r) ∧ (r ∨ r)) ∧ ((r ∧ P) ∨ (r ∨ r))) ∧ (((P ∧ P) ∨ (r ∧ r)) ∨ ((P ∧ P) ∧ (P ∨ r)))))",
+        "cls": "0"
+    },
+    {
+        "text": "G is False, I is True, (((((G ∧ I) ∧ (G ∧ I)) ∧ ((I ∨ I) ∨ (G ∧ I))) ∨ (((G ∧ G) ∧ (I ∨ I)) ∧ ((G ∨ I) ∧ (G ∨ G)))) ∧ ((((I ∨ G) ∧ (G ∧ G)) ∨ ((I ∨ I) ∨ (G ∨ I))) ∧ (((G ∧ I) ∨ (I ∧ G)) ∨ ((G ∨ I) ∨ (I ∧ G)))))",
+        "cls": "0"
+    },
+    {
+        "text": "k is True, j is False, (((((j ∧ k) ∨ (j ∨ k)) ∨ ((k ∨ j) ∧ (j ∨ k))) ∨ (((k ∧ j) ∧ (j ∧ j)) ∧ ((k ∧ k) ∧ (k ∨ k)))) ∧ ((((k ∨ k) ∨ (j ∧ j)) ∧ ((j ∧ k) ∧ (j ∨ j))) ∧ (((j ∨ k) ∧ (k ∧ j)) ∨ ((j ∧ j) ∧ (k ∧ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, O is False, (((((f ∧ O) ∧ (O ∨ f)) ∨ ((O ∨ f) ∧ (f ∧ f))) ∨ (((O ∧ O) ∨ (O ∧ O)) ∧ ((O ∧ O) ∧ (O ∧ f)))) ∧ ((((f ∧ O) ∨ (O ∧ f)) ∧ ((f ∨ O) ∧ (O ∧ f))) ∧ (((f ∧ f) ∨ (f ∨ O)) ∨ ((f ∨ f) ∧ (f ∧ O)))))",
+        "cls": "0"
+    },
+    {
+        "text": "j is False, s is True, (((((j ∧ s) ∨ (s ∧ s)) ∧ ((s ∨ j) ∨ (s ∧ s))) ∧ (((j ∨ s) ∨ (s ∧ j)) ∧ ((j ∧ j) ∧ (s ∨ j)))) ∨ ((((s ∧ s) ∧ (s ∨ j)) ∧ ((j ∧ j) ∧ (j ∧ s))) ∧ (((j ∧ s) ∧ (s ∧ s)) ∨ ((j ∨ j) ∨ (j ∨ j)))))",
+        "cls": "0"
+    },
+    {
+        "text": "t is True, c is False, (((((c ∨ t) ∨ (t ∧ t)) ∨ ((t ∧ t) ∨ (c ∧ c))) ∨ (((c ∧ t) ∧ (t ∧ c)) ∨ ((t ∧ t) ∧ (t ∨ c)))) ∧ ((((t ∧ t) ∨ (t ∨ t)) ∧ ((t ∧ c) ∧ (t ∧ t))) ∧ (((t ∨ c) ∧ (c ∧ t)) ∨ ((t ∨ t) ∧ (t ∧ t)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is True, P is False, (((((P ∧ f) ∨ (P ∨ f)) ∨ ((f ∧ f) ∨ (P ∧ P))) ∧ (((f ∨ f) ∧ (P ∧ f)) ∧ ((f ∨ P) ∨ (f ∧ f)))) ∨ ((((P ∧ P) ∨ (f ∧ f)) ∧ ((f ∧ P) ∨ (P ∨ f))) ∧ (((f ∨ f) ∨ (f ∧ f)) ∧ ((P ∧ P) ∧ (P ∧ f)))))",
+        "cls": "0"
+    },
+    {
+        "text": "L is False, p is True, (((((L ∨ p) ∨ (L ∨ L)) ∨ ((L ∨ p) ∨ (L ∨ p))) ∧ (((p ∧ L) ∨ (L ∨ L)) ∧ ((p ∨ L) ∨ (p ∧ p)))) ∨ ((((L ∧ L) ∨ (L ∧ p)) ∨ ((p ∧ L) ∨ (p ∧ L))) ∧ (((p ∧ p) ∧ (L ∨ L)) ∧ ((L ∧ L) ∧ (p ∨ L)))))",
+        "cls": "0"
+    },
+    {
+        "text": "Z is True, X is False, (((((Z ∨ X) ∨ (X ∧ X)) ∨ ((Z ∨ Z) ∧ (X ∨ X))) ∨ (((Z ∧ X) ∨ (Z ∨ X)) ∧ ((X ∧ X) ∨ (Z ∨ X)))) ∧ ((((X ∨ X) ∨ (Z ∨ X)) ∧ ((Z ∨ Z) ∨ (Z ∨ Z))) ∧ (((Z ∨ Z) ∧ (X ∨ X)) ∧ ((X ∨ Z) ∨ (X ∧ X)))))",
+        "cls": "0"
+    },
+    {
+        "text": "f is False, y is True, (((((y ∧ f) ∨ (f ∨ f)) ∨ ((y ∧ f) ∧ (f ∨ y))) ∨ (((y ∨ y) ∧ (f ∧ f)) ∨ ((y ∨ f) ∧ (y ∧ f)))) ∧ ((((f ∨ y) ∧ (y ∨ f)) ∨ ((f ∨ y) ∨ (y ∨ f))) ∨ (((y ∧ f) ∨ (y ∧ y)) ∨ ((y ∨ f) ∧ (f ∧ y)))))",
+        "cls": "0"
+    },
+    {
+        "text": "o is False, T is True, (((((o ∨ T) ∨ (T ∧ o)) ∧ ((T ∨ T) ∧ (T ∧ T))) ∧ (((o ∨ o) ∧ (T ∨ T)) ∧ ((o ∨ o) ∨ (T ∧ o)))) ∨ ((((T ∧ T) ∧ (T ∨ T)) ∧ ((T ∨ o) ∧ (T ∧ o))) ∧ (((T ∧ T) ∧ (T ∧ T)) ∨ ((o ∨ T) ∧ (T ∧ o)))))",
+        "cls": "0"
+    },
+    {
+        "text": "w is False, i is True, (((((w ∧ i) ∧ (w ∧ i)) ∧ ((w ∨ i) ∧ (w ∨ i))) ∧ (((w ∨ w) ∧ (w ∧ i)) ∨ ((w ∨ i) ∧ (i ∨ w)))) ∧ ((((w ∨ w) ∨ (i ∨ i)) ∧ ((w ∨ w) ∧ (i ∧ i))) ∨ (((i ∧ w) ∨ (w ∧ i)) ∨ ((w ∨ w) ∧ (w ∧ w)))))",
+        "cls": "0"
+    }
+]
