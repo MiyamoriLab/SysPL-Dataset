@@ -6,8 +6,6 @@ This repository contains dataset which used in our research and program to gener
 `data/`.
 `data/train/` is used for training models, and `data/test/` is used for test.
 
-Here's the English version of the documentation:
-
 ## Program file
 `src/`. Program file for building a propositional logic dataset.
 
