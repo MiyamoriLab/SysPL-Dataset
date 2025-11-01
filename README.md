@@ -17,11 +17,11 @@ python src/dataset_creator.py --n <number of data> --depth <formula depth> --ops
 
 ### Arguments
 
-| Argument | Description | Type | Example |
-| :--- | :--- | :--- | :--- |
-| `--n` | Number of data samples to generate. | `int` | |
-| `--depth` | Maximum depth of the logical formulas to generate. | `int` | |
-| `--ops` | Logical operators to use. Select from `and`, `or`, `imply`, `not`, and specify separated by spaces. | `str` | `and or` |
+| Argument | Description | Type | 
+| :--- | :--- | :--- | 
+| `--n` | Number of data samples to generate. | `int` |
+| `--depth` | Maximum depth of the logical formulas to generate. | `int` |
+| `--ops` | Logical operators to use. Select from `and`, `or`, `imply`, `not`, and specify separated by spaces. | `str` | 
 
 ## Usage Example
 ```
