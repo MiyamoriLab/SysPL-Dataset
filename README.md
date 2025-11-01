@@ -1,4 +1,4 @@
-# 「GPT-2 における体系性の分析」 にて使用した命題論理データセット
+# SysPL-Dataset (Systematic Propositional Logic Dataset)
 
 ### 1. dataset
 本研究において使用した命題論理データセット．実験で使用した学習データとテストデータが格納されている．
