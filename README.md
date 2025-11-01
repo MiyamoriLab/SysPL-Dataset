@@ -2,12 +2,11 @@
 This repository contains dataset which used in our research ("Analyzing Systematicity in GPT-2") and a program to generate the data. This dataset is based on the our previous paper「命題論理における言語の構成性に着目した言語モデルの汎化能力の調査」.
 
 
-## Dataset
-`data/`.
+## Dataset `data/`
 `data/train/` is used for training models, and `data/test/` is used for test.
 
-## Program file
-`src/`. Program file for building a propositional logic dataset.
+## Program file `src/`
+Program file for building a propositional logic dataset.
 
 ### Basic Command
 
