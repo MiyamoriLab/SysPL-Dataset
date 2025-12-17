@@ -1,3 +1,5 @@
+[日本語版 README はこちら](https://github.com/MiyamoriLab/SysPL-Dataset/blob/main/README-ja.md)
+
 # SysPL-Dataset (Systematic Propositional Logic Dataset)
 This repository contains dataset which used in our research ("Analyzing Systematicity in GPT-2") and a program to generate the data. This dataset is based on the our previous paper「命題論理における言語の構成性に着目した言語モデルの汎化能力の調査」.
 
