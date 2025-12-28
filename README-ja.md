@@ -30,11 +30,17 @@ python src/dataset_creator.py --n <number of data> --depth <formula depth> --ops
 ```
 python src/dataset_creator.py --n 200 --depth 4 --ops and or
 ```
-### 引用
-本リポジトリに含まれるデータセットまたはコードを研究目的で利用する場合は，以下の論文を引用してください．
+## 引用
+本リポジトリに含まれるデータセットまたはコードを利用する場合は，以下の論文を引用してください．
 ```
-井上 綾介, 宮森 恒:
-「GPT-2における体系性の分析」,
-情報処理学会論文誌データベース (TOD),
-Vol.19, No.1, pp.1–16, 2026.
+@article{Inoue2026SystematicityGPT2,
+  author   = {井上 綾介 and 宮森 恒},
+  title    = {GPT-2における体系性の分析},
+  journal  = {情報処理学会論文誌データベース(TOD)},
+  volume   = {19},
+  number   = {1},
+  pages    = {1--16},
+  year     = {2026},
+  language = {Japanese}
+}
 ```
