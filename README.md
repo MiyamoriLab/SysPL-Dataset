@@ -33,8 +33,8 @@ The following command generates 200 propositional logic expressions with depth 4
 ```
 python src/dataset_creator.py --n 200 --depth 4 --ops and or
 ```
-### How to Cite
-Please cite the following, if you use this dataset.
+## How to Cite
+When using any datasets or code included in this repository, please cite the following paper.
 
 ```
 @article{Inoue2026SystematicityGPT2,
