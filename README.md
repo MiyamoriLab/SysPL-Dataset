@@ -36,7 +36,7 @@ python src/dataset_creator.py --n 200 --depth 4 --ops and or
 ### How to Cite
 Please cite the following, if you use this dataset.
 
-```bibtex
+```
 @article{Inoue2026SystematicityGPT2,
   author  = {Ryosuke Inoue and Hisashi Miyamori},
   title   = {Analyzing Systematicity in GPT-2},
@@ -47,3 +47,4 @@ Please cite the following, if you use this dataset.
   year    = {2026},
   language = {Japanese}
 }
+```
