@@ -3,7 +3,7 @@
 # SysPL-Dataset (Systematic Propositional Logic Dataset)
 This repository contains the data used in "Analyzing Systematicity in GPT-2" and the programs for data creation.
 
-The SysPL-Dataset is a dataset for investigating the systematicity of language models in symbolic reasoning, proposed in the paper "命題論理における言語の構成性に着目した言語モデルの汎化能力の調査". Specifically, it is a dataset designed to investigate whether the basic propositional logic inference ability that a language model acquires during training can be applied to more complex propositions.
+The SysPL-Dataset is a dataset for investigating the systematicity of language models in symbolic reasoning, proposed in the paper "Analyzing Systematicity in GPT-2" (in Japanese). Specifically, it is a dataset designed to investigate whether the basic propositional logic inference ability that a language model acquires during training can be applied to more complex propositions.
 
 
 
@@ -29,7 +29,21 @@ python src/dataset_creator.py --n <number of data> --depth <formula depth> --ops
 | `--ops` | Logical operators to use. Select from `and`, `or`, `imply`, `not`, and specify separated by spaces. | `str` | 
 
 ## Usage Example
-The next command is an usage example. The command outputs 200 propositional expressions with depth 4 using "and (∧)", and "or (∨)" operations 
+The following command generates 200 propositional logic expressions with depth 4 using the logical operators "and (∧)" and "or (∨)".
 ```
 python src/dataset_creator.py --n 200 --depth 4 --ops and or
 ```
+### How to Cite
+Please cite the following, if you use this dataset.
+
+```bibtex
+@article{Inoue2026SystematicityGPT2,
+  author  = {Ryosuke Inoue and Hisashi Miyamori},
+  title   = {Analyzing Systematicity in GPT-2},
+  journal = {IPSJ Transactions on Database},
+  volume  = {19},
+  number  = {1},
+  pages   = {1--16},
+  year    = {2026},
+  language = {Japanese}
+}
